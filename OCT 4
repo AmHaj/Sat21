@@ -1,4 +1,158 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD TV (RJ)
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD TV 2 (RJ)
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b4738048.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD TV (MG)
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C9cabc5d6d4c4528b05ff7eff45ebc6fb%3Bbase64np%3BI5WRb1PVXkWl2lk%21/amlst%3AI5Vpdk6eW0S6mtXB/chunklist_b832512.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD TV (SP)
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2145729003_b216000_sleng.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w750845129.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE MASSA (SBT)
+http://stmv6.srvstm.com/gilson7193/gilson7193/playlist.m3u8?wowzasessionid=1874811727
+#EXTINF:-1 group-title="CANAIS ABERTOS", BAND
+https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w9512583518.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", BAND (2)
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", BAND (3)
+https://evpp.mm.uol.com.br/bandpracas/bandtv_pp/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w434091474.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE TV RS
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/chunklist_w370550150.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE TV RS 2
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD NEWS
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD NEWS 2
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w705315891.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD NEWS (MA)
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w792415746.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", CINE+
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w1253552178.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV ARACATI
+https://5c64355d4b57c.streamlock.net:1936/8364/8364/chunklist_w1940814926.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV CARIOCA NET
+https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w873806451.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV PANTANAL (MS)
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w2072336047.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV A CRITICA
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV CULTURA (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+#EXTINF:-1 group-title="MUSICA", TOP TV
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1933981626.m3u8
+#EXTINF:-1 group-title="MUSICA", 1HD MUSIC TELEVISION
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FILMES", LN TV (Filmes 24h)
+https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w1082510289.m3u8
+#EXTINF:-1 group-title="ESPORTES", ALL SPORTS
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1837229040.m3u8
+#EXTINF:-1 group-title="ESPORTES", REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="VARIEDADES", MARICÁ TV
+https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/chunklist_w1561151315.m3u8
+#EXTINF:-1 group-title="VARIEDADES", TV CAPITAL 777
+https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/chunklist_w1380243228.m3u8
+#EXTINF:-1 group-title="VARIEDADES", REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/chunklist_w1422976233.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", ISTV
+https://cdn.jmvstream.com/w/oscarito/_definst_/oscarito/chunklist_w128352669.m3u8
+#EXTINF:-1 group-title="MUSICA", TOP LATINO TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE PREMIUM TV
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist_b1667072.m3u8
+#EXTINF:-1 group-title="VARIEDADE", RDC TV
+https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w1362677503_b1000000.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV BRASIL
+https://video-rvd-pe-cdc-gw-2-1.rnp.br/live/ocp(t(Fcp1-SrHOCM)r(TOqkzw)a(qukomQ)p(d(Ujo)k(l0c)m(RaiBj9Rpa-yHOMGppVu3Jw)n(a(knx-Uw)s(X9M)'a(KL6bcg)s(DuI)'a(umxrKA)s(q60)'a(AH4E0w)s(27E)))s(s(byE)b(vhuQAY_XN2JnyJ2qA9W6vH1psH0S0frnXd8MkfY1L0vFd98njxuSP5H0EVUHncYCTwuxtYuQnzNRO-P91g)'s(B8c)b(xUeYJ2wqzBLx8RBDT-NwI00ULwgp_xlHstHY5NQEoKv8Vn5eE5LX1ZphLbzJDRQ8QVBOU5E8Bz62RezfvdJCWa-y8rl-aqCpGLaKo_X5)'s(wmM)b(dKIgKbzb))m(0))/25_index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", FOX NEWS 23
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8#EXTM3U
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD TV (RJ)
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD TV 2 (RJ)
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b4738048.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD TV (MG)
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C9cabc5d6d4c4528b05ff7eff45ebc6fb%3Bbase64np%3BI5WRb1PVXkWl2lk%21/amlst%3AI5Vpdk6eW0S6mtXB/chunklist_b832512.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD TV (SP)
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2145729003_b216000_sleng.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w750845129.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE MASSA (SBT)
+http://stmv6.srvstm.com/gilson7193/gilson7193/playlist.m3u8?wowzasessionid=1874811727
+#EXTINF:-1 group-title="CANAIS ABERTOS", BAND
+https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w9512583518.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", BAND (2)
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", BAND (3)
+https://evpp.mm.uol.com.br/bandpracas/bandtv_pp/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w434091474.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE TV RS
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/chunklist_w370550150.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE TV RS 2
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD NEWS
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD NEWS 2
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w705315891.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD NEWS (MA)
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w792415746.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", CINE+
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w1253552178.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV ARACATI
+https://5c64355d4b57c.streamlock.net:1936/8364/8364/chunklist_w1940814926.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV CARIOCA NET
+https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w873806451.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV PANTANAL (MS)
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w2072336047.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV A CRITICA
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV CULTURA (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+#EXTINF:-1 group-title="MUSICA", TOP TV
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1933981626.m3u8
+#EXTINF:-1 group-title="MUSICA", 1HD MUSIC TELEVISION
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FILMES", LN TV (Filmes 24h)
+https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w1082510289.m3u8
+#EXTINF:-1 group-title="ESPORTES", ALL SPORTS
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1837229040.m3u8
+#EXTINF:-1 group-title="ESPORTES", REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="VARIEDADES", MARICÁ TV
+https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/chunklist_w1561151315.m3u8
+#EXTINF:-1 group-title="VARIEDADES", TV CAPITAL 777
+https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/chunklist_w1380243228.m3u8
+#EXTINF:-1 group-title="VARIEDADES", REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/chunklist_w1422976233.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", ISTV
+https://cdn.jmvstream.com/w/oscarito/_definst_/oscarito/chunklist_w128352669.m3u8
+#EXTINF:-1 group-title="MUSICA", TOP LATINO TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", REDE PREMIUM TV
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist_b1667072.m3u8
+#EXTINF:-1 group-title="VARIEDADE", RDC TV
+https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w1362677503_b1000000.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV BRASIL
+https://video-rvd-pe-cdc-gw-2-1.rnp.br/live/ocp(t(Fcp1-SrHOCM)r(TOqkzw)a(qukomQ)p(d(Ujo)k(l0c)m(RaiBj9Rpa-yHOMGppVu3Jw)n(a(knx-Uw)s(X9M)'a(KL6bcg)s(DuI)'a(umxrKA)s(q60)'a(AH4E0w)s(27E)))s(s(byE)b(vhuQAY_XN2JnyJ2qA9W6vH1psH0S0frnXd8MkfY1L0vFd98njxuSP5H0EVUHncYCTwuxtYuQnzNRO-P91g)'s(B8c)b(xUeYJ2wqzBLx8RBDT-NwI00ULwgp_xlHstHY5NQEoKv8Vn5eE5LX1ZphLbzJDRQ8QVBOU5E8Bz62RezfvdJCWa-y8rl-aqCpGLaKo_X5)'s(wmM)b(dKIgKbzb))m(0))/25_index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", FOX NEWS 23
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2pngFreYv6Hvx8Sq0xkBsHVXoOTurd8si9QEicf0g1sCp14uH" group-title="Canais",A Fazenda 
+http://edge.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_741a573199438bb8be18898097729f548a16257b/playlist.m3u8
+#EXTM3U
 #EXTINF:-1 logo="http://87.175.58.77:9981/imagecache/279" tvg-id="033272d85d56611630e8434e4e9714cf",.
 http://87.175.58.77:9981/stream/channelid/1483878915?ticket=1AC27E819E9A2F7705D33CE8654485F9A30D612E&profile=pass
 #EXTINF:-1 logo="http://87.175.58.77:9981/imagecache/273" tvg-id="4ad6e2fd61a1a671ef9e2e2355cd7afb",.
