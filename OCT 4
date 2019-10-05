@@ -1,5 +1,91 @@
 
-#EXTINF:-1 tvg-ID="" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="AR ARABIC NEWS",CNN INTERNACIONAL
+#EXTM3U
+#EXTINF:-1, quran live HD
+http://m.live.net.sa:1935/live/quran/chunklist_w584523360.m3u8?v=1401470921
+
+#EXTINF:-1,sunnah live HD
+http://m.live.net.sa:1935/live/sunnah/chunklist_w491288436.m3u8?v=1401470921
+
+#EXTINF:-1,iqraa HD
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b320000_t64MjQwcA==.m3u8
+
+#EXTINF:-1,aljazeera arabi HD
+https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index1296.m3u8
+
+#EXTINF:-1,aljazeera-doc HD
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+#EXTINF:-1,alarabiya HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b1400000.m3u8
+
+#EXTINF:-1,alarabiya alhadath HD
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b1400000.m3u8
+
+#EXTINF:-1,canal 24 FR AR live HD
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+
+#EXTINF:-1,RT en Español en directo HD
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:-1,nat_geo HD
+http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8
+
+#EXTINF:-1,NATGEO HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1,bein sports news HD
+http://51.15.108.237/live/beinsportsnews-hq/chunks.m3u8?nimblesessionid=18456476&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE5IDQ6NTQ6MzcgUE0maGFzaF92YWx1ZT1HZ1RRUGpaSFZIa0JwRW0zZjZweWZ3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTgzLjEzNi4xOTEuMjAxJnN0cm1fbGVuPTIy
+
+#EXTINF:-1,bein sports 1 HD
+https://2220.janjua.pw:8088/live/beinsports1aac/playlist.m3u8?id=92620&wowzasessionid=48793256&pk=9552b82f6fdce210a8d58656b67bac2d9a625e14af644d3a1659efeffff75f32
+
+#EXTINF:-1,bein sports 2 HD
+https://2221.janjua.pw:8088/live/beinsports2hbdaz/playlist.m3u8?id=92606&wowzasessionid=30755768&pk=9552b82f6fdce210a8d58656b67bac2d9a625e14af644d3a1659efeffff75f32
+
+#EXTINF:-1,bein sports 3 HD
+https://2220.janjua.pw:8088/live/beinsports3habne/playlist.m3u8?id=92341&wowzasessionid=3987219985&pk=9552b82f6fdce210a8d58656b67bac2d9a625e14af644d3a1659efeffff75f32
+
+#EXTINF:-1,bein sports 4 HD
+https://2203.janjua.pw:8088/live/beinsports4hbaddd/playlist.m3u8?id=92021&wowzasessionid=7882129070&pk=9552b82f6fdce210a8d58656b67bac2d9a625e14af644d3a1659efeffff75f32
+
+#EXTINF:-1,bein sports 5 HD
+https://2223.janjua.pw:8088/live/stream_bein5az/playlist.m3u8?id=89760&wowzasessionid=3411410376&pk=9552b82f6fdce210a8d58656b67bac2d9a625e14af644d3a1659efeffff75f32
+
+#EXTINF:-1,bein sports 6 HD
+https://2207.janjua.pw:8088/live/beino6sij/playlist.m3u8?id=89696&wowzasessionid=7335501063&pk=9552b82f6fdce210a8d58656b67bac2d9a625e14af644d3a1659efeffff75f32
+
+#EXTINF:-1,bein sports 7 HD
+https://2203.janjua.pw:8088/live/beinsporgts7/playlist.m3u8?id=92621&wowzasessionid=083045022&pk=9552b82f6fdce210a8d58656b67bac2d9a625e14af644d3a1659efeffff75f32
+
+#EXTINF:-1,bein sports 8 HD
+https://2221.janjua.pw:8088/live/beinsporgts7a/playlist.m3u8?id=92668&wowzasessionid=3469205537&pk=9552b82f6fdce210a8d58656b67bac2d9a625e14af644d3a1659efeffff75f32
+
+#EXTINF:-1,bein sports 9 HD
+https://2203.janjua.pw:8088/live/bensports9/playlist.m3u8?id=91975&wowzasessionid=3314633868&pk=9552b82f6fdce210a8d58656b67bac2d9a625e14af644d3a1659efeffff75f32
+
+#EXTINF:-1,bein sports 10 HD
+ https://2214.janjua.pw:8088/live/beinsports10hdaz/playlist.m3u8?id=89761&wowzasessionid=15379628&pk=9552b82f6fdce210a8d58656b67bac2d9a625e14af644d3a1659efeffff75f32
+
+#EXTINF:-1,bein sports 11 HD
+https://e5.cdn4.us/ingest01/53634.m3u8?sf=M25TRmIwcEJFOA==&token=nFf4IoZf_lfTiGPSP3IXqw&expires=1569276072&rnd=53634
+
+#EXTINF:-1,bein sports 12 HD
+http://51.15.108.237/live/bein12-hq/chunks.m3u8?nimblesessionid=18223463&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDE5IDY6NDA6NDkgQU0maGFzaF92YWx1ZT0wQ1k1bEtUOGJicHZ5M2Izajl0U29nPT0mdmFsaWRtaW51dGVzPTEwJmlkPTgzLjEzNi4xOTEuMjAxJnN0cm1fbGVuPTE0
+
+#EXTINF:-1,arriadia maroc HD
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1,al_maghribia maroc HD
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8?
+
+#EXTINF:-1,al_aoula_inter maroc HD
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8?1401470921
+
+#EXTINF:-1,2m_monde maroc HD
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_400000=2-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1,Medi1tv maroc HD
+http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist_w1064975912.m3u8?v=1401470921#EXTINF:-1 tvg-ID="" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="AR ARABIC NEWS",CNN INTERNACIONAL
 http://www.pandar.tv:25461/live/028966597895/NDqcZMUpbhmHSdu/38927.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR: GM ALWAN HD" tvg-logo="" group-title="",AR: GM ALWAN HD
 http://www.pandar.tv:25461/live/028966597895/NDqcZMUpbhmHSdu/18291.ts
