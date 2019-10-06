@@ -1,146 +1,296 @@
-#EXTINF:-1,UK| BBC TWO
-http://enndy.live:2015/live/mustafa/21062019/1812.ts
-#EXTINF:-1,UK| BBC ONE
-http://enndy.live:2015/live/mustafa/21062019/1813.ts
-#EXTINF:-1,UK|     CBBC
-http://enndy.live:2015/live/mustafa/21062019/1814.ts
-#EXTINF:-1,UK|     BBC NEWS
-http://enndy.live:2015/live/mustafa/21062019/1815.ts
-#EXTINF:-1,UK|     BBC ALBA
-http://enndy.live:2015/live/mustafa/21062019/1816.ts
-#EXTINF:-1,UK|     ITV 1
-http://enndy.live:2015/live/mustafa/21062019/1817.ts
-#EXTINF:-1,UK|     ITV 2
-http://enndy.live:2015/live/mustafa/21062019/1818.ts
-#EXTINF:-1,UK|     ITV 3
-http://enndy.live:2015/live/mustafa/21062019/1819.ts
-#EXTINF:-1,UK|     ITV 4
-http://enndy.live:2015/live/mustafa/21062019/1820.ts
-#EXTINF:-1,UK|     ITV BE
-http://enndy.live:2015/live/mustafa/21062019/1823.ts
-#EXTINF:-1,UK |  E4
-http://enndy.live:2015/live/mustafa/21062019/1866.ts
-#EXTINF:-1,UK |  ALIBI
-http://enndy.live:2015/live/mustafa/21062019/1879.ts
-#EXTINF:-1,UK |  EDEN
-http://enndy.live:2015/live/mustafa/21062019/1865.ts
-#EXTINF:-1,UK |  DRAMA
-http://enndy.live:2015/live/mustafa/21062019/1867.ts
-#EXTINF:-1,UK |  COMEDY CENTRAL
-http://enndy.live:2015/live/mustafa/21062019/1870.ts
-#EXTINF:-1,UK |  COLORS
-http://enndy.live:2015/live/mustafa/21062019/1871.ts
-#EXTINF:-1,UK |  CHANNEL 4
-http://enndy.live:2015/live/mustafa/21062019/1873.ts
-#EXTINF:-1,UK |  CHANNEL 5
-http://enndy.live:2015/live/mustafa/21062019/1872.ts
-#EXTINF:-1,UK |  4 SEVEN
-http://enndy.live:2015/live/mustafa/21062019/1884.ts
-#EXTINF:-1,UK |  FILM 4
-http://enndy.live:2015/live/mustafa/21062019/1860.ts
-#EXTINF:-1,UK |  5Star
-http://enndy.live:2015/live/mustafa/21062019/1880.ts
-#EXTINF:-1,UK |  5 SELECT
-http://enndy.live:2015/live/mustafa/21062019/1882.ts
-#EXTINF:-1,UK |  5 USA
-http://enndy.live:2015/live/mustafa/21062019/1881.ts
-#EXTINF:-1,UK|     U-TV
-http://enndy.live:2015/live/mustafa/21062019/1821.ts
-#EXTINF:-1,UK |  RTE ONE
-http://enndy.live:2015/live/mustafa/21062019/1856.ts
-#EXTINF:-1,UK |  RTE ONE HD
-http://enndy.live:2015/live/mustafa/21062019/1855.ts
-#EXTINF:-1,UK |  RTE TWO
-http://enndy.live:2015/live/mustafa/21062019/1854.ts
-#EXTINF:-1,UK |  RTE TWO  HD
-http://enndy.live:2015/live/mustafa/21062019/1853.ts
-#EXTINF:-1,UK |  RTE NEWS
-http://enndy.live:2015/live/mustafa/21062019/1857.ts
-#EXTINF:-1,UK |  SYFY
-http://enndy.live:2015/live/mustafa/21062019/1825.ts
-#EXTINF:-1,UK |  SKY NEWS
-http://enndy.live:2015/live/mustafa/21062019/1836.ts
-#EXTINF:-1,UK |  SKY TWO
-http://enndy.live:2015/live/mustafa/21062019/1827.ts
-#EXTINF:-1,UK |  SKY ONE
-http://enndy.live:2015/live/mustafa/21062019/1835.ts
-#EXTINF:-1,UK |  SKY WITNESS
-http://enndy.live:2015/live/mustafa/21062019/1826.ts
-#EXTINF:-1,UK|     STV NORTH
-http://enndy.live:2015/live/mustafa/21062019/1822.ts
-#EXTINF:-1,UK |  SKY ARTS
-http://enndy.live:2015/live/mustafa/21062019/1852.ts
-#EXTINF:-1,UK |  SKY CINEMA PREMIERE
-http://enndy.live:2015/live/mustafa/21062019/1841.ts
-#EXTINF:-1,UK |  SKY CINEMA PREMIER
-http://enndy.live:2015/live/mustafa/21062019/1842.ts
-#EXTINF:-1,UK |  SKY CINEMA HITS
-http://enndy.live:2015/live/mustafa/21062019/1843.ts
-#EXTINF:-1,UK |  SKY CINEMA HEROES
-http://enndy.live:2015/live/mustafa/21062019/1844.ts
-#EXTINF:-1,UK |  SKY CINEMA GREATS
-http://enndy.live:2015/live/mustafa/21062019/1845.ts
-#EXTINF:-1,UK |  SKY CINEMA FAMILY
-http://enndy.live:2015/live/mustafa/21062019/1846.ts
-#EXTINF:-1,UK |  SKY CINEMA DRAMA
-http://enndy.live:2015/live/mustafa/21062019/1847.ts
-#EXTINF:-1,UK |  SKY CINEMA DISNEY
-http://enndy.live:2015/live/mustafa/21062019/1848.ts
-#EXTINF:-1,UK |  SKY CINEMA COMEDY
-http://enndy.live:2015/live/mustafa/21062019/1849.ts
-#EXTINF:-1,UK |  SKY CINEMA ACTION MEN
-http://enndy.live:2015/live/mustafa/21062019/1850.ts
-#EXTINF:-1,UK |  SKY CINEMA ACTION
-http://enndy.live:2015/live/mustafa/21062019/1851.ts
-#EXTINF:-1,UK |  SKY CINEMA THRILLER
-http://enndy.live:2015/live/mustafa/21062019/1837.ts
-#EXTINF:-1,UK |  SKY CINEMA SELECT
-http://enndy.live:2015/live/mustafa/21062019/1838.ts
-#EXTINF:-1,UK |  SKY CINEMA SCI-FI HORROR
-http://enndy.live:2015/live/mustafa/21062019/1839.ts
-#EXTINF:-1,UK |  Sky Cinema Sci-Fi
-http://enndy.live:2015/live/mustafa/21062019/1840.ts
-#EXTINF:-1,UK |  FOOD NETWORK
-http://enndy.live:2015/live/mustafa/21062019/1859.ts
-#EXTINF:-1,UK |  DMAX
-http://enndy.live:2015/live/mustafa/21062019/1868.ts
-#EXTINF:-1,UK |  CRIME INVESTIGATION
-http://enndy.live:2015/live/mustafa/21062019/1869.ts
-#EXTINF:-1,UK |   ANIMAL PLANET
-http://enndy.live:2015/live/mustafa/21062019/1885.ts
-#EXTINF:-1,UK |  EUROSPORTS 1
-http://enndy.live:2015/live/mustafa/21062019/1862.ts
-#EXTINF:-1,UK |  EUROSPORTS 2
-http://enndy.live:2015/live/mustafa/21062019/1861.ts
-#EXTINF:-1,UK |  EIR SPORT 1
-http://enndy.live:2015/live/mustafa/21062019/1864.ts
-#EXTINF:-1,UK |  EIR SPORTS 2 ( NEW )
-http://enndy.live:2015/live/mustafa/21062019/1863.ts
-#EXTINF:-1,UK |  BT SPORTS 1
-http://enndy.live:2015/live/mustafa/21062019/1877.ts
-#EXTINF:-1,UK |  BT SPORTS 2
-http://enndy.live:2015/live/mustafa/21062019/1876.ts
-#EXTINF:-1,UK |  BT SPORTS 3
-http://enndy.live:2015/live/mustafa/21062019/1875.ts
-#EXTINF:-1,UK |  BT SPORTS ESPN
-http://enndy.live:2015/live/mustafa/21062019/1874.ts
-#EXTINF:-1,UK |  BOXNATION
-http://enndy.live:2015/live/mustafa/21062019/1878.ts
-#EXTINF:-1,UK |  SKY SPORTS NEWS
-http://enndy.live:2015/live/mustafa/21062019/1830.ts
-#EXTINF:-1,UK |  SKY SPORTS FOOTBALL
-http://enndy.live:2015/live/mustafa/21062019/1832.ts
-#EXTINF:-1,UK |  SKY SPORTS F1
-http://enndy.live:2015/live/mustafa/21062019/1833.ts
-#EXTINF:-1,UK |  SKY SPORTS PREMIER LEAGUE
-http://enndy.live:2015/live/mustafa/21062019/1829.ts
-#EXTINF:-1,UK |  PREMIER SPORTS 2
-http://enndy.live:2015/live/mustafa/21062019/1858.ts
-#EXTINF:-1,UK |  SKY SPORTS CRICKET
-http://enndy.live:2015/live/mustafa/21062019/1834.ts
-#EXTINF:-1,UK |  SKY SPORTS RACING
-http://enndy.live:2015/live/mustafa/21062019/1828.ts
-#EXTINF:-1,UK |  SKY SPORTS GOLF
-http://enndy.live:2015/live/mustafa/21062019/1831.ts
-#EXTINF:-1,UK |  4Music
-http://enndy.live:2015/live/mustafa/21062019/1883.ts
+#EXTM3U
+#EXTINF:-1,GLOBALTV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
+#EXTINF:-1,GLOBAL TV+
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+
+#EXTINF:-1,GLOBALTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+
+#EXTINF:-1,ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,INDOSIAR
+http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000062/1024.m3u8
+
+#EXTINF:-1,BEIN SPORT 4 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+
+#EXTINF:-1,BEIN SPORT 5 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+
+#EXTINF:-1,Setanta Sports 1 (Opt-1)
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1,Setanta Sports 1 (Opt-2)
+http://ott-cdn.ucom.am/s81/04.m3u8
+
+#EXTINF:-1,CCTV-5+????
+http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
+
+#EXTINF:-1,ESPN HD
+http://80.80.160.168:80/live/6/2500000/live.m3u8
+
+#EXTINF:-1,NICK HD
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,ADULTI
+http://www.pandasat.info/iptv/PLAYLIST.avi
+
+#EXTINF:-1,ADULT ALTERNATIF
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/chunklist.m3u8
+
+#EXTINF:-1,ADULTI
+http://www.pandasat.info/iptv/PLAYLIST.avi
+
+#EXTINF:-1,ADULT ALTERNATIF
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/chunklist.m3u8
+
+#EXTINF:-1,CCTV-5+????
+http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
+#EXTINF:-1,BEIN SPORT1
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+
+#EXTINF:-1,BEIN SPORT2
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+
+#EXTINF:-1,BEIN SPORT3
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="INDONESIA",Hits (Opt-1)
+http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="INDONESIA",Hits (Opt-2)
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvRrcXy.png" group-title="INDONESIA",Kix (Opt-1)
+http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvRrcXy.png" group-title="INDONESIA",Kix (Opt-2)
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvRrcXy.png" group-title="INDONESIA",Kix (Opt-3)
+http://45.126.83.51/uq2663/h/h07/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ory3MhB.png" group-title="INDONESIA",Kompas (Opt-1)
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ory3MhB.png" group-title="INDONESIA",Kompas (Opt-2)
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wsm5MXS.png" group-title="INDONESIA",MNC Sports
+http://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPm5ytF.png" group-title="INDONESIA",MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="INDONESIA",My Cinema Channel
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="INDONESIA",Net TV (Opt-1)
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219782019062322524313983108
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="INDONESIA",Net TV (Opt-2)
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="INDONESIA",Net TV (Opt-3)
+http://45.126.83.51/qwr9ew/s/s08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="INDONESIA",Net TV (Opt-4)
+http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Goc3pTS.png" group-title="INDONESIA",Rajawali TV (Opt-3)
+http://202.80.222.170:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Goc3pTS.png" group-title="INDONESIA",Rajawali TV (Opt-4)
+http://45.126.83.51/qwr9ew/s/s12/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Goc3pTS.png" group-title="INDONESIA",Rajawali TV (Opt-5)
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4WPjrg6.png" group-title="INDONESIA",RBTV Bengkulu
+http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI (Opt-1)
+http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI (Opt-2) 
+https://edge.okezone.com/live/rctioke.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI (Opt-3)
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ANiUsNh.png" group-title="INDONESIA",RRI Net (New!)
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV (Opt-1)
+http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV (Opt-2)
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV (Opt-3)
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV (Opt-4)
+http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AP5JfCM.png" group-title="INDONESIA",Sony Gem (Opt-1)
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AP5JfCM.png" group-title="INDONESIA",Sony Gem (Opt-2)
+http://45.126.83.51/uq2663/h/h19/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHIO7J3.png" group-title="INDONESIA",SuperSoccer TV (Opt-1)
+http://210.210.155.35/session/386ba54a-48ed-11e9-b58e-9b4ca4d348fc/uq2663/h/h20/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHIO7J3.png" group-title="INDONESIA",SuperSoccer TV (Opt-2)
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHIO7J3.png" group-title="INDONESIA",SuperSoccer TV (Opt-3)
+http://45.126.83.51/uq2663/h/h20/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="INDONESIA",Thrill (Opt-2)
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="INDONESIA",Thrill (Opt-3)
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7 (Opt-1)
+http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7 (Opt-2)
+http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7 (Opt-3)
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7 (Opt-4)
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="INDONESIA",Trans TV (Opt-1)
+http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="INDONESIA",Trans TV (Opt-2)
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2931201906232251491158010
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="INDONESIA",Trans TV (Opt-3)
+http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="INDONESIA",Trans TV (Opt-4)
+http://210.210.155.35/qwr9ew/s/s100/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="INDONESIA",Trans TV (Opt-5)
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",tvOne (Opt-1)
+http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",tvOne (Opt-2)
+http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI (Opt-1)
+http://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI (Opt-2)
+http://45.126.83.51/qwr9ew/s/s11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI (Opt-3)
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0R036xO.png" group-title="THAILAND",PPTV HD 36
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 5
+http://stream.chinactv.com/ctv5/sd/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 2
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 3
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 4
+http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 5
+http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 6
+http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 7
+http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 8
+http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 9
+http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="USA",Disney Junior
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="USA",HBO 2 (LA)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom (New!)
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="USA",Nat Geo People (MENA)
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="USA",Nat Geo Wild (MENA)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic (MENA)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1,DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1,NICK JR
+http://213.174.8.7:9100/index.m3u8
+
+#EXTINF:-1,DAVINCI KIDS
+http://213.174.8.7:11111/index.m3u8
+
+#EXTINF:-1,EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1,HBO2
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,FOX
+http://161.0.157.7/PLTV/88888888/224/3221227013/index.m3u8
+
+#EXTINF:-1,FOX FAMILY MOVIES
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
+
+#EXTINF:-1,CHINESE MOVIES CLASIC
+http://wshls.live.migucloud.com:80/live/41IXD6US_C0/playlist.m3u8
+#EXTINF:-1,RTM1
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+
+#EXTINF:-1,RTM2
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+
+#EXTINF:-1,TV3
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbYU6N5grCmpaxK3_rACY6U)/dm/3/x6qp375/d/live-0.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://161.0.157.7/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,BEIN SPORT1
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+
+#EXTINF:-1,BEIN SPORT2
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+
+#EXTINF:-1,BEIN SPORT3
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+
+#EXTINF:-1,Espn SPORT
+http://80.80.160.168/live/6/live.m3u8
