@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,ARABIC | 218 News HD
+#EXTINF:-------------------ARABIC-----------------
+-1,ARABIC | 218 News HD
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,ARABIC | 2M Monde
@@ -161,7 +162,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assad
 #EXTINF:-1,ARABIC | Ayaat
 http://m.live.net.sa:1935/live/ayat/playlist.m3u8
 
-#EXTINF:-1,ARABIC | B4U Aflam
+#EXTINF:----------------AFLAM--------------
+-1,ARABIC | B4U Aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
 
 #EXTINF:-1,ARABIC | Baby TV
