@@ -1,41 +1,25 @@
-#EXTINF:-1,US: ESPN
-http://www.vtpii.net:8000/vtpii/vtpii/24
-#EXTINF:-1,ESPN 2 HD
-http://www.vtpii.net:8000/vtpii/vtpii/602
-#EXTINF:-1,[EN] BT SPORTS ESPN HD
-http://www.vtpii.net:8000/vtpii/vtpii/599
-#EXTINF:-1,[EN] BT SPORTS 2 HD
-http://www.vtpii.net:8000/vtpii/vtpii/597
-#EXTINF:-1,[EN] BT SPORTS 3 HD
-http://www.vtpii.net:8000/vtpii/vtpii/598
-#EXTINF:-1,[NL] FOX SPORTS 1 HD
-http://www.vtpii.net:8000/vtpii/vtpii/366
-#EXTINF:-1,Sky Sport 1 Italia
-http://www.vtpii.net:8000/vtpii/vtpii/380
-#EXTINF:-1,Sky Sport bundesliga 1
-http://www.vtpii.net:8000/vtpii/vtpii/378
-#EXTINF:-1,Nova Sport 2
-http://www.vtpii.net:8000/vtpii/vtpii/612#EXTINF:-1,[AR] Bein Sports HD
-http://www.vtpii.net:8000/vtpii/vtpii/538
-#EXTINF:-1,[AR] beIN Sports 2 FHD
-http://www.vtpii.net:8000/vtpii/vtpii/126
-#EXTINF:-1,[AR] Bein Sports HD 3
-http://www.vtpii.net:8000/vtpii/vtpii/434
-#EXTINF:-1,[AR] Bein Sports HD 4
-http://www.vtpii.net:8000/vtpii/vtpii/435
-#EXTINF:-1,[AR] Bein Sports HD 5
-http://www.vtpii.net:8000/vtpii/vtpii/436
-#EXTINF:-1,[AR] beIN Sports 6 FHD
-http://www.vtpii.net:8000/vtpii/vtpii/129
-#EXTINF:-1,[AR] beIN Sports 7 FHD
-http://www.vtpii.net:8000/vtpii/vtpii/131
-#EXTINF:-1,[AR] beIN Sports 8 FHD
-http://www.vtpii.net:8000/vtpii/vtpii/132
-#EXTINF:-1,[AR] Bein Sports HD 9
-http://www.vtpii.net:8000/vtpii/vtpii/440
-#EXTINF:-1,[AR] beIN Sports 10 FHD
-http://www.vtpii.net:8000/vtpii/vtpii/431
-#EXTINF:-1,[EN] beIN SPORTS HD USA
-http://www.vtpii.net:8000/vtpii/vtpii/595
-#EXTINF:-1,[AR] AD Sports 1 HD
-http://www.vtpii.net:8000/vtpii/vtpii/18
+#EXTM3U
+#EXTINF:-1, SPORTS HD1
+http://163.172.118.212:80/live.ts?channelId=178&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD2
+http://163.172.118.212:80/live.ts?channelId=179&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD3
+http://163.172.118.212:80/live.ts?channelId=180&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD4
+http://163.172.118.212:80/live.ts?channelId=181&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD5
+http://163.172.118.212:80/live.ts?channelId=182&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD6
+http://163.172.118.212:80/live.ts?channelId=183&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD7
+http://163.172.118.212:80/live.ts?channelId=184&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD8
+http://163.172.118.212:80/live.ts?channelId=185&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD9
+http://163.172.118.212:80/live.ts?channelId=186&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD10
+http://163.172.118.212:80/live.ts?channelId=187&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD11 ENG
+http://163.172.118.212:80/live.ts?channelId=188&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD12 ENG
+http://163.172.118.212:80/live.ts?channelId=189&deviceMac=00:1A:79:BE:2F:A0&uid=2553
