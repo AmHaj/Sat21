@@ -1,25 +1,25 @@
 #EXTINF:
-http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u
 #EXTINF:-1,ARABIC | 2M Monde
 https://www.elahmad.com/tv/m3u8/maroc.m3u8?id=2m_monde
 #EXTINF:-1,ARABIC | ABN
 http://rtmp1.abnsat.com/hls/arabic.m3u8
 #EXTINF:-1,ARABIC | Abu Dhabi Drama
-https://adtv.ercdn.net/addrama/addrama_480p.m3u8
+https://adtv.ercdn.net/addrama/addrama_480p.m3u
 #EXTINF:-1,ARABIC | Abu Dhabi Drama (1+)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:-1,ARABIC | Abu Dhabi Drama HD
-https://adtv.ercdn.net/addrama/addrama_720p.m3u8
+https://adtv.ercdn.net/addrama/addrama_720p.m3u
 #EXTINF:-1,ARABIC | Abu Dhabi TV
-http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
+http://adtv.ercdn.net/adaloula/adaloula_480p.m3u
 #EXTINF:-1,ARABIC | Abu Dhabi TV (1+)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1,ARABIC | Abu Dhabi TV HD
-http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
+http://adtv.ercdn.net/adaloula/adaloula_720p.m3u
 #EXTINF:-1,ARABIC | AD Nat Geo
-http://adtv.ercdn.net/adnatgeo/adnatgeo_480p.m3u8
+http://adtv.ercdn.net/adnatgeo/adnatgeo_480p.m3u
 #EXTINF:-1,ARABIC | AD Nat Geo HD
-http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u
 #EXTINF:-1,ARABIC | AD Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1,ARABIC | AD Sports 1 (1+)
