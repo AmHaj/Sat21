@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTM3U-----------------Bein-----------------
-
 #EXTINF:-1,AR: Bein Sports 1 4K
 http://6070.nl:88/uL8hdkH1rr/gUSsOMoVuk/26647
 #EXTINF:-1,AR: Bein Sports 2 4K
@@ -701,7 +700,6 @@ http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
 http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/2534.m3u8
 #EXTINF:-1,World Fishing Network
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-
 #EXTINF:-1,------------- UK TV -------------
 world m3u
 #EXTINF:-1,Al Jazeera English
@@ -810,9 +808,6 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u
 
 #EXTINF:-1,------------- France TV -------------
-
-world m3u
-
 
 http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:0 tvg-logo="http://i65.tinypic.com/990umt.jpg" group-title="FRANCE",DJing Animation
