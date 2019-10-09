@@ -1,496 +1,413 @@
 #EXTM3U
-#EXTINF:-1,*** TR SPORTS XTREME iPTV ***
-#EXTINF:-1,TR: BEiN SPORT HABER UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/327.ts
-#EXTINF:-1,TR: BEIN SPORT HABER HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/388.ts
-#EXTINF:-1,TR: BEIN SPORTS 1 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/331.ts
-#EXTINF:-1,TR: BEIN SPORTS 1 UHD BACKUP
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2234.ts
-#EXTINF:-1,TR: BEIN SPORTS 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/337.ts
-#EXTINF:-1,TR: BEIN SPORTS 1 HD ( 50FPS )
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/330.ts
-#EXTINF:-1,TR: BEIN SPORT 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/329.ts
-#EXTINF:-1,TR: BEIN SPORTS 2 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/332.ts
-#EXTINF:-1,TR: BEIN SPORTS 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/338.ts
-#EXTINF:-1,TR: BEIN SPORTS 3 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/333.ts
-#EXTINF:-1,TR: BEIN SPORTS 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/339.ts
-#EXTINF:-1,TR: BEIN SPORTS 4 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/334.ts
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/340.ts
-#EXTINF:-1,TR: BEiN SPORT-1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/382.ts
-#EXTINF:-1,TR: BEiN SPORT-2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/383.ts
-#EXTINF:-1,TR: BEiN SPORT-3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/384.ts
-#EXTINF:-1,TR: BEiN SPORT-4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/385.ts
-#EXTINF:-1,TR:  BEIN SPORTS 1 UHD YEDEK
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2275.ts
-#EXTINF:-1,TR:  BEIN SPORT 1 HD YEDEK
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2277.ts
-#EXTINF:-1,TR: BEIN SPORT 1 HQ YEDEK
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2346.ts
-#EXTINF:-1,TR: BEIN SPORTS 4K
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/328.ts
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/335.ts
-#EXTINF:-1,TR: BEIN SPORT MAX 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/341.ts
-#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/336.ts
-#EXTINF:-1,TR: BEIN SPORT MAX 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/342.ts
-#EXTINF:-1,TR: BEiN SPORT MAX-1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/386.ts
-#EXTINF:-1,TR: BEiN SPORT MAX-2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/387.ts
-#EXTINF:-1,TR: S-SPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/343.ts
-#EXTINF:-1,TR: S-SPORT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/392.ts
-#EXTINF:-1,TR: SPORTSTV HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/399.ts
-#EXTINF:-1,TR: EUROSPORT1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/395.ts
-#EXTINF:-1,TR: EUROSPORT2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/396.ts
-#EXTINF:-1,TR: SPORTS TV
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1321.ts
-#EXTINF:-1,*** NEDERLAND SPORTS XTREME iPTV ***
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2764.ts
-#EXTINF:-1,NL: FOX SPORTS 1 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/284.ts
-#EXTINF:-1,NL: FOX SPORTS 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2888.ts
-#EXTINF:-1,NL: FOX SPORTS 2 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/263.ts
-#EXTINF:-1,NL: FOX SPORTS 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2356.ts
-#EXTINF:-1,NL: FOX SPORTS 3 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2889.ts
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/285.ts
-#EXTINF:-1,NL: FOX SPORTS 4 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2357.ts
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3100.ts
-#EXTINF:-1,NL: FOX SPORTS 5 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2358.ts
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3101.ts
-#EXTINF:-1,NL: FOX SPORTS 6 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2890.ts
-#EXTINF:-1,NL: FOX SPORTS 6 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3102.ts
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/306.ts
-#EXTINF:-1,NL: ZIGGO SPORT RACING UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2235.ts
-#EXTINF:-1,NL: ZIGGO SPORT SELECT UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/305.ts
-#EXTINF:-1,NL: ZIGGO SPORT GOLF UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/304.ts
-#EXTINF:-1,NL:  ZIGGO SPORT EXTRA 1 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2772.ts
-#EXTINF:-1,NL:  ZIGGO SPORT EXTRA 2 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2773.ts
-#EXTINF:-1,NL:  MOTOR SPORT UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2771.ts
-#EXTINF:-1,NL: EUROSPORT 1 UHD NL
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/296.ts
-#EXTINF:-1,NL: EUROSPORT 2 UHD NL
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/264.ts
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2891.ts
-#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2895.ts
-#EXTINF:-1,NL: ZIGGO SPORT EXTRA 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2896.ts
-#EXTINF:-1,NL: ZIGGO SPORT  SELECT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2892.ts
-#EXTINF:-1,NL: ZIGGO SPORT  RACING HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2893.ts
-#EXTINF:-1,NL: ZIGGO SPORT GOLF HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2894.ts
-#EXTINF:-1,NL: MOTOR SPORT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2897.ts
-#EXTINF:-1,NL: EUROSPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2887.ts
-#EXTINF:-1,NL: NPO POLITIEK / SPORT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2864.ts
-#EXTINF:-1,AR: PALESTINE SPORT
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3197.ts
-#EXTINF:-1,AR: JORDAN SPORT
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3194.ts
-#EXTINF:-1,SPO: BEIN SPORTS NEWS
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/537.ts
-#EXTINF:-1,SPO: BEIN SPORTS
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/522.ts
-#EXTINF:-1,SPO: BEIN SPORTS 1 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/523.ts
-#EXTINF:-1,SPO: BEIN SPORTS 2 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/524.ts
-#EXTINF:-1,SPO: BEIN SPORTS 3 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/525.ts
-#EXTINF:-1,SPO: BEIN SPORTS 4 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/526.ts
-#EXTINF:-1,SPO: BEIN SPORTS 5 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/527.ts
-#EXTINF:-1,SPO: BEIN SPORTS 6 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/528.ts
-#EXTINF:-1,SPO: BEIN SPORTS 7 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/529.ts
-#EXTINF:-1,SPO: BEIN SPORTS 8 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/530.ts
-#EXTINF:-1,SPO: BEIN SPORTS 9 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/531.ts
-#EXTINF:-1,SPO: BEIN SPORTS 10 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/532.ts
-#EXTINF:-1,SPO: BEIN SPORTS 11 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/533.ts
-#EXTINF:-1,SPO: BEIN SPORTS 12 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/534.ts
-#EXTINF:-1,SPO: BEIN SPORTS 13 UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/535.ts
-#EXTINF:-1,SPO: BEIN SPORTS NBA UHD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/536.ts
-#EXTINF:-1,DE: SPORTDIGITAL HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2179.ts
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2176.ts
-#EXTINF:-1,DE: SKY SPORT NEWS
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2175.ts
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2210.ts
-#EXTINF:-1,DE: SKY SPORT 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2209.ts
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2212.ts
-#EXTINF:-1,DE: SKY SPORT 2
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2211.ts
-#EXTINF:-1,DE: SKY SPORT 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2214.ts
-#EXTINF:-1,DE: SKY SPORT 3
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2213.ts
-#EXTINF:-1,DE: SKY SPORT 4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2216.ts
-#EXTINF:-1,DE: SKY SPORT 4
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2215.ts
-#EXTINF:-1,DE: SKY SPORT 5 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2218.ts
-#EXTINF:-1,DE: SKY SPORT 5
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2217.ts
-#EXTINF:-1,DE: SKY SPORT 6 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2220.ts
-#EXTINF:-1,DE: SKY SPORT 6
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2219.ts
-#EXTINF:-1,DE: SKY SPORT 7 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2222.ts
-#EXTINF:-1,DE: SKY SPORT 7
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2221.ts
-#EXTINF:-1,DE: SKY SPORT 8 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2224.ts
-#EXTINF:-1,DE: SKY SPORT 8
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2223.ts
-#EXTINF:-1,DE: SKY SPORT 9 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2226.ts
-#EXTINF:-1,DE: SKY SPORT 9
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2225.ts
-#EXTINF:-1,DE: SKY SPORT 10 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2228.ts
-#EXTINF:-1,DE: SKY SPORT 10
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2227.ts
-#EXTINF:-1,DE: SKY SPORT 11 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2230.ts
-#EXTINF:-1,DE: SKY SPORT 11
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2229.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2190.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2189.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2192.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2191.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2194.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2193.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2196.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 4
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2195.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 5 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2198.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 5
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2197.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 6 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2200.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 6
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2199.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 7 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2202.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 7
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2201.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 8 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2204.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 8
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2203.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 9 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2206.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 9
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2205.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 10 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2208.ts
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 10
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2207.ts
-#EXTINF:-1,DE: SKY SPORT AUSTRIA 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2188.ts
-#EXTINF:-1,DE: SKY SPORT AUSTRIA 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2187.ts
-#EXTINF:-1,DE: EUROSPORT U1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2182.ts
-#EXTINF:-1,DE: EUROSPORT 2 HD XTRA
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2184.ts
-#EXTINF:-1,DE: EUROSPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2183.ts
-#EXTINF:-1,FR: SFR SPORT 5 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1839.ts
-#EXTINF:-1,FR: SFR SPORT 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1838.ts
-#EXTINF:-1,FR: SFR Sport 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1837.ts
-#EXTINF:-1,FR: SFR Sport 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1836.ts
-#EXTINF:-1,FR: INFOSPORT
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1823.ts
-#EXTINF:-1,FR: EUROSPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1822.ts
-#EXTINF:-1,FR: CANAL  SPORT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1824.ts
-#EXTINF:-1,FR: BFM SPORT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1825.ts
-#EXTINF:-1,FR: Bein Sports max 9 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1834.ts
-#EXTINF:-1,FR: Bein Sports max 8 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1833.ts
-#EXTINF:-1,FR: Bein Sports max 7 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1832.ts
-#EXTINF:-1,FR: Bein Sports max 6 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1831.ts
-#EXTINF:-1,FR: Bein Sports max 5 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1830.ts
-#EXTINF:-1,FR: Bein Sports max 4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1829.ts
-#EXTINF:-1,FR: Bein Sports 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1828.ts
-#EXTINF:-1,FR: Bein Sports 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1827.ts
-#EXTINF:-1,FR: Bein Sports 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1826.ts
-#EXTINF:-1,FR: Bein Sport Max 10 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1835.ts
-#EXTINF:-1,*** UK SPORTS XTREME IPTV ***
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2658.ts
-#EXTINF:-1,UK: SKY SPORTS F1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3181.ts
-#EXTINF:-1,SP: M. eSports
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1024.ts
-#EXTINF:-1,SP: EUROSPORT 2
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1025.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2668.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2667.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2671.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2672.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2673.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2669.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2670.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2674.ts
-#EXTINF:-1,PT: Sporting TV
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/934.ts
-#EXTINF:-1,PT: SPORT TV 5
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/946.ts
-#EXTINF:-1,PT: SPORT TV 4
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/846.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/908.ts
-#EXTINF:-1,PT: SPORT TV 3
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/857.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/907.ts
-#EXTINF:-1,PT: SPORT TV 2
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/866.ts
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/904.ts
-#EXTINF:-1,PT: SPORT TV 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/879.ts
-#EXTINF:-1,PT: SPORT TV
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/930.ts
-#EXTINF:-1,PT: motorsport.tv
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/865.ts
-#EXTINF:-1,PT: Kombat Sport
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/914.ts
-#EXTINF:-1,PT: Eurosport 2
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/902.ts
-#EXTINF:-1,PT: Eurosport 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/922.ts
-#EXTINF:-1,PT: EURO SPORT 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/835.ts
-#EXTINF:-1,PL: TVP SPORT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/684.ts
-#EXTINF:-1,PL: SPORTKLUB HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/678.ts
-#EXTINF:-1,PL: POLSAT SPORT NEWS HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/719.ts
-#EXTINF:-1,PL: POLSAT SPORT FIGHT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/727.ts
-#EXTINF:-1,PL: POLSAT SPORT EXTRA
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/709.ts
-#EXTINF:-1,PL: POLSAT SPORT
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/711.ts
-#EXTINF:-1,PL: EXTREME SPORTS HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/736.ts
-#EXTINF:-1,PL: EURO SPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/725.ts
-#EXTINF:-1,PL: EURO SPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/732.ts
-#EXTINF:-1,PL: ELEVEN SPORTS 4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/740.ts
-#EXTINF:-1,PL: CANAL   SPORT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/735.ts
-#EXTINF:-1,HU: M4 SPORT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3048.ts
-#EXTINF:-1,HU: M4 SPORT
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3049.ts
-#EXTINF:-1,HU: SPORT 2
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3058.ts
-#EXTINF:-1,HU: SPORT 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3057.ts
-#EXTINF:-1,HU: EUROSPORT 2
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3060.ts
-#EXTINF:-1,HU: EUROSPORT 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3059.ts
-#EXTINF:-1,BG: DIEMA SPORT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1958.ts
-#EXTINF:-1,BG: DIEMA SPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1960.ts
-#EXTINF:-1,BG: DIEMA SPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1959.ts
-#EXTINF:-1,BG: MTEL SPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1914.ts
-#EXTINF:-1,BG: MTEL SPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1913.ts
-#EXTINF:-1,BG: MAX SPORT 4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1916.ts
-#EXTINF:-1,BG: MAX SPORT 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1917.ts
-#EXTINF:-1,BG: SPORTKLUB 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1894.ts
-#EXTINF:-1,BG: SPORTKLUB 2
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1893.ts
-#EXTINF:-1,BG: SPORTKLUB 3
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1892.ts
-#EXTINF:-1,BG: SPORT PLUS HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1895.ts
-#EXTINF:-1,BG: SPORT KLUP START
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1896.ts
-#EXTINF:-1,BG: EUROSPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1946.ts
-#EXTINF:-1,BG: EUROSPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1947.ts
-#EXTINF:-1,BG: ARENA SPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2000.ts
-#EXTINF:-1,BG: ARENA SPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1999.ts
-#EXTINF:-1,BG: ARENA SPORT 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1998.ts
-#EXTINF:-1,BG: ARENA SPORT 4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1997.ts
-#EXTINF:-1,BG: ARENA SPORT 5 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1996.ts
-#EXTINF:-1,BG: EDGE SPORTS HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1950.ts
-#EXTINF:-1,BG: NOVA SPORT HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1907.ts
-#EXTINF:-1,GR: TILESPORT
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3111.ts
-#EXTINF:-1,SRB: Eurosport
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/598.ts
-#EXTINF:-1,SRB: EURO SPORT
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/620.ts
-#EXTINF:-1,SRB: ARENA SPORT 5
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/608.ts
-#EXTINF:-1,SRB: ARENA SPORT 4
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/601.ts
-#EXTINF:-1,SRB: ARENA SPORT 3
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/612.ts
-#EXTINF:-1,SRB: ARENA SPORT 2
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/613.ts
-#EXTINF:-1,SRB: ARENA SPORT 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/610.ts
-#EXTINF:-1,ALB: TRING SPORT 4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2751.ts
-#EXTINF:-1,ALB: TRING SPORT 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2750.ts
-#EXTINF:-1,ALB: TRING SPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2749.ts
-#EXTINF:-1,ALB: TRING SPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2748.ts
-#EXTINF:-1,ALB: SUPER SPORT 6 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2757.ts
-#EXTINF:-1,ALB: SUPER SPORT 5 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2756.ts
-#EXTINF:-1,ALB: SUPER SPORT 4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2755.ts
-#EXTINF:-1,ALB: SUPER SPORT 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2754.ts
-#EXTINF:-1,ALB: SUPER SPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2753.ts
-#EXTINF:-1,ALB: SUPER SPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2752.ts
-#EXTINF:-1,ALB: KUJTESA SPORT 5 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2747.ts
-#EXTINF:-1,ALB: KUJTESA SPORT 4 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2746.ts
-#EXTINF:-1,ALB: KUJTESA SPORT 3 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2745.ts
-#EXTINF:-1,ALB: KUJTESA SPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2744.ts
-#EXTINF:-1,ALB: KUJTESA SPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2743.ts
-#EXTINF:-1,CZ: EUROSPORT 2 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2943.ts
-#EXTINF:-1,CZ: EUROSPORT 1 HD
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2942.ts
-#EXTINF:-1,CZ: ARENA SPORT
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2937.ts
-#EXTINF:-1,RO: Eurosport Romania
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1430.ts
-#EXTINF:-1,RO: Eurosport Int
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1433.ts
-#EXTINF:-1,RO: DIGI Sport 4
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1437.ts
-#EXTINF:-1,RO: DIGI Sport 2
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1438.ts
-#EXTINF:-1,RO: DIGI Sport 1
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1441.ts
-#EXTINF:-1,RO: Auto Motor Sport
-http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1410.ts
+#EXTINF:-1,CNN INDONESIA HD https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1,CNBC INDONESIA HD https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1,GLOBAL TV http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,MNC TV http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT22004201812131604501582880
+http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT22004201812131604501582880
+
+#EXTINF:-1,RCTI http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,SCTV http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TRANS 7 http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TRANS 7 HD DETIK https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1,TRANS TV http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TRANS TV HD DETIK https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1,TV ONE http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,INDOSIAR http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,INEWS TV http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT21977201812131603221932438
+http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT21977201812131603221932438
+
+#EXTINF:-1,BERITA SATU http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1,METRO TV HD http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,ALJAZEERA ENG FHD https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1,ARIRANG HD http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1,HD FASHION http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1,FASHION TV MIDNIGHT FHD http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,TVRI
+http://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+#EXTINF:-1,TVRI NASIONAL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI 3 BUDAYA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1, RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, RCTI HD
+https://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:-1,MNC
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+#EXTINF:-1, ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, ANTV HD
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1,SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SCTV HD
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+#EXTINF:-1, INDOSIAR
+http://rr2.dens.tv/s/s04/index2.m3u8
+#EXTINF:-1,RTV
+http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1, NET TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, GTV
+http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, GTV HD
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1,TRANS7
+http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS7 HD
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1, TV ONE
+http://rr2.dens.tv/s/s105/index.m3u8
+#EXTINF:-1,TRANS TV
+http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS TV HD
+http://210.210.155.35/qwr9ew/s/s100/01.m3u8
+#EXTINF:-1,  Kompas TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,  Metro TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1,Kompas TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1,CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1,Berita Satu News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1,TV One
+http://rr2.dens.tv/s/s105/index.m3u8
+#EXTINF:-1,iNews TV
+http://202.80.222.130/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,Berita Satu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist_b2288000.m3u8
+#EXTINF:-1,Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+#EXTINF:-1,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1,JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1,Indonesia Channel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1,Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:-1,Star Movies HD
+http://bit.ly/tsptv-movie-2
+#EXTINF:-1,&Flix HD
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:-1,&Prive HD
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:-1,CELESTIAL MOVIE
+http://210.210.155.35:80/session/18437ccc-73b6-11e9-9278-9c128a7729b7/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1,HITS
+http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
+#EXTINF:-1,DIVA
+http://210.210.155.35:80/session/86a166a8-73b5-11e9-a368-9305b20a7284/uq2663/h/h11/01.m3u8
+#EXTINF:-1,AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1,E!
+http://210.210.155.35/uq2663/h/h10/01.m3u8
+#EXTINF:-1,Channel 8 Singapore
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+#EXTINF:-1,K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1,NHK WORLD
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+#EXTINF:-1,ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,MY CINEMA
+http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1,ZEE BIOSKOP
+http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1,CINEMA WORLD
+http://210.210.155.35:80/session/04357d66-73b6-11e9-a26c-8746b55a6579/uq2663/h/h04/01.m3u8
+#EXTINF:-1,CINEMA INDONESIA
+http://210.210.155.35:80/session/670515de-73b9-11e9-8f02-846587341add/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1,BLUE ANT EXTREME
+http://210.210.155.35:80/session/4cb2a5fa-73b6-11e9-be41-bd7db160af63/dr9445/h/h15/01.m3u8
+#EXTINF:-1,BLUE ANT ENTERTAIMENT
+http://210.210.155.35:80/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
+#EXTINF:-1,Xing Kong
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1,Fashion TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1,Fashion TV MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Egg Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1,HBO HD
+http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:-1,HBO Family
+http://203.207.56.228/live/iptv004.m3u8
+#EXTINF:-1,HBO Hits
+http://203.207.56.228/live/iptv007.m3u8
+#EXTINF:-1,HBO Signature
+http://203.207.56.228/live/iptv006.m3u8
+#EXTINF:-1,Setanta Sports 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:-1, MNC SPORT
+https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, BEIN SPORT 1 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1, BEIN SPORT 2 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:-1, BEIN SPORT 3 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1, BEIN SPORT 4 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1, BEIN SPORT 5 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1,Setanta Sports 1 (Opt-1)
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1,Setanta Sports 1 (Opt-2)
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1,Setanta Sports 1 (Opt-3)
+http://92.43.140.204:80/s81/index.m3u8
+#EXTINF:-1,TV1
+http://rtm1mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1,TV2
+http://rtm2mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1,TV1
+http://rtmbesmobile.secureswiftcontent.com:80/Origin03/ngrp:RTM3/chunklist_b1096000.m3u8
+#EXTINF:-1,RTM OK
+http://rtm1mobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+#EXTINF:-1,ASTRO CITRA
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m0641803235cf1329581&ct=17949&tsum=620426df4e138d2280de722046bea693
+#EXTINF:-1, ASTRO
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1, ASTRO
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1, AMC
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1, HOLLYWOOD SWITCH
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1, PLUTO MOVIES1
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,CGTN DOCUMENTARY
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://80.80.160.168/live/1/500000/live.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://80.80.160.168/live/8/2500000/live.m3u8
+#EXTINF:-1,ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1,Animax
+http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144/01.m3u8
+#EXTINF:-1,Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,Toonmax
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1,ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1,ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1,SPACETOON
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+#EXTINF:-1, NONSTOP ANIME
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+#EXTINF:-1,BABY TV
+http://iliketot.dyndns.tv:80/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6NDU6MzEgUE0maGFzaF92YWx1ZT00ZlpSSlNNZERpZW16MWMrQmlVSjJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkwNXx1cGxheXwxNTMyMzUzNTMxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1,Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1, Star Kids
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1, MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1,HOLLYWOOD MOVIES 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+#EXTINF:-1,HOLLYWOOD MOVIES 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
+#EXTINF:-1,HOLLYWOOD MOVIES 3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1,HOLLYWOOD MOVIES 4
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1,HOLLYWOOD MOVIES 5
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1,HOLLYWOOD MOVIES 6
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Rai Movie HD (Italy)
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Jackie Chan Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1,Andy Lau Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Stephen Chow Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1,Jet Lie Movies
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1,Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,Animax
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+#EXTINF:-1,Animax
+http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
+#EXTINF:-1,Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,My Kids
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1,Disney Junior Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,Anibox
+http://122.129.115.21:1935/edgedol/_definst_/tao113/playlist.m3u8
+#EXTINF:-1,ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1,ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1,BABY TV
+http://iliketot.dyndns.tv:80/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6NDU6MzEgUE0maGFzaF92YWx1ZT00ZlpSSlNNZERpZW16MWMrQmlVSjJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkwNXx1cGxheXwxNTMyMzUzNTMxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1,Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1, Star Kids
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1,AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,Animax
+http://bit.ly/2UJS2Ak
+#EXTINF:-1,Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1,Disney Junior
+http://122.129.115.21:1935/edgedol/_definst_/tao112/playlist.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,  ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,  Discovery ID
+http://80.80.160.168/live/5/500000/live.m3u8
+#EXTINF:-1,  NAT GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1,  NAT GEO CHANNEL
+http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDE4IDY6NTY6MTkgUE0maGFzaF92YWx1ZT1pV21sdUNEVXZpZ3I1bitwSEUrRDhBPT0mdmFsaWRtaW51dGVzPTImaWQ9Q2hveXw4MDN8aXB0dmhlcm98MTUyOTk1Mjk3OXwxMTkuNzYuMTUyLjM=
+#EXTINF:-1,  NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1,  NAT GEO PEOPLE
+http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMzoxMjo0MiBBTSZoYXNoX3ZhbHVlPWV2blpob000aWtYYmtRZCtSNWl4WWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDgwNHx1cGxheXwxNTI4MjU0NzYyfDIwMi4yOC40MS4xNDQ=
+#EXTINF:-1,  NAT GEO PEOPLE HD
+http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1,  NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1,  DISCOVERY HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,  DISCOVERY SCIENCE HD
+http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,CBS
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1,CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+#EXTINF:-1,EBS
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,EBS+1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,EBS+2
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,ESB1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1,ESB2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1,ETN  SD
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,FOX  ???
+http://122.129.115.21:1935/edgedol/_definst_/tao106/playlist.m3u8
+#EXTINF:-1,K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF:-1,KBS1
+http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
+#EXTINF:-1,KBS2
+http://122.129.115.21:1935/edgedol/_definst_/tao108/playlist.m3u8
+#EXTINF:-1,KBS LIVE
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
+#EXTINF:-1,M Net
+http://122.129.115.21:1935/edgedol/_definst_/tao101/playlist.m3u8
+#EXTINF:-1,MBC
+http://122.129.115.21:1935/edgedol/_definst_/tao122/playlist.m3u8
+#EXTINF:-1,MBN
+http://122.129.115.21:1935/edgedol/_definst_/tao135/playlist.m3u8
+#EXTINF:-1,Olive
+http://122.129.115.21:1935/edgedol/_definst_/tao109/playlist.m3u8
+#EXTINF:-1,SBS
+http://122.129.115.21:1935/edgedol/_definst_/tao116/playlist.m3u8
+#EXTINF:-1,SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1,SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1,Toonverse
+http://122.129.115.21:1935/edgedol/_definst_/tao130/playlist.m3u8
+#EXTINF:-1,TV Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1,YTN
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b732000.m3u8
+#EXTINF:-1,CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1,A
+http://122.129.115.21:1935/edgedol/_definst_/tao134/playlist.m3u8
+#EXTINF:-1, Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/01.m3u8
+#EXTINF:-1, Disney Junior 2
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,ANIPLUS ID
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1,MY KIDS
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,ANIPLUS (ID)
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1,ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1,KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1,HITS
+http://45.126.83.51/uq2663/h/h37/01.m3u8
+#EXTINF:-1,FIRST MOVIES
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1,SINEMA INDONESIA
+http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
