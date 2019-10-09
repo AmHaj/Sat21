@@ -1,69 +1,496 @@
-#EXTINF
-#EXTINF:-1,Bein Sport Max 1
-http://195.154.78.98:1453/live/guney1234/guney1234/69555.ts
-#EXTINF:-1,Bein Sport Max 2
-http://195.154.78.98:1453/live/guney1234/guney1234/69554.ts
-#EXTINF:-1,Bein Sport Max 3
-http://195.154.78.98:1453/live/guney1234/guney1234/69553.ts
-#EXTINF:-1,Bein Sport Max 4
-http://195.154.78.98:1453/live/guney1234/guney1234/69552.ts
-#EXTINF:-1,BeOutQ SPORTS 1
-http://195.154.78.98:1453/live/guney1234/guney1234/69489.ts
-#EXTINF:-1,BeOutQ SPORTS 2
-http://195.154.78.98:1453/live/guney1234/guney1234/69488.ts
-#EXTINF:-1,BeOutQ SPORTS 3
-http://195.154.78.98:1453/live/guney1234/guney1234/69487.ts
-#EXTINF:-1,BEIN_SPORTS 1 HD
-http://iptvtool.es:9977/live/rachid1/rachid1/24720.ts
-#EXTINF:-1,BEIN_SPORTS 10 HD
-http://iptvtool.es:9977/live/rachid1/rachid1/24711.ts
-#EXTINF:-1,TR: Sports TV
-http://37.187.175.211:1923/live/www.ssiptv.net/www.vipteam.me/169.ts
-#EXTINF:-1,AL: Super Sport 1 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64162.ts
-#EXTINF:-1,AL: Super Sport 4 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/68234.ts
-#EXTINF:-1,AL: Tring Sport 2 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64174.ts
-#EXTINF:-1,DE: ORF Sport HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/13943.ts
-#EXTINF:-1,AR: AD Sport 1 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64243.ts
-#EXTINF:-1,AR: AD Sport 2 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64244.ts
-#EXTINF:-1,AR: beIN Sports 1 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64231.ts
-#EXTINF:-1,AR: beIN Sports 10 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64241.ts
-#EXTINF:-1,AR: beIN Sports 11 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64242.ts
-#EXTINF:-1,AR: beIN Sports 2 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64232.ts
-#EXTINF:-1,AR: beIN Sports 3 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64233.ts
-#EXTINF:-1,AR: beIN Sports 4 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64234.ts
-#EXTINF:-1,AR: beIN Sports 5 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64235.ts
-#EXTINF:-1,AR: beIN Sports 6 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64236.ts
-#EXTINF:-1,AR: beIN Sports 7 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64237.ts
-#EXTINF:-1,AR: beIN Sports 8 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64239.ts
-#EXTINF:-1,AR: beIN Sports 9 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64240.ts
-#EXTINF:-1,BG: Diema Sport 1 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64205.ts
-#EXTINF:-1,BG: Nova Sport HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64206.ts
-#EXTINF:-1,DE: Eurosport 1 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64180.ts
-#EXTINF:-1,DE: Eurosport 2 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64181.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64186.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64187.ts
-#EXTINF:-1,DE: Sky Sport 3 HD
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64188.ts
+#EXTM3U
+#EXTINF:-1,*** TR SPORTS XTREME iPTV ***
+#EXTINF:-1,TR: BEiN SPORT HABER UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/327.ts
+#EXTINF:-1,TR: BEIN SPORT HABER HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/388.ts
+#EXTINF:-1,TR: BEIN SPORTS 1 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/331.ts
+#EXTINF:-1,TR: BEIN SPORTS 1 UHD BACKUP
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2234.ts
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/337.ts
+#EXTINF:-1,TR: BEIN SPORTS 1 HD ( 50FPS )
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/330.ts
+#EXTINF:-1,TR: BEIN SPORT 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/329.ts
+#EXTINF:-1,TR: BEIN SPORTS 2 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/332.ts
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/338.ts
+#EXTINF:-1,TR: BEIN SPORTS 3 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/333.ts
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/339.ts
+#EXTINF:-1,TR: BEIN SPORTS 4 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/334.ts
+#EXTINF:-1,TR: BEIN SPORTS 4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/340.ts
+#EXTINF:-1,TR: BEiN SPORT-1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/382.ts
+#EXTINF:-1,TR: BEiN SPORT-2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/383.ts
+#EXTINF:-1,TR: BEiN SPORT-3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/384.ts
+#EXTINF:-1,TR: BEiN SPORT-4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/385.ts
+#EXTINF:-1,TR:  BEIN SPORTS 1 UHD YEDEK
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2275.ts
+#EXTINF:-1,TR:  BEIN SPORT 1 HD YEDEK
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2277.ts
+#EXTINF:-1,TR: BEIN SPORT 1 HQ YEDEK
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2346.ts
+#EXTINF:-1,TR: BEIN SPORTS 4K
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/328.ts
+#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/335.ts
+#EXTINF:-1,TR: BEIN SPORT MAX 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/341.ts
+#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/336.ts
+#EXTINF:-1,TR: BEIN SPORT MAX 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/342.ts
+#EXTINF:-1,TR: BEiN SPORT MAX-1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/386.ts
+#EXTINF:-1,TR: BEiN SPORT MAX-2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/387.ts
+#EXTINF:-1,TR: S-SPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/343.ts
+#EXTINF:-1,TR: S-SPORT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/392.ts
+#EXTINF:-1,TR: SPORTSTV HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/399.ts
+#EXTINF:-1,TR: EUROSPORT1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/395.ts
+#EXTINF:-1,TR: EUROSPORT2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/396.ts
+#EXTINF:-1,TR: SPORTS TV
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1321.ts
+#EXTINF:-1,*** NEDERLAND SPORTS XTREME iPTV ***
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2764.ts
+#EXTINF:-1,NL: FOX SPORTS 1 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/284.ts
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2888.ts
+#EXTINF:-1,NL: FOX SPORTS 2 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/263.ts
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2356.ts
+#EXTINF:-1,NL: FOX SPORTS 3 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2889.ts
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/285.ts
+#EXTINF:-1,NL: FOX SPORTS 4 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2357.ts
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3100.ts
+#EXTINF:-1,NL: FOX SPORTS 5 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2358.ts
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3101.ts
+#EXTINF:-1,NL: FOX SPORTS 6 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2890.ts
+#EXTINF:-1,NL: FOX SPORTS 6 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3102.ts
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/306.ts
+#EXTINF:-1,NL: ZIGGO SPORT RACING UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2235.ts
+#EXTINF:-1,NL: ZIGGO SPORT SELECT UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/305.ts
+#EXTINF:-1,NL: ZIGGO SPORT GOLF UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/304.ts
+#EXTINF:-1,NL:  ZIGGO SPORT EXTRA 1 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2772.ts
+#EXTINF:-1,NL:  ZIGGO SPORT EXTRA 2 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2773.ts
+#EXTINF:-1,NL:  MOTOR SPORT UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2771.ts
+#EXTINF:-1,NL: EUROSPORT 1 UHD NL
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/296.ts
+#EXTINF:-1,NL: EUROSPORT 2 UHD NL
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/264.ts
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2891.ts
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2895.ts
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2896.ts
+#EXTINF:-1,NL: ZIGGO SPORT  SELECT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2892.ts
+#EXTINF:-1,NL: ZIGGO SPORT  RACING HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2893.ts
+#EXTINF:-1,NL: ZIGGO SPORT GOLF HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2894.ts
+#EXTINF:-1,NL: MOTOR SPORT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2897.ts
+#EXTINF:-1,NL: EUROSPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2887.ts
+#EXTINF:-1,NL: NPO POLITIEK / SPORT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2864.ts
+#EXTINF:-1,AR: PALESTINE SPORT
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3197.ts
+#EXTINF:-1,AR: JORDAN SPORT
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3194.ts
+#EXTINF:-1,SPO: BEIN SPORTS NEWS
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/537.ts
+#EXTINF:-1,SPO: BEIN SPORTS
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/522.ts
+#EXTINF:-1,SPO: BEIN SPORTS 1 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/523.ts
+#EXTINF:-1,SPO: BEIN SPORTS 2 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/524.ts
+#EXTINF:-1,SPO: BEIN SPORTS 3 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/525.ts
+#EXTINF:-1,SPO: BEIN SPORTS 4 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/526.ts
+#EXTINF:-1,SPO: BEIN SPORTS 5 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/527.ts
+#EXTINF:-1,SPO: BEIN SPORTS 6 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/528.ts
+#EXTINF:-1,SPO: BEIN SPORTS 7 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/529.ts
+#EXTINF:-1,SPO: BEIN SPORTS 8 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/530.ts
+#EXTINF:-1,SPO: BEIN SPORTS 9 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/531.ts
+#EXTINF:-1,SPO: BEIN SPORTS 10 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/532.ts
+#EXTINF:-1,SPO: BEIN SPORTS 11 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/533.ts
+#EXTINF:-1,SPO: BEIN SPORTS 12 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/534.ts
+#EXTINF:-1,SPO: BEIN SPORTS 13 UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/535.ts
+#EXTINF:-1,SPO: BEIN SPORTS NBA UHD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/536.ts
+#EXTINF:-1,DE: SPORTDIGITAL HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2179.ts
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2176.ts
+#EXTINF:-1,DE: SKY SPORT NEWS
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2175.ts
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2210.ts
+#EXTINF:-1,DE: SKY SPORT 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2209.ts
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2212.ts
+#EXTINF:-1,DE: SKY SPORT 2
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2211.ts
+#EXTINF:-1,DE: SKY SPORT 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2214.ts
+#EXTINF:-1,DE: SKY SPORT 3
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2213.ts
+#EXTINF:-1,DE: SKY SPORT 4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2216.ts
+#EXTINF:-1,DE: SKY SPORT 4
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2215.ts
+#EXTINF:-1,DE: SKY SPORT 5 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2218.ts
+#EXTINF:-1,DE: SKY SPORT 5
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2217.ts
+#EXTINF:-1,DE: SKY SPORT 6 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2220.ts
+#EXTINF:-1,DE: SKY SPORT 6
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2219.ts
+#EXTINF:-1,DE: SKY SPORT 7 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2222.ts
+#EXTINF:-1,DE: SKY SPORT 7
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2221.ts
+#EXTINF:-1,DE: SKY SPORT 8 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2224.ts
+#EXTINF:-1,DE: SKY SPORT 8
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2223.ts
+#EXTINF:-1,DE: SKY SPORT 9 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2226.ts
+#EXTINF:-1,DE: SKY SPORT 9
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2225.ts
+#EXTINF:-1,DE: SKY SPORT 10 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2228.ts
+#EXTINF:-1,DE: SKY SPORT 10
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2227.ts
+#EXTINF:-1,DE: SKY SPORT 11 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2230.ts
+#EXTINF:-1,DE: SKY SPORT 11
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2229.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2190.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2189.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2192.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2191.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2194.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2193.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2196.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 4
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2195.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 5 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2198.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 5
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2197.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 6 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2200.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 6
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2199.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 7 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2202.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 7
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2201.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 8 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2204.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 8
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2203.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 9 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2206.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 9
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2205.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 10 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2208.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 10
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2207.ts
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2188.ts
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2187.ts
+#EXTINF:-1,DE: EUROSPORT U1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2182.ts
+#EXTINF:-1,DE: EUROSPORT 2 HD XTRA
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2184.ts
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2183.ts
+#EXTINF:-1,FR: SFR SPORT 5 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1839.ts
+#EXTINF:-1,FR: SFR SPORT 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1838.ts
+#EXTINF:-1,FR: SFR Sport 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1837.ts
+#EXTINF:-1,FR: SFR Sport 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1836.ts
+#EXTINF:-1,FR: INFOSPORT
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1823.ts
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1822.ts
+#EXTINF:-1,FR: CANAL  SPORT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1824.ts
+#EXTINF:-1,FR: BFM SPORT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1825.ts
+#EXTINF:-1,FR: Bein Sports max 9 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1834.ts
+#EXTINF:-1,FR: Bein Sports max 8 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1833.ts
+#EXTINF:-1,FR: Bein Sports max 7 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1832.ts
+#EXTINF:-1,FR: Bein Sports max 6 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1831.ts
+#EXTINF:-1,FR: Bein Sports max 5 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1830.ts
+#EXTINF:-1,FR: Bein Sports max 4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1829.ts
+#EXTINF:-1,FR: Bein Sports 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1828.ts
+#EXTINF:-1,FR: Bein Sports 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1827.ts
+#EXTINF:-1,FR: Bein Sports 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1826.ts
+#EXTINF:-1,FR: Bein Sport Max 10 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1835.ts
+#EXTINF:-1,*** UK SPORTS XTREME IPTV ***
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2658.ts
+#EXTINF:-1,UK: SKY SPORTS F1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3181.ts
+#EXTINF:-1,SP: M. eSports
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1024.ts
+#EXTINF:-1,SP: EUROSPORT 2
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1025.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2668.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2667.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2671.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2672.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2673.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2669.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2670.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2674.ts
+#EXTINF:-1,PT: Sporting TV
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/934.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/946.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/846.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/908.ts
+#EXTINF:-1,PT: SPORT TV 3
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/857.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/907.ts
+#EXTINF:-1,PT: SPORT TV 2
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/866.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/904.ts
+#EXTINF:-1,PT: SPORT TV 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/879.ts
+#EXTINF:-1,PT: SPORT TV
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/930.ts
+#EXTINF:-1,PT: motorsport.tv
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/865.ts
+#EXTINF:-1,PT: Kombat Sport
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/914.ts
+#EXTINF:-1,PT: Eurosport 2
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/902.ts
+#EXTINF:-1,PT: Eurosport 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/922.ts
+#EXTINF:-1,PT: EURO SPORT 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/835.ts
+#EXTINF:-1,PL: TVP SPORT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/684.ts
+#EXTINF:-1,PL: SPORTKLUB HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/678.ts
+#EXTINF:-1,PL: POLSAT SPORT NEWS HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/719.ts
+#EXTINF:-1,PL: POLSAT SPORT FIGHT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/727.ts
+#EXTINF:-1,PL: POLSAT SPORT EXTRA
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/709.ts
+#EXTINF:-1,PL: POLSAT SPORT
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/711.ts
+#EXTINF:-1,PL: EXTREME SPORTS HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/736.ts
+#EXTINF:-1,PL: EURO SPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/725.ts
+#EXTINF:-1,PL: EURO SPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/732.ts
+#EXTINF:-1,PL: ELEVEN SPORTS 4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/740.ts
+#EXTINF:-1,PL: CANAL   SPORT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/735.ts
+#EXTINF:-1,HU: M4 SPORT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3048.ts
+#EXTINF:-1,HU: M4 SPORT
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3049.ts
+#EXTINF:-1,HU: SPORT 2
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3058.ts
+#EXTINF:-1,HU: SPORT 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3057.ts
+#EXTINF:-1,HU: EUROSPORT 2
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3060.ts
+#EXTINF:-1,HU: EUROSPORT 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3059.ts
+#EXTINF:-1,BG: DIEMA SPORT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1958.ts
+#EXTINF:-1,BG: DIEMA SPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1960.ts
+#EXTINF:-1,BG: DIEMA SPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1959.ts
+#EXTINF:-1,BG: MTEL SPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1914.ts
+#EXTINF:-1,BG: MTEL SPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1913.ts
+#EXTINF:-1,BG: MAX SPORT 4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1916.ts
+#EXTINF:-1,BG: MAX SPORT 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1917.ts
+#EXTINF:-1,BG: SPORTKLUB 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1894.ts
+#EXTINF:-1,BG: SPORTKLUB 2
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1893.ts
+#EXTINF:-1,BG: SPORTKLUB 3
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1892.ts
+#EXTINF:-1,BG: SPORT PLUS HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1895.ts
+#EXTINF:-1,BG: SPORT KLUP START
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1896.ts
+#EXTINF:-1,BG: EUROSPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1946.ts
+#EXTINF:-1,BG: EUROSPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1947.ts
+#EXTINF:-1,BG: ARENA SPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2000.ts
+#EXTINF:-1,BG: ARENA SPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1999.ts
+#EXTINF:-1,BG: ARENA SPORT 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1998.ts
+#EXTINF:-1,BG: ARENA SPORT 4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1997.ts
+#EXTINF:-1,BG: ARENA SPORT 5 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1996.ts
+#EXTINF:-1,BG: EDGE SPORTS HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1950.ts
+#EXTINF:-1,BG: NOVA SPORT HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1907.ts
+#EXTINF:-1,GR: TILESPORT
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/3111.ts
+#EXTINF:-1,SRB: Eurosport
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/598.ts
+#EXTINF:-1,SRB: EURO SPORT
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/620.ts
+#EXTINF:-1,SRB: ARENA SPORT 5
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/608.ts
+#EXTINF:-1,SRB: ARENA SPORT 4
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/601.ts
+#EXTINF:-1,SRB: ARENA SPORT 3
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/612.ts
+#EXTINF:-1,SRB: ARENA SPORT 2
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/613.ts
+#EXTINF:-1,SRB: ARENA SPORT 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/610.ts
+#EXTINF:-1,ALB: TRING SPORT 4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2751.ts
+#EXTINF:-1,ALB: TRING SPORT 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2750.ts
+#EXTINF:-1,ALB: TRING SPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2749.ts
+#EXTINF:-1,ALB: TRING SPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2748.ts
+#EXTINF:-1,ALB: SUPER SPORT 6 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2757.ts
+#EXTINF:-1,ALB: SUPER SPORT 5 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2756.ts
+#EXTINF:-1,ALB: SUPER SPORT 4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2755.ts
+#EXTINF:-1,ALB: SUPER SPORT 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2754.ts
+#EXTINF:-1,ALB: SUPER SPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2753.ts
+#EXTINF:-1,ALB: SUPER SPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2752.ts
+#EXTINF:-1,ALB: KUJTESA SPORT 5 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2747.ts
+#EXTINF:-1,ALB: KUJTESA SPORT 4 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2746.ts
+#EXTINF:-1,ALB: KUJTESA SPORT 3 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2745.ts
+#EXTINF:-1,ALB: KUJTESA SPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2744.ts
+#EXTINF:-1,ALB: KUJTESA SPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2743.ts
+#EXTINF:-1,CZ: EUROSPORT 2 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2943.ts
+#EXTINF:-1,CZ: EUROSPORT 1 HD
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2942.ts
+#EXTINF:-1,CZ: ARENA SPORT
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/2937.ts
+#EXTINF:-1,RO: Eurosport Romania
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1430.ts
+#EXTINF:-1,RO: Eurosport Int
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1433.ts
+#EXTINF:-1,RO: DIGI Sport 4
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1437.ts
+#EXTINF:-1,RO: DIGI Sport 2
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1438.ts
+#EXTINF:-1,RO: DIGI Sport 1
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1441.ts
+#EXTINF:-1,RO: Auto Motor Sport
+http://www.samrapro.eu:8000/live/rpQFXwLgcZ/GVRhyFS36H/1410.ts
