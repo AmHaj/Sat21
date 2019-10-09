@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="http://0n1y7v.xyz:2095/xmltv.php?username=albarran&password=12345" m3uautoload=1 cache=5000 deinterlace=1
+#EXTM3U 
+
 #EXTINF:-1 type="stream" tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="http://i.imgur.com/GZDpTqS.png?1" group-title="ENTRETENIMIENTO",A&E
 http://0n1y7v.xyz:2095/live/albarran/12345/23.ts
 #EXTINF:-1 type="stream" tvg-id="AandE.mx" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/ZcNyg5i.png" group-title="ENTRETENIMIENTO",A&E HD
