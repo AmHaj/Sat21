@@ -1,5 +1,105 @@
 
 #EXTM3U
+
+#EXTINF:-1,Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1,~ Kuwait TV ~
+http://www.lengua.com/anthems/Kuwait.mp3
+#EXTINF:-1,Al Rai
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:-1,KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1,KTV 1*
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+#EXTINF:-1,KTV 2
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
+#EXTINF:-1,KTV 2*
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1,KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1,KTV Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:-1,KTV Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1,KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:-1,~ Oman TV ~
+http://www.lengua.com/anthems/Oman.mp3
+#EXTINF:-1,Oman TV
+http://38.96.148.30:1935/live/omantv1//playlist.m3u8
+#EXTINF:-1,Oman TV*
+http://37.152.128.66:7009/play/a00j
+#EXTINF:-1,Oman Mubasher
+http://38.96.148.30:1935/live/omantv3/playlist.m3u8
+#EXTINF:-1,Oman Documentary
+http://38.96.148.30:1935/live/omantv4/playlist.m3u8
+#EXTINF:-1,Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+#EXTINF:-1,~ Yemen TV ~
+http://www.lengua.com/anthems/Yemen.mp3
+#EXTINF:-1,Yemen TV [Off]
+http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
+#EXTINF:-1,Al Masirah
+http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
+#EXTINF:-1,~ Egypt TV ~
+http://www.lengua.com/anthems/Egypt.mp3
+#EXTINF:-1,CBC
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
+#EXTINF:-1,Al Kahera Wal Nas
+http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
+#EXTINF:-1,El Sharq [Off]
+http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
+#EXTINF:-1,Mekameleen
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
+#EXTINF:-1,Nile Cinema
+http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
+#EXTINF:-1,~ Tunisia TV ~
+http://www.lengua.com/anthems/Tunisia.mp3
+#EXTINF:-1,Nessma [Geo]
+http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+#EXTINF:-1,Nessma*
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+#EXTINF:-1,~ Libya TV ~
+http://www.lengua.com/anthems/Libya.mp3
+#EXTINF:-1,Al Nabaa
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
+#EXTINF:-1,Libya 218
+http://91.134.145.75:10001/218tv/218tv/playlist.m3u8
+#EXTINF:-1,Libya TV
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:-1,~ Algeria TV ~
+http://www.lengua.com/anthems/Algeria.mp3
+#EXTINF:-1,Dzair TV [Geo]
+http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+#EXTINF:-1,Ennahar TV
+http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
+#EXTINF:-1,~ Morocco TV ~
+http://www.lengua.com/anthems/Morocco.mp3
+#EXTINF:-1,Al Aoula
+http://95.81.155.40/5958/index.m3u8
+#EXTINF:-1,Al Aoula Int'l
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1,Al Aoula Laayoune
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1,Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,Arrabiaa
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1,Al Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1,Tamazight
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,~ Ethiopia TV ~
 #EXTINF:0,BEINSPORTS 5 SD
 http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/42.ts
 #EXTINF:0,BEINSPORTS 5 HD BACKUP
