@@ -1555,13 +1555,13 @@ http://sansat.net:25461/olivier3/olivier4/7030
 #EXTINF:-1,AR: Aden TV
 http://sansat.net:25461/olivier3/olivier4/7029
 
-#EXTINF:-1,======OMAN======
+#EXTINF:-1,======OMAN======http://sansat.net:25461/olivier3/olivier4/7028
 
-http://sansat.net:25461/olivier3/olivier4/7028
-#EXTINF:-1,AR: Oman TV
-http://sansat.net:25461/olivier3/olivier4/7027
-#EXTINF:-1,AR: Al Istiqama
-http://sansat.net:25461/olivier3/olivier4/7026
+
+#EXTINF:-1,AR: Oman TV http://sansat.net:25461/olivier3/olivier4/7027
+
+#EXTINF:-1,AR: Al Istiqama http://sansat.net:25461/olivier3/olivier4/7026
+
 
 #EXTINF:-1,======QATAR======
 
