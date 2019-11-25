@@ -1,9 +1,6 @@
-#EXTM3U
-#EXTINF:-1,===== General =====
-
+#EXTINF
+#EXTINF:-1 group-title="FRANCE",TF1
 http://sansat.net:25461/olivier3/olivier4/49160
-#EXTINF:-1,TF1 HD
-
 http://sansat.net:25461/olivier3/olivier4/49161
 #EXTINF:-1,FRANCE 2 HD
 
