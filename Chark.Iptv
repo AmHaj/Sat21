@@ -1,5 +1,5 @@
 #EXTM3U
-##EXTINF:-1group-title="BEIN",AR: beIN Sport 1 FHD
+#EXTINF:-1group-title="BEIN",AR: beIN Sport 1 FHD
 http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/68106
 #EXTINF:-1,AR: beIN Sport 1 HD
 http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/68118
@@ -94,9 +94,9 @@ http://super1.ideaiptv.com:25461/mousanew/2342343/6341
 #EXTINF:-1,AR |: Bein Sports 11 HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/6342
 
-===============USA================
+========USA=======
 
-#EXTINF:-1group-title="USA",USA: TRUTV
+#EXTINF:-1 group-title="USA",USA: TRUTV
 http://23.237.122.154:25461/BUDTV/DFGHJ/612
 #EXTINF:-1,USA TNT
 http://23.237.122.154:25461/BUDTV/DFGHJ/611
@@ -261,9 +261,9 @@ http://23.237.122.154:25461/BUDTV/DFGHJ/620
 #EXTINF:-1,USA BEIN
 http://23.237.122.154:25461/BUDTV/DFGHJ/617
 
-=================FRANCE=======================
+=========FRANCE===========
 
-#EXTINF:-1group-title="FRANCE",|FR|: FRANCE 3 FHD
+#EXTINF:-1 group-title="FRANCE",|FR|: FRANCE 3 FHD
 http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/4
 #EXTINF:-1,M6 SD
 http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/5
