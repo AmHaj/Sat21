@@ -1,6 +1,36 @@
 #EXTM3U
 #EXTINF:-1 group-title="BEIN" ,AR: beIN Sport 1 FHD
 http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/68106
+#EXTINF:-1,AR | beIN Sports 10
+http://live.eurovipserver.com:1453/aksel/ilker/126505
+#EXTINF:-1,AR | beIN Sports 9
+http://live.eurovipserver.com:1453/aksel/ilker/126506
+#EXTINF:-1,AR | beIN Sports HD
+http://live.eurovipserver.com:1453/aksel/ilker/126504
+#EXTINF:-1,AR | beIN Sports Max 5
+http://live.eurovipserver.com:1453/aksel/ilker/126503
+#EXTINF:-1,AR | beIN Sports Max 6
+http://live.eurovipserver.com:1453/aksel/ilker/126502
+#EXTINF:-1,AR | beIN Sports Max 7
+http://live.eurovipserver.com:1453/aksel/ilker/126501
+#EXTINF:-1,AR | beIN Sports Max 8
+http://live.eurovipserver.com:1453/aksel/ilker/126500
+#EXTINF:-1,AR | beIN Sports NBA
+http://live.eurovipserver.com:1453/aksel/ilker/126499
+#EXTINF:-1,AR | beIN Sports NBA HD
+http://live.eurovipserver.com:1453/aksel/ilker/126498
+#EXTINF:-1,AR | BeoutQ 10 HD
+http://live.eurovipserver.com:1453/aksel/ilker/126484
+#EXTINF:-1,AR | BeoutQ 4 HD
+http://live.eurovipserver.com:1453/aksel/ilker/126490
+#EXTINF:-1,AR | BeoutQ 5 HD
+http://live.eurovipserver.com:1453/aksel/ilker/126489
+#EXTINF:-1,AR | BeoutQ 6 HD
+http://live.eurovipserver.com:1453/aksel/ilker/126488
+#EXTINF:-1,AR | BeoutQ 7 HD
+http://live.eurovipserver.com:1453/aksel/ilker/126487
+#EXTINF:-1,AR | BeoutQ 8 HD
+http://live.eurovipserver.com:1453/aksel/ilker/12648
 #EXTINF:-1,AR: beIN Sport 1 HD
 http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/68118
 #EXTINF:-1,AR: beIN Sport 2 FHD
