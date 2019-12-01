@@ -296,7 +296,7 @@ http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/14
 
 =================MOROCCO========================
 
-#EXTINF:-1 group-title="ARABIC" ,AR: 2M MAROC MONDE
+#EXTINF:-1 group-title="MOROCCO" ,AR: 2M MAROC MONDE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1,Al Aoula International
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
