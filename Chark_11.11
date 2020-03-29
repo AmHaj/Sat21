@@ -1,6 +1,5 @@
-
-#EXTM3U
-#EXTINF:-1,Bein Sport 1 HD
+EXTINF:
+EXTINF-1,Bein Sport 1 HD
 http://107.152.35.244:8888/live/star7arab/star7arab/1.ts
 #EXTINF:-1,Bein Sport 2 HD
 http://107.152.35.244:8888/live/star7arab/star7arab/2.ts
@@ -67,7 +66,6 @@ http://super1.ideaiptv.com:25461/mousanew/2342343/6339
 http://super1.ideaiptv.com:25461/mousanew/2342343/6341
 #EXTINF:-1,AR |: Bein Sports 11 HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/6342
-
 #EXTINF:-1,FR:_BeinSport1_FULLHD
 http://s.igiptv.com:8000/Hisham/hisham123/30602
 #EXTINF:-1,FR:_BeinSport1_HD
