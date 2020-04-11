@@ -1,488 +1,1769 @@
 #EXTM3U
-#EXTINF:-1,|USA| HBO COMEDY HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65155
-#EXTINF:-1,|USA| HBO FAMILY
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65154
-#EXTINF:-1,|USA| HBO HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65200
-#EXTINF:-1,|USA| HBO HD 1
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65126
-#EXTINF:-1,|USA| HBO HD 2
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65125
-#EXTINF:-1,|USA| HBO SIGNATURE HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65153
-#EXTINF:-1,|USA| HBO ZONE
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65199
-#EXTINF:-1,|USA| CINEMAX ACTION MAX
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65091
-#EXTINF:-1,|USA| CINEMAX HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65223
-#EXTINF:-1,|USA| CINEMAX MORE MAX
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65090
-#EXTINF:-1,|USA| CINEMAX MOREMAX HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65222
-#EXTINF:-1,|USA| CINEMAX OUTER MAX
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65089
-#EXTINF:-1,|USA| CINEMAX THRILLERMAX HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65221
-#EXTINF:-1,|USA| EPIX
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65212
-#EXTINF:-1,|USA| EPIX 2 HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65213
-#EXTINF:-1,|USA| EPIX HITS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65052
-#EXTINF:-1,|USA| SHOWTIME HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65180
-#EXTINF:-1,|USA| SHOWTIME 2
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65183
-#EXTINF:-1,|USA| SHOWTIME EXTREME
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65065
-#EXTINF:-1,|USA| SPIKE/PARAMOUNT
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65064
-#EXTINF:-1,|USA| SPIKE/PARAMOUNT HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65179
-#EXTINF:-1,|USA| STARZ
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/98275
-#EXTINF:-1,|USA| STARZ COMEDY
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65177
-#EXTINF:-1,|USA| STARZ KIDS & FAMILY
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65178
-#EXTINF:-1,|USA| STARZ ENCORE
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/98276
-#EXTINF:-1,|USA| STARZ ENCORE WESTERNS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/98277
-#EXTINF:-1,|USA| STARZ BLACK
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/98632
-#EXTINF:-1,|USA| COMEDY CENTRAL
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65220
-#EXTINF:-1,|USA| ID HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65197
-#EXTINF:-1,|USA| A&E
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65097
-#EXTINF:-1,|USA| A&E HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65236
-#EXTINF:-1,|USA| ANTENNA TV
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65095
-#EXTINF:-1,|USA| BBC AMERICA HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65232
-#EXTINF:-1,|USA| BET
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65094
-#EXTINF:-1,|USA| BET HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65164
-#EXTINF:-1,|USA| BET HER
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65093
-#EXTINF:-1,|USA| AMC HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65138
-#EXTINF:-1,|USA| COZI TV
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65109
-#EXTINF:-1,|USA| BRAVO HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65229
-#EXTINF:-1,|USA| CMT HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65162
-#EXTINF:-1,|USA| CW HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65219
-#EXTINF:-1,|USA| FREEFORM HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65207
-#EXTINF:-1,|USA| FUSION HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65206
-#EXTINF:-1,|USA| FX HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65128
-#EXTINF:-1,|USA| FXM
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65043
-#EXTINF:-1,|USA| FXX HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65127
-#EXTINF:-1,|USA| FYI
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65082
-#EXTINF:-1,|USA| GSN HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65204
-#EXTINF:-1,|USA| H2
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65203
-#EXTINF:-1,|USA| HALL MARK HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65202
-#EXTINF:-1,|USA| HALLMARK MOVIES&MYSTERIES HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65156
-#EXTINF:-1,|USA| HEROS & ICONS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65081
-#EXTINF:-1,|USA| HGTV FHD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65080
-#EXTINF:-1,|USA| HGTV HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65198
-#EXTINF:-1,|USA| E! HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65215
-#EXTINF:-1,|USA| OXYGEN HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65185
-#EXTINF:-1,|USA| PARAMOUNT
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65068
-#EXTINF:-1,|USA| PBS WLIW 21
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65066
-#EXTINF:-1,|USA| LIFETIME HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65124
-#EXTINF:-1,|USA| LMN HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65196
-#EXTINF:-1,|USA| VH1 HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65167
-#EXTINF:-1,|USA| WE HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65165
-#EXTINF:-1,|USA| WE TV
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65056
-#EXTINF:-1,|USA| WGN AMERICA
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65055
-#EXTINF:-1,|USA| WPIX 11 NY
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65054
-#EXTINF:-1,|USA| SYFY HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65176
-#EXTINF:-1,|USA| MOREMAX HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65194
-#EXTINF:-1,|USA| TBS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65175
-#EXTINF:-1,|USA| TLC HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65119
-#EXTINF:-1,|USA| TLC USA
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65098
-#EXTINF:-1,|USA| TNT HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65172
-#EXTINF:-1,|USA| TRU TV HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65171
-#EXTINF:-1,|USA| TURNER CLASSIC MOVIES
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65059
-#EXTINF:-1,|USA| TV LAND
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65058
-#EXTINF:-1,|USA| TV LAND HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65170
-#EXTINF:-1,|USA| TV ONE
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65057
-#EXTINF:-1,|USA| TCM
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65060
-#EXTINF:-1,|USA| DESTINATION AMERICA
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65218
-#EXTINF:-1,|USA| DIY NETWORK HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65131
-#EXTINF:-1,|USA| USA NETWORK
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65168
-#EXTINF:-1,|USA| ION TV
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65078
-#EXTINF:-1,##### |USA| KIDS #####
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65240
-#EXTINF:-1,|USA| BOOMERANG HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65163
-#EXTINF:-1,|USA| CARTOON NETWORK
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65227
-#EXTINF:-1,|USA| DISNEY HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65216
-#EXTINF:-1,|USA| DISNEY JR. HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65159
-#EXTINF:-1,|USA| DISNEY XD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65104
-#EXTINF:-1,|USA| DISNEY XD HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65158
-#EXTINF:-1,|USA| NICK HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65189
-#EXTINF:-1,|USA| NICK JR
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65070
-#EXTINF:-1,|USA| NICK JR. HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65188
-#EXTINF:-1,|USA| NICKTOONS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65187
-#EXTINF:-1,|USA| PBS HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65184
-#EXTINF:-1,|USA| PBS KIDS EAST
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65067
-#EXTINF:-1,|USA| UNIVERSAL KIDS HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65169
-#EXTINF:-1,|USA| TEEN NICK
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65041
-#EXTINF:-1,##### |USA| DOCUMANTARY #####
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65242
-#EXTINF:-1,|USA| AMERICAN HEROES AND ICONS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65100
-#EXTINF:-1,|USA| AMERICAN HEROES CHANNEL
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65103
-#EXTINF:-1,|USA| ANIMAL PLANET HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65137
-#EXTINF:-1,|USA| CRIME & INVESTIGATION HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65160
-#EXTINF:-1,|USA| COOKING CHANNEL HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65161
-#EXTINF:-1,|USA| DISCOVERY FAMILY HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65116
-#EXTINF:-1,|USA| DISCOVERY HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65133
-#EXTINF:-1,|USA| DISCOVERY SCIENCE HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65132
-#EXTINF:-1,|USA| DISCOVERY VELOCITY HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65217
-#EXTINF:-1,|USA| FOOD NETWORK HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65130
-#EXTINF:-1,|USA| HISTORY HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65118
-#EXTINF:-1,|USA| INVESTIGATION DISCOVERY
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65079
-#EXTINF:-1,|USA| NAT GEO HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65193
-#EXTINF:-1,|USA| NAT GEO USA
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65075
-#EXTINF:-1,|USA| NAT GEO WILD HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65122
-#EXTINF:-1,|USA| NAT GEO WILD HD US
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65074
-#EXTINF:-1,|USA| THE TRAVEL CHANNEL HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65173
-#EXTINF:-1,##### |USA| NEWS #####
-http://185.79.114.12:25461/greetings.mp4
-#EXTINF:-1,|USA| ABC HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65235
-#EXTINF:-1,|USA| ABC NEWS HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65234
-#EXTINF:-1,|USA| ABC NY FHD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65096
-#EXTINF:-1,|USA| AFN PRIME ATLANTIC
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65115
-#EXTINF:-1,|USA| AFN PRIME PACIFIC
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65114
-#EXTINF:-1,|USA| BIG TEN NETWORK
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65231
-#EXTINF:-1,|USA| BLOOMBERG HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65230
-#EXTINF:-1,|USA| CBN HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65226
-#EXTINF:-1,|USA| CBN NEWS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65225
-#EXTINF:-1,|USA| CBS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65135
-#EXTINF:-1,|USA| CBS NY FHD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65092
-#EXTINF:-1,|USA| CNBC HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65146
-#EXTINF:-1,|USA| CNN
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65088
-#EXTINF:-1,|USA| CNN HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65134
-#EXTINF:-1,|USA| ESPN NEWS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65101
-#EXTINF:-1,|USA| ESPNDEPORTES HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65157
-#EXTINF:-1,|USA| FOX 5
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65084
-#EXTINF:-1,|USA| FOX 5 HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65083
-#EXTINF:-1,|USA| FOX BUSINESS NETWORK HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65210
-#EXTINF:-1,|USA| FOX HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65129
-#EXTINF:-1,|USA| FOX NEWS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65142
-#EXTINF:-1,|USA| MLB NETWORK
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65195
-#EXTINF:-1,|USA| MSNBC HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65123
-#EXTINF:-1,|USA| MY 9
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65076
-#EXTINF:-1,|USA| NBC 4 NY FHD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65073
-#EXTINF:-1,|USA| NO TV NEW ORLEANS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65186
-#EXTINF:-1,|USA| OWN
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65099
-#EXTINF:-1,|USA| OWN HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65069
-#EXTINF:-1,|USA| OWN HD (OPRAH WINFRY NETWORK)
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65120
-#EXTINF:-1,|USA| SEC NETWORK
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65182
-#EXTINF:-1,|USA| SEC NETWORK HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65181
-#EXTINF:-1,|USA| SUNDANCE HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65148
-#EXTINF:-1,|USA| TBN TRINITY BROADCASTING NETWORK
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65061
-#EXTINF:-1,|USA| TELEMUNDO
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65106
-#EXTINF:-1,|USA| UNIMAS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65107
-#EXTINF:-1,|USA| UNIVISION
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65105
-#EXTINF:-1,|USA| VELOCITY HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65117
-#EXTINF:-1,|USA| WWE NETWORK HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65139
-#EXTINF:-1,|USA| YES NETWORK
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65053
-#EXTINF:-1,##### |USA| MUSIC #####
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65241
-#EXTINF:-1,|USA| MTV 2
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65077
-#EXTINF:-1,|USA| MTV HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65152
-#EXTINF:-1,|USA| MTVLIVE HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65151
-#EXTINF:-1,|USA| VICELAND HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65166
-#EXTINF:-1,##### |USA| SPORT #####
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65239
-#EXTINF:-1,|USA| AFN SPORTS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65113
-#EXTINF:-1,|USA| AFN SPORTS 2
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65112
-#EXTINF:-1,|USA| BEIN SPORTS HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65147
-#EXTINF:-1,|USA| BEIN USA HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65136
-#EXTINF:-1,|USA| CBS SPORTS NETWORK HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65224
-#EXTINF:-1,|USA| ESPN
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65087
-#EXTINF:-1,|USA| ESPN 2
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65086
-#EXTINF:-1,|USA| ESPN HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65144
-#EXTINF:-1,|USA| ESPN 2 HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65145
-#EXTINF:-1,|USA| ESPN U
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65085
-#EXTINF:-1,|USA| ESPN U HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65143
-#EXTINF:-1,|USA| FIGHT NETWORK HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65051
-#EXTINF:-1,|USA| FOX COLLEGE ATLANTIC
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65050
-#EXTINF:-1,|USA| FOX COLLEGE CENTRAL
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65049
-#EXTINF:-1,|USA| FOX COLLEGE PACIFIC
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65048
-#EXTINF:-1,|USA| FOX COLLEGE SPORTS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65211
-#EXTINF:-1,|USA| FOX SOCCER PLUS
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65047
-#EXTINF:-1,|USA| FOX SOCCER PLUS HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65046
-#EXTINF:-1,|USA| FOX SPORTS 1 HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65209
-#EXTINF:-1,|USA| FOX SPORTS 2 HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65208
-#EXTINF:-1,|USA| FOX SPORTS FLORIDA
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65045
-#EXTINF:-1,|USA| FOX SPORTS SUN
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65044
-#EXTINF:-1,|USA| NBC SPORTS NETWORK
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65040
-#EXTINF:-1,|USA| NBC GOLF
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65072
-#EXTINF:-1,|USA| NBC HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65141
-#EXTINF:-1,|USA| NBCSN HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65140
-#EXTINF:-1,|USA| NFL NETWORK HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65192
-#EXTINF:-1,|USA| NFL NOW HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65191
-#EXTINF:-1,|USA| NFL REDZONE HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65111
-#EXTINF:-1,|USA| SPORTSNET NY
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65062
-#EXTINF:-1,|USA| SPORTSNET LA
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65063
-#EXTINF:-1,|USA| TENNIS HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65174
-#EXTINF:-1,|USA| ELEVEN SPORTS HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65214
-#EXTINF:-1,|USA| GOLF HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65205
-#EXTINF:-1,|USA| BTN HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65228
-#EXTINF:-1,|USA| MAV TV
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65110
-#EXTINF:-1,|USA| NBA TV HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65121
-#EXTINF:-1,|USA| NHL NETWORK
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65071
-#EXTINF:-1,|USA| NHL NETWORK HD
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65190
-#EXTINF:-1,|USA| HSN
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65108
-#EXTINF:-1,|USA| UFC FIGHT PASS (ONLY DURING LIVE MATCHES)
-http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65102
-
-#EXTINF:-1,Uk- Sky 1
-http://188.72.4.230:8000/live/mytv/My1p@9090/213.m3u8
-#EXTINF:-1,Uk- Sky 2
-http://188.72.4.230:8000/live/mytv/My1p@9090/212.m3u8
-#EXTINF:-1,Uk- Sky 4 Music
-http://188.72.4.230:8000/live/mytv/My1p@9090/183.m3u8
-#EXTINF:-1,Uk- Sky 5 USA
-http://188.72.4.230:8000/live/mytv/My1p@9090/182.m3u8
-#EXTINF:-1,Uk- Sky Animal Planet HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/181.m3u8
-#EXTINF:-1,Uk- Sky Arts 1 HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/185.m3u8
-#EXTINF:-1,Uk- Sky Atlantic
-http://188.72.4.230:8000/live/mytv/My1p@9090/184.m3u8
-#EXTINF:-1,Uk- Sky BBC Four HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/203.m3u8
-#EXTINF:-1,UK- Sky BBC News
-http://188.72.4.230:8000/live/mytv/My1p@9090/207.m3u8
-#EXTINF:-1,Uk- Sky BBC One HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/206.m3u8
-#EXTINF:-1,Uk- Sky BBC Three HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/204.m3u8
-#EXTINF:-1,Uk- Sky BBC Two HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/205.m3u8
-#EXTINF:-1,Uk- Sky BT Sport 1 HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/200.m3u8
-#EXTINF:-1,Uk- Sky BT Sport 2 HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/199.m3u8
-#EXTINF:-1,Uk- Sky BT Sport 3 HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/198.m3u8
-#EXTINF:-1,Uk- Sky BT Sports Extra 1
-http://188.72.4.230:8000/live/mytv/My1p@9090/197.m3u8
-#EXTINF:-1,Uk- Sky BT Sports Extra 2
-http://188.72.4.230:8000/live/mytv/My1p@9090/196.m3u8
-#EXTINF:-1,Uk- Sky Discovery
-http://188.72.4.230:8000/live/mytv/My1p@9090/180.m3u8
-#EXTINF:-1,Uk- Sky Discovery History
-http://188.72.4.230:8000/live/mytv/My1p@9090/179.m3u8
-#EXTINF:-1,Uk- Sky Discovery Science
-http://188.72.4.230:8000/live/mytv/My1p@9090/178.m3u8
-#EXTINF:-1,Uk- Sky Discovery Shed
-http://188.72.4.230:8000/live/mytv/My1p@9090/177.m3u8
-#EXTINF:-1,Uk- Sky Disney Junior HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/176.m3u8
-#EXTINF:-1,Uk- Sky Disney XD HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/175.m3u8
-#EXTINF:-1,Uk- Sky Eurosport 1 HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/195.m3u8
-#EXTINF:-1,Uk- Sky Eurosport 2 HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/194.m3u8
-#EXTINF:-1,Uk- Sky Food Network
-http://188.72.4.230:8000/live/mytv/My1p@9090/174.m3u8
-#EXTINF:-1,Uk- Sky Good Food HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/187.m3u8
-#EXTINF:-1,Uk- Sky ITV 1
-http://188.72.4.230:8000/live/mytv/My1p@9090/211.m3u8
-#EXTINF:-1,Uk- Sky ITV 2
-http://188.72.4.230:8000/live/mytv/My1p@9090/210.m3u8
-#EXTINF:-1,Uk- Sky ITV 3
-http://188.72.4.230:8000/live/mytv/My1p@9090/209.m3u8
-#EXTINF:-1,Uk- Sky ITV 4
-http://188.72.4.230:8000/live/mytv/My1p@9090/208.m3u8
-#EXTINF:-1,Uk- Sky Movies 24
-http://188.72.4.230:8000/live/mytv/My1p@9090/186.m3u8
-#EXTINF:-1,Uk- Sky Movies Action HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/189.m3u8
-#EXTINF:-1,Uk- Sky Nat Geo Wild HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/173.m3u8
-#EXTINF:-1,Uk- Sky National Geographic HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/172.m3u8
-#EXTINF:-1,Uk- Sky RTE One
-http://188.72.4.230:8000/live/mytv/My1p@9090/188.m3u8
-#EXTINF:-1,Uk- Sky Sport Football
-http://188.72.4.230:8000/live/mytv/My1p@9090/192.m3u8
-#EXTINF:-1,Uk- Sky Sports Action HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/191.m3u8
-#EXTINF:-1,Uk- Sky Sports Box Office HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/190.m3u8
-#EXTINF:-1,Uk- Sky Sports Main Event HD
-http://188.72.4.230:8000/live/mytv/My1p@9090/193.m3u8
-#EXTINF:-1,Uk- Sky True Movies 1
-http://188.72.4.230:8000/live/mytv/My1p@9090/202.m3u8
-#EXTINF:-1,Uk- Sky True Movies 2
-http://188.72.4.230:8000/live/mytv/My1p@9090/201.m3u8
+#EXTINF:-1,------|USA|------
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3168
+#EXTINF:-1,US001:A&E-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3167
+#EXTINF:-1,US002:ABC HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3166
+#EXTINF:-1,US003:ABC-NEWS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3165
+#EXTINF:-1,US004:ABC 7
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3164
+#EXTINF:-1,US005:ACTION-MAX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3163
+#EXTINF:-1,US006:AMC-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3162
+#EXTINF:-1,US007:ANIMAL-PLANET
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3161
+#EXTINF:-1,US008:BBC-America
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3160
+#EXTINF:-1,US009:Bein-Sports
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3159
+#EXTINF:-1,US010:BET-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3158
+#EXTINF:-1,US011:BRAVO-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3157
+#EXTINF:-1,US012:PAC-12 Washington
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3156
+#EXTINF:-1,US013:PAC-12 Los Angeles
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3155
+#EXTINF:-1,US014:PAC-12 Oregon
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3154
+#EXTINF:-1,US015:Viceland
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3153
+#EXTINF:-1,US016:CARTOON-NETWORK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3152
+#EXTINF:-1,US017:CBS-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3151
+#EXTINF:-1,US018:CBSN-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3150
+#EXTINF:-1,US019:Starz East
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3149
+#EXTINF:-1,US020:CNBC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3148
+#EXTINF:-1,US021:CNN-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3147
+#EXTINF:-1,US022:COMEDY-CENTRAL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3146
+#EXTINF:-1,US023:CW-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3145
+#EXTINF:-1,US024:DESTINATION-AMERICA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3144
+#EXTINF:-1,US025:Discovery-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3143
+#EXTINF:-1,US026:Disney-Channel
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3142
+#EXTINF:-1,US027:Disney-JR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3141
+#EXTINF:-1,US028:Disney-XD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3140
+#EXTINF:-1,US029:DIY Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3139
+#EXTINF:-1,US030:E!
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3138
+#EXTINF:-1,US031:ESPN-2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3137
+#EXTINF:-1,US032:ESPN-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3136
+#EXTINF:-1,US033:ESPN-News
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3135
+#EXTINF:-1,US034:ESPN-U
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3134
+#EXTINF:-1,US035:Food-Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3133
+#EXTINF:-1,US036:FOX-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3132
+#EXTINF:-1,US037:FOX-News
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3131
+#EXTINF:-1,US038:FOX-Sports1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3130
+#EXTINF:-1,US039:FOX-Sports2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3129
+#EXTINF:-1,US040:Freeform
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3128
+#EXTINF:-1,US041:FX-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3127
+#EXTINF:-1,US042:FXX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3126
+#EXTINF:-1,US043:HALLMARK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3125
+#EXTINF:-1,US044:HALLMARK-MOVIES
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3124
+#EXTINF:-1,US045:HBO Comedy East
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3123
+#EXTINF:-1,US046:HBO East
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3122
+#EXTINF:-1,US047:HBO Signature West
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3121
+#EXTINF:-1,US048:HBO Zone East
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3120
+#EXTINF:-1,US049:HGTV-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3119
+#EXTINF:-1,US050:HISTORY-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3118
+#EXTINF:-1,US051:ID-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3117
+#EXTINF:-1,US052:TV Land
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3116
+#EXTINF:-1,US053:Lifetime US
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3115
+#EXTINF:-1,US054:Lifetime Movie
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3114
+#EXTINF:-1,US055:HBO 2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3113
+#EXTINF:-1,US056:MLB-Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3112
+#EXTINF:-1,US057:MSNBC-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3111
+#EXTINF:-1,US058:MTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3110
+#EXTINF:-1,US059:NAT-GEO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3109
+#EXTINF:-1,US060:NBA-TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3108
+#EXTINF:-1,US061:NBC-Golf
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3107
+#EXTINF:-1,US062:NBC-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3106
+#EXTINF:-1,US063:NBCSN-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3105
+#EXTINF:-1,US064:NFL-Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3104
+#EXTINF:-1,US065:Nicktoons
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3103
+#EXTINF:-1,US066:INSP
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3102
+#EXTINF:-1,US067:OWN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3101
+#EXTINF:-1,US068:Science
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3100
+#EXTINF:-1,US069:SHOWTIME
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3099
+#EXTINF:-1,US070:SHOWTIME2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3098
+#EXTINF:-1,US071:SPIKE-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3097
+#EXTINF:-1,US072:SYFY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3096
+#EXTINF:-1,US073:TBS-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3095
+#EXTINF:-1,US074:PAC-12 Bay Area
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3094
+#EXTINF:-1,US075:TLC-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3093
+#EXTINF:-1,US076:TNT-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3092
+#EXTINF:-1,US077:Travel-channel
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3091
+#EXTINF:-1,US078:TRU-TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3090
+#EXTINF:-1,US079:USA-Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3089
+#EXTINF:-1,US080:Velocity-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3088
+#EXTINF:-1,US081:VH1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3087
+#EXTINF:-1,US082:WE-TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3086
+#EXTINF:-1,US083:WEATHER
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3085
+#EXTINF:-1,US084:UFC Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3084
+#EXTINF:-1,US085:WWE-Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3083
+#EXTINF:-1,US086:Tennis
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3082
+#EXTINF:-1,US087:NESN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3081
+#EXTINF:-1,US088:CBS Sports Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3080
+#EXTINF:-1,US089:NFL RedZone
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3079
+#EXTINF:-1,US090:Fox Sports Yes
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3078
+#EXTINF:-1,US091:Sec Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3077
+#EXTINF:-1,US092:Big Ten Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3076
+#EXTINF:-1,US093:Box Nation
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3075
+#EXTINF:-1,US094:Fox Business Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3074
+#EXTINF:-1,US095:PBS Kids
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3073
+#EXTINF:-1,US096:CBN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3072
+#EXTINF:-1,US097:GOD TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3071
+#EXTINF:-1,US098:Peace TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3070
+#EXTINF:-1,US099:Fox_Sports_NetBase
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30091
+#EXTINF:-1,US100:Fox_Sports_SportsTime_Ohio
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30090
+#EXTINF:-1,US101:Fox_Sports_YES_Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30089
+#EXTINF:-1,US102:Fox_Sports_San_Diego
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30088
+#EXTINF:-1,US103:Fox_Sports_Sun
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30087
+#EXTINF:-1,US104:Fox_Sports_Detroit
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30086
+#EXTINF:-1,US105:Fox_Sports_Ohio
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30085
+#EXTINF:-1,US106:Fox_Sports_North
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30084
+#EXTINF:-1,US107:Fox_Sports_Midwest
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30083
+#EXTINF:-1,US108:Fox_Sports_Florida
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30082
+#EXTINF:-1,US109:Fox_Sports_Arizona
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30081
+#EXTINF:-1,US110:Fox_Sports_Wisconsin
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30080
+#EXTINF:-1,US111:Fox_Sports_West
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30079
+#EXTINF:-1,US112:Fox_Sports_South
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30078
+#EXTINF:-1,US113:Fox_Sports_Southeast
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30077
+#EXTINF:-1,US114:Fox_Sports_Southwest_Plus
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30076
+#EXTINF:-1,US115:Fox_Sports_Southwest
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30075
+#EXTINF:-1,US116:Fox_College_Sports_Atlantic
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30074
+#EXTINF:-1,US117:Fox_College_Sports_Pacific
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30073
+#EXTINF:-1,US118:Fox_College_Sports_Central
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30072
+#EXTINF:-1,US119:Fox_Sports_Soccer_Plus
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30071
+#EXTINF:-1,US120:Fox_Sports_2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30070
+#EXTINF:-1,US121:Fox_Sports_1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30069
+#EXTINF:-1,US122:Olympic_Channel
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30068
+#EXTINF:-1,US123:BeIN8 Sports
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30067
+#EXTINF:-1,US124:BeIN7 Sports
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30066
+#EXTINF:-1,US125:BeIN6 Sports
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30065
+#EXTINF:-1,US126:BeIN5 Sports
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30064
+#EXTINF:-1,US127:BeIN4 Sports
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30063
+#EXTINF:-1,US128:BeIN2 Sports
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30062
+#EXTINF:-1,US129:BeIN_Sports
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30061
+#EXTINF:-1,US130:NAT GEO WILD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30060
+#EXTINF:-1,US131:Game_Show_Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30059
+#EXTINF:-1,US132:Stadium3
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30058
+#EXTINF:-1,US133:Stadium2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30057
+#EXTINF:-1,US134:Stadium1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30056
+#EXTINF:-1,US135:Stadium
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30055
+#EXTINF:-1,US136:TyC Sports
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30054
+#EXTINF:-1,US137:MSG2Plus
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30053
+#EXTINF:-1,US138:MSG2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30052
+#EXTINF:-1,US139:MSGPlus
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30051
+#EXTINF:-1,US140:MSG
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30050
+#EXTINF:-1,US141:BTN4
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30049
+#EXTINF:-1,US142:BTN3
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30048
+#EXTINF:-1,US143:BTN2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30047
+#EXTINF:-1,US144:Big_Ten_Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30046
+#EXTINF:-1,US145:Fight_Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30045
+#EXTINF:-1,US146:FNTSY_Sports_Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30044
+#EXTINF:-1,US147:VSiN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30043
+#EXTINF:-1,US148:Ginx_TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30042
+#EXTINF:-1,US149:ATT_SportsNet_SW_ALT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30041
+#EXTINF:-1,US150:World_Fishing_Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30040
+#EXTINF:-1,US151:NESN_BOS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30039
+#EXTINF:-1,US152:NESN_PLUS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30038
+#EXTINF:-1,US153:Sportsman_Channel
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30037
+#EXTINF:-1,US154:CBS_Sports_Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30036
+#EXTINF:-1,US155:Eleven_Sports
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30035
+#EXTINF:-1,US156:NBC_Golf_Channel
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30034
+#EXTINF:-1,US157:NBC_Sports_Philadelfia
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30033
+#EXTINF:-1,US158:NBC_Sports_Washington
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30032
+#EXTINF:-1,US159:NBC_Sports_California
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30031
+#EXTINF:-1,US160:NBC_Sports_Chicago
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30030
+#EXTINF:-1,US161:NBC_Sports_Bay_Area
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30029
+#EXTINF:-1,US162:NBC_Sports_Northwest
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30028
+#EXTINF:-1,US165:NBC_Sports_Network
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30025
+#EXTINF:-1,US166:CBS_WKBN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30024
+#EXTINF:-1,US167:CBS_KIMA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30023
+#EXTINF:-1,US168:CBS_WWAY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30022
+#EXTINF:-1,US169:CBS_WYOU
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30021
+#EXTINF:-1,US172:CBS_WPEC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30018
+#EXTINF:-1,US175:CBS_WTVH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30015
+#EXTINF:-1,US179:CBS_WJHL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30011
+#EXTINF:-1,US182:CBS_KOLR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30008
+#EXTINF:-1,US184:CBS_WCIA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30006
+#EXTINF:-1,US186:CBS_KELO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30004
+#EXTINF:-1,US187:CBS_KUTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30003
+#EXTINF:-1,US193:CBS_KTVN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29997
+#EXTINF:-1,US197:CBS_WNCN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29993
+#EXTINF:-1,US199:CBS_WPRI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29991
+#EXTINF:-1,US200:CBS_KOIN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29990
+#EXTINF:-1,US201:CBS_WGME
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29989
+#EXTINF:-1,US202:CBS_WMBD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29988
+#EXTINF:-1,US203:CBS_WBTW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29987
+#EXTINF:-1,US204:CBS_WAKA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29986
+#EXTINF:-1,US205:CBS_WKRG
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29985
+#EXTINF:-1,US206:CBS_KLAS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29984
+#EXTINF:-1,US207:CBS_WLNS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29983
+#EXTINF:-1,US208:CBS_KLFY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29982
+#EXTINF:-1,US209:CBS_WKBT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29981
+#EXTINF:-1,US210:CBS_WTAJ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29980
+#EXTINF:-1,US211:CBS_WJTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29979
+#EXTINF:-1,US212:CBS_WHP
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29978
+#EXTINF:-1,US213:CBS_KGBT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29977
+#EXTINF:-1,US214:CBS_WSPA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29976
+#EXTINF:-1,US215:CBS_WNCT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29975
+#EXTINF:-1,US216:CBS_WFRV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29974
+#EXTINF:-1,US217:CBS_WWMT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29973
+#EXTINF:-1,US218:CBS_WANE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29972
+#EXTINF:-1,US219:CBS_KGPE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29971
+#EXTINF:-1,US220:CBS_KVAL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29970
+#EXTINF:-1,US221:CBS_KDBC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29969
+#EXTINF:-1,US222:CBS_WHBF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29968
+#EXTINF:-1,US223:CBS_KZTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29967
+#EXTINF:-1,US224:CBS_WCBI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29966
+#EXTINF:-1,US225:CBS_WKRC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29965
+#EXTINF:-1,US226:CBS_WOWK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29964
+#EXTINF:-1,US227:CBS_KGAN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29963
+#EXTINF:-1,US228:CBS_WIVB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29962
+#EXTINF:-1,US229:CBS_KBOI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29961
+#EXTINF:-1,US231:CBS_WIAT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29959
+#EXTINF:-1,US232:CBS_KBAK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29958
+#EXTINF:-1,US233:CBS_KEYE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29957
+#EXTINF:-1,US234:CBS_KRQEDT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29956
+#EXTINF:-1,US235:CBS_WRGB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29955
+#EXTINF:-1,US236:CBS_WTVF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29954
+#EXTINF:-1,US238:CBS_WJAX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29952
+#EXTINF:-1,US240:CBS_WCSC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29950
+#EXTINF:-1,US245:CBS_KTXA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29945
+#EXTINF:-1,US246:CBS_WOIO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29944
+#EXTINF:-1,US254:CBS_WTSP
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29936
+#EXTINF:-1,US259:CBS_KTVT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29931
+#EXTINF:-1,US269:CBS_KOLN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29921
+#EXTINF:-1,US273:CBS_KOLD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29917
+#EXTINF:-1,US274:CBS_KCTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29916
+#EXTINF:-1,US275:CBS_WBNS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29915
+#EXTINF:-1,US276:CBS_WNEM
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29914
+#EXTINF:-1,US277:CBS_WUSA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29913
+#EXTINF:-1,US278:CBS_WTOL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29912
+#EXTINF:-1,US279:CBS_WTOC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29911
+#EXTINF:-1,US280:CBS_WFSB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29910
+#EXTINF:-1,US281:CBS_KFVS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29909
+#EXTINF:-1,US282:CBS_KPIX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29908
+#EXTINF:-1,US283:CBS_KCOY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29907
+#EXTINF:-1,US284:CBS_KPHO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29906
+#EXTINF:-1,US285:CBS_WWL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29905
+#EXTINF:-1,US286:CBS_WWJ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29904
+#EXTINF:-1,US287:CBS_WFOR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29903
+#EXTINF:-1,US288:CBS_KWTX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29902
+#EXTINF:-1,US289:CBS_WKYT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29901
+#EXTINF:-1,US290:CBS_KWTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29900
+#EXTINF:-1,US291:CBS_KSLA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29899
+#EXTINF:-1,US292:CBS_WBFS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29898
+#EXTINF:-1,US293:CBS_WDJT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29897
+#EXTINF:-1,US294:CBS_WFMY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29896
+#EXTINF:-1,US295:CBS_WRDW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29895
+#EXTINF:-1,US296:CBS_WVLT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29894
+#EXTINF:-1,US297:CBS_WISC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29893
+#EXTINF:-1,US298:CBS_KENS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29892
+#EXTINF:-1,US299:CBS_KDKA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29891
+#EXTINF:-1,US300:CBS_WBBM
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29890
+#EXTINF:-1,US301:CBS_KREM
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29889
+#EXTINF:-1,US302:CBS_WCCO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29888
+#EXTINF:-1,US303:CBS_KTHV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29887
+#EXTINF:-1,US304:CBS_KYW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29886
+#EXTINF:-1,US305:CBS_KFMB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29885
+#EXTINF:-1,US306:CBS_WDEF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29884
+#EXTINF:-1,US307:CBS_WSBK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29883
+#EXTINF:-1,US308:CBS_WCBS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29882
+#EXTINF:-1,US309:CBS_KIRO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29881
+#EXTINF:-1,US310:CBS_WLTX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29880
+#EXTINF:-1,US311:CBS_WCAX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29879
+#EXTINF:-1,US312:CBS_KHOU
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29878
+#EXTINF:-1,US313:CBS_KGMB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29877
+#EXTINF:-1,US314:CBS_KKTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29876
+#EXTINF:-1,US315:CBS_WDBJ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29875
+#EXTINF:-1,US316:CBS_KCCI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29874
+#EXTINF:-1,US317:CBS_KION
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29873
+#EXTINF:-1,US318:CBS_WHIO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29872
+#EXTINF:-1,US319:CBS_KCBS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29871
+#EXTINF:-1,US320:CBS_KCAL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29870
+#EXTINF:-1,US321:CBS_WJZ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29869
+#EXTINF:-1,US322:CBS_WKMG
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29868
+#EXTINF:-1,US323:CBS_KMTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29867
+#EXTINF:-1,US324:CBS_WLNY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29866
+#EXTINF:-1,US325:CBS_WGCL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29865
+#EXTINF:-1,US326:CBS_KOVR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29864
+#EXTINF:-1,US327:CBS_WLKY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29863
+#EXTINF:-1,US328:CBS_KOTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29862
+#EXTINF:-1,US329:CBS_KWCH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29861
+#EXTINF:-1,US330:CBS_KMOV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29860
+#EXTINF:-1,US331:CBS_WBTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29859
+#EXTINF:-1,US332:CBS_WBZ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29858
+#EXTINF:-1,US333:PBS_Kids
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29857
+#EXTINF:-1,US334:fox-kcop-lax
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29856
+#EXTINF:-1,US335:fox-kptv-por
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29855
+#EXTINF:-1,US336:FOX_WYFX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29854
+#EXTINF:-1,US337:FOX_WFLX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29853
+#EXTINF:-1,US338:FOX_WUPW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29852
+#EXTINF:-1,US339:FOX_WSYT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29851
+#EXTINF:-1,US340:FOX_KAYU
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29850
+#EXTINF:-1,US341:FOX_KRXI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29849
+#EXTINF:-1,US342:FOX_WYZZ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29848
+#EXTINF:-1,US343:FOX_WSYM
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29847
+#EXTINF:-1,US344:FOX_KADN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29846
+#EXTINF:-1,US345:FOX_WLAX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29845
+#EXTINF:-1,US346:FOX_WDBD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29844
+#EXTINF:-1,US364:FOX_KFXV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29826
+#EXTINF:-1,US365:FOX_WEVV2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29825
+#EXTINF:-1,US366:FOX_KFOX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29824
+#EXTINF:-1,US367:FOX_KSCC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29823
+#EXTINF:-1,US368:FOX_KNIN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29822
+#EXTINF:-1,US369:FOX_WBRC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29821
+#EXTINF:-1,US370:FOX_WFXG
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29820
+#EXTINF:-1,US371:FOX_KICU
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29819
+#EXTINF:-1,US372:FOX_WTWC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29818
+#EXTINF:-1,US373:FOX_WJBK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29817
+#EXTINF:-1,US374:FOX_WTVT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29816
+#EXTINF:-1,US378:FOX_KLJB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29812
+#EXTINF:-1,US379:FOX_WOLF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29811
+#EXTINF:-1,US380:FOX_WTVC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29810
+#EXTINF:-1,US382:FOX_WPMT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29808
+#EXTINF:-1,US385:FOX_KKFX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29805
+#EXTINF:-1,US389:FOX_KTXL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29801
+#EXTINF:-1,US390:FOX_WTTG
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29800
+#EXTINF:-1,US398:FOX_WTTE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29792
+#EXTINF:-1,US399:FOX_WFXT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29791
+#EXTINF:-1,US400:FOX_WFXR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29790
+#EXTINF:-1,US407:FOX_WFXB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29783
+#EXTINF:-1,US416:FOX_KBSI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29774
+#EXTINF:-1,US417:FOX_KSTU
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29773
+#EXTINF:-1,US418:FOX_KTVU
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29772
+#EXTINF:-1,US420:FOX_WUTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29770
+#EXTINF:-1,US421:FOX_KTVI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29769
+#EXTINF:-1,US425:FOX_KDVR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29765
+#EXTINF:-1,US426:FOX_WOGX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29764
+#EXTINF:-1,US427:FOX_KOKI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29763
+#EXTINF:-1,US428:FOX_KOKH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29762
+#EXTINF:-1,US429:FOX_WDRB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29761
+#EXTINF:-1,US430:FOX_KRQE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29760
+#EXTINF:-1,US431:FOX_WGXA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29759
+#EXTINF:-1,US432:FOX_WVUE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29758
+#EXTINF:-1,US433:FOX_KTTW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29757
+#EXTINF:-1,US434:FOX_KTTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29756
+#EXTINF:-1,US435:FOX_WOFL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29755
+#EXTINF:-1,US436:FOX_WRLH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29754
+#EXTINF:-1,US437:FOX_WFTX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29753
+#EXTINF:-1,US438:FOX_KFXL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29752
+#EXTINF:-1,US439:FOX_KFXK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29751
+#EXTINF:-1,US440:FOX_WXXA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29750
+#EXTINF:-1,US441:FOX_WPGH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29749
+#EXTINF:-1,US442:FOX_WSMH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29748
+#EXTINF:-1,US443:FOX_KDSM
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29747
+#EXTINF:-1,US444:FOX_WTNZ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29746
+#EXTINF:-1,US445:FOX_WPFO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29745
+#EXTINF:-1,US446:FOX_KCPQ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29744
+#EXTINF:-1,US447:FOX_WJZY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29743
+#EXTINF:-1,US448:FOX_WNAC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29742
+#EXTINF:-1,US449:FOX_WAGA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29741
+#EXTINF:-1,US450:FOX_WRGT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29740
+#EXTINF:-1,US451:FOX_WDKY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29739
+#EXTINF:-1,US452:FOX_WFOX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29738
+#EXTINF:-1,US453:FOX_KVRR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29737
+#EXTINF:-1,US454:FOX_KRIV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29736
+#EXTINF:-1,US455:FOX_WBFF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29735
+#EXTINF:-1,US456:FOX_WITI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29734
+#EXTINF:-1,US457:FOX_WTIC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29733
+#EXTINF:-1,US458:FOX_WACH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29732
+#EXTINF:-1,US459:FOX_WZTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29731
+#EXTINF:-1,US460:FOX_WTGS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29730
+#EXTINF:-1,US461:FOX_WFLD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29729
+#EXTINF:-1,US462:FOX_KXRM
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29728
+#EXTINF:-1,US463:FOX_WGMB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29727
+#EXTINF:-1,US464:FOX_WUHF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29726
+#EXTINF:-1,US465:FOX_WRAZ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29725
+#EXTINF:-1,US466:FOX_WXMI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29724
+#EXTINF:-1,US467:FOX_WNYW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29723
+#EXTINF:-1,US468:FOX_WSBT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29722
+#EXTINF:-1,US469:FOX_WLUK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29721
+#EXTINF:-1,US470:FOX_KABB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29720
+#EXTINF:-1,US471:FOX_KHON
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29719
+#EXTINF:-1,US472:FOX_KRBK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29718
+#EXTINF:-1,US473:FOX_KDFW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29717
+#EXTINF:-1,US474:FOX_WFFT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29716
+#EXTINF:-1,US475:FOX_WGHP
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29715
+#EXTINF:-1,US476:FOX_KWKT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29714
+#EXTINF:-1,US477:FOX_WXIX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29713
+#EXTINF:-1,US478:FOX_WTAT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29712
+#EXTINF:-1,US479:FOX_WFFF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29711
+#EXTINF:-1,US480:FOX_WXIN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29710
+#EXTINF:-1,US481:FOX_WDAF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29709
+#EXTINF:-1,US482:FOX_WMSN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29708
+#EXTINF:-1,US483:FOX_KSAZ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29707
+#EXTINF:-1,US484:FOX_KSAS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29706
+#EXTINF:-1,US485:FOX_KCBA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29705
+#EXTINF:-1,US486:FOX_WPWR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29704
+#EXTINF:-1,US487:FOX_WVBT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29703
+#EXTINF:-1,US488:FOX_KTBC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29702
+#EXTINF:-1,US489:FOX_KLRT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29701
+#EXTINF:-1,US490:FOX_WVAH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29700
+#EXTINF:-1,US491:FOX_KMSS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29699
+#EXTINF:-1,US492:FOX_KMSP
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29698
+#EXTINF:-1,US493:FOX_KMSB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29697
+#EXTINF:-1,US494:FOX_WHBQ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29696
+#EXTINF:-1,US495:FOX_KMPH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29695
+#EXTINF:-1,US496:FOX_WJW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29694
+#EXTINF:-1,US497:FOX_WZDX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29693
+#EXTINF:-1,US498:FOX_KPTM
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29692
+#EXTINF:-1,US499:FOX_WSVN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29691
+#EXTINF:-1,US500:FOX_WTXF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29690
+#EXTINF:-1,US501:FOX_WRSP
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29689
+#EXTINF:-1,US502:NBC_KHQ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29688
+#EXTINF:-1,US503:NBC_WPSD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29687
+#EXTINF:-1,US504:NBC_KVLY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29686
+#EXTINF:-1,US505:NBC_WFIE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29685
+#EXTINF:-1,US506:NBC_WAGT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29684
+#EXTINF:-1,US507:NBC_WFMJ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29683
+#EXTINF:-1,US508:NBC_WBRE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29682
+#EXTINF:-1,US509:NBC_KETK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29681
+#EXTINF:-1,US510:NBC_WFLA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29680
+#EXTINF:-1,US511:NBC_WWLP
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29679
+#EXTINF:-1,US512:NBC_KTAL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29678
+#EXTINF:-1,US513:NBC_KING
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29677
+#EXTINF:-1,US514:NBC_WSAV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29676
+#EXTINF:-1,US515:NBC_WEEK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29675
+#EXTINF:-1,US516:NBC_WAVY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29674
+#EXTINF:-1,US517:NBC_WSFA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29673
+#EXTINF:-1,US518:NBC_KARK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29672
+#EXTINF:-1,US519:NBC_WILX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29671
+#EXTINF:-1,US520:NBC_WEAU
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29670
+#EXTINF:-1,US521:NBC_KVEO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29669
+#EXTINF:-1,US522:NBC_WOOD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29668
+#EXTINF:-1,US523:NBC_WPTA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29667
+#EXTINF:-1,US524:NBC_WBBH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29666
+#EXTINF:-1,US525:NBC_KSEE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29665
+#EXTINF:-1,US526:NBC_KTSM
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29664
+#EXTINF:-1,US527:NBC_WDTN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29663
+#EXTINF:-1,US528:NBC_KWQC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29662
+#EXTINF:-1,US529:NBC_KRIS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29661
+#EXTINF:-1,US530:NBC_WCMH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29660
+#EXTINF:-1,US531:NBC_WLTZ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29659
+#EXTINF:-1,US532:NBC_KXAN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29658
+#EXTINF:-1,US533:NBC_KXAS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29657
+#EXTINF:-1,US534:NBC_KPRC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29656
+#EXTINF:-1,US535:NBC_WTVJ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29655
+#EXTINF:-1,US536:NBC_WLEX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29654
+#EXTINF:-1,US537:NBC_WCSH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29653
+#EXTINF:-1,US538:NBC_WMFP
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29652
+#EXTINF:-1,US539:NBC_KGW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29651
+#EXTINF:-1,US540:NBC_KARE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29650
+#EXTINF:-1,US541:NBC_WAND
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29649
+#EXTINF:-1,US542:NBC_KPNX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29648
+#EXTINF:-1,US543:NBC_WDSU
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29647
+#EXTINF:-1,US544:NBC_WLBT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29646
+#EXTINF:-1,US545:NBC_KTVB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29645
+#EXTINF:-1,US546:NBC_WVVA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29644
+#EXTINF:-1,US547:NBC_WNDU
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29643
+#EXTINF:-1,US548:NBC_WESH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29642
+#EXTINF:-1,US549:NBC_WMBF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29641
+#EXTINF:-1,US550:NBC_WVTM
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29640
+#EXTINF:-1,US551:NBC_KCRA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29639
+#EXTINF:-1,US552:NBC_WMAQ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29638
+#EXTINF:-1,US553:NBC_WSMV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29637
+#EXTINF:-1,US554:NBC_WCNC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29636
+#EXTINF:-1,US555:NBC_WSLS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29635
+#EXTINF:-1,US556:NBC_WTMJ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29634
+#EXTINF:-1,US557:NBC_KUSA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29633
+#EXTINF:-1,US558:NBC_WBIR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29632
+#EXTINF:-1,US559:NBC_WTLV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29631
+#EXTINF:-1,US560:NBC_KSNB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29630
+#EXTINF:-1,US561:NBC_WGRZ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29629
+#EXTINF:-1,US562:NBC_WAFF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29628
+#EXTINF:-1,US563:NBC_KNBC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29627
+#EXTINF:-1,US564:NBC_WKYC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29626
+#EXTINF:-1,US565:NBC_WITN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29625
+#EXTINF:-1,US566:NBC_WDIV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29624
+#EXTINF:-1,US567:NBC_WTHR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29623
+#EXTINF:-1,US568:NBC_KDLT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29622
+#EXTINF:-1,US569:NBC_KOAA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29621
+#EXTINF:-1,US570:NBC_KVOA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29620
+#EXTINF:-1,US571:NBC_WLWT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29619
+#EXTINF:-1,US572:NBC_KYTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29618
+#EXTINF:-1,US573:NBC_WRC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29617
+#EXTINF:-1,US574:NBC_KSHB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29616
+#EXTINF:-1,US575:NBC_WVIT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29615
+#EXTINF:-1,US576:NBC_WRAL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29614
+#EXTINF:-1,US577:NBC_WBAL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29613
+#EXTINF:-1,US578:NBC_WNYT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29612
+#EXTINF:-1,US579:NBC_WSAZ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29611
+#EXTINF:-1,US580:NBC_KCEN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29610
+#EXTINF:-1,US581:NBC_WCAU
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29609
+#EXTINF:-1,US582:NBC_KSDK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29608
+#EXTINF:-1,US583:NBC_KHNL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29607
+#EXTINF:-1,US584:NBC_WMTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29606
+#EXTINF:-1,US585:NBC_KJRH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29605
+#EXTINF:-1,US586:NBC_WMC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29604
+#EXTINF:-1,US587:NBC_WXII
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29603
+#EXTINF:-1,US588:NBC_KSBY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29602
+#EXTINF:-1,US589:NBC_WECT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29601
+#EXTINF:-1,US590:NBC_KSBW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29600
+#EXTINF:-1,US591:NBC_WXIA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29599
+#EXTINF:-1,US592:NBC_WOWT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29598
+#EXTINF:-1,US593:NBC_WPXI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29597
+#EXTINF:-1,US594:NBC_KSL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29596
+#EXTINF:-1,US595:NBC_WIS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29595
+#EXTINF:-1,US596:NBC_WWBT
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29594
+#EXTINF:-1,US597:NBC_WHEC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29593
+#EXTINF:-1,US598:NBC_KNTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29592
+#EXTINF:-1,US599:NBC_WYFF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29591
+#EXTINF:-1,US600:NBC_WPTZ
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29590
+#EXTINF:-1,US601:NBC_WPTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29589
+#EXTINF:-1,US602:NBC_WJHG
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29588
+#EXTINF:-1,US603:NBC_WGBA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29587
+#EXTINF:-1,US604:NBC_KOB
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29586
+#EXTINF:-1,US605:NBC_WGAL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29585
+#EXTINF:-1,US606:NBC_WAVE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29584
+#EXTINF:-1,US607:NBC_KNSD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29583
+#EXTINF:-1,US608:NBC_WNBC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29582
+#EXTINF:-1,US609:NBC_KGET
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29581
+#EXTINF:-1,US610:NBC_KWWL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29580
+#EXTINF:-1,US611:NBC_KTIV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29579
+#EXTINF:-1,US612:NBC_KNDO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29578
+#EXTINF:-1,US613:CW_WPSG
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29577
+#EXTINF:-1,US614:CW_WKBD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29576
+#EXTINF:-1,US615:CW_KSTW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29575
+#EXTINF:-1,US616:CW_WTOG
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29574
+#EXTINF:-1,US617:News4 (WRC-TV)
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29573
+#EXTINF:-1,US618:NFL 1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29572
+#EXTINF:-1,US619:NFL 2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29571
+#EXTINF:-1,US620:NFL 3
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29570
+#EXTINF:-1,US621:NFL 4 HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29569
+#EXTINF:-1,US622:NFL 5
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29568
+#EXTINF:-1,US623:NFL 6
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29567
+#EXTINF:-1,US624:NFL 7
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29566
+#EXTINF:-1,US625:NFL 8
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29565
+#EXTINF:-1,US626:NFL 9
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29564
+#EXTINF:-1,US627:NFL 14
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29563
+#EXTINF:-1,US628:NFL 15
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29562
+#EXTINF:-1,US629:NFL N
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29561
+#EXTINF:-1,US630:MLB 01
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29560
+#EXTINF:-1,US631:MLB 02
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29559
+#EXTINF:-1,US632:MLB 03
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29558
+#EXTINF:-1,US633:MLB 04
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29557
+#EXTINF:-1,US634:MLB 05
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29556
+#EXTINF:-1,US635:MLB 06
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29555
+#EXTINF:-1,US636:MLB 07
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29554
+#EXTINF:-1,US637:MLB 08
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29553
+#EXTINF:-1,US638:MLB 09
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29552
+#EXTINF:-1,US639:MLB 10
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29551
+#EXTINF:-1,US640:MLB 11
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29550
+#EXTINF:-1,US641:MLB 12
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29549
+#EXTINF:-1,US642:MLB 13
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29548
+#EXTINF:-1,US643:MLB 14
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29547
+#EXTINF:-1,US644:MLB 15
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29546
+#EXTINF:-1,US645:NFL Channel HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29545
+#EXTINF:-1,US646:NFL Gamepass 1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29544
+#EXTINF:-1,US647:NFL GAMEPASS 2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29543
+#EXTINF:-1,US648:NFL GAMEPASS 3
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29542
+#EXTINF:-1,US649:NFL GAMEPASS 4
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29541
+#EXTINF:-1,US650:NFL GAMEPASS 5
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29540
+#EXTINF:-1,US651:NFL GAMEPASS 6
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29539
+#EXTINF:-1,US652:NFL GAMEPASS 7
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29538
+#EXTINF:-1,US653:NFL GAMEPASS 8
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29537
+#EXTINF:-1,US654:NFL GAMEPASS 9
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29536
+#EXTINF:-1,US655:NFL GAMEPASS 10
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29535
+#EXTINF:-1,US656:NFL GAMEPASS 11
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29534
+#EXTINF:-1,US657:NFL GAMEPASS 12
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29533
+#EXTINF:-1,US658:NFL GAMEPASS 13
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29532
+#EXTINF:-1,US659:NFL Gamepass 14
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29531
+#EXTINF:-1,US661:PVV BOXING 2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29529
+#EXTINF:-1,US662:PPV BOXING 3
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29528
+#EXTINF:-1,US663:PPV BOXING 4
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29527
+#EXTINF:-1,US664:PPV BOXING 5
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29526
+#EXTINF:-1,US665:NBA League Pass 01
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29525
+#EXTINF:-1,US666:NBA League Pass 02
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29524
+#EXTINF:-1,US667:NBA League Pass 03
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29523
+#EXTINF:-1,US668:NBA League Pass 04
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29522
+#EXTINF:-1,US669:NBA League Pass 05
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29521
+#EXTINF:-1,US670:NBA League Pass 06
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29520
+#EXTINF:-1,US671:NBA League Pass 07
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29519
+#EXTINF:-1,US672:NBA League Pass 08
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29518
+#EXTINF:-1,US673:NBA League Pass 09
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29517
+#EXTINF:-1,US674:NBA League Pass 10
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29516
+#EXTINF:-1,US675:NHL Centre Ice 782
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29515
+#EXTINF:-1,US676:NHL Centre Ice 783
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29514
+#EXTINF:-1,US677:NHL Game 1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29513
+#EXTINF:-1,US678:NHL Game 2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29512
+#EXTINF:-1,US679:NHL Game 3
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29511
+#EXTINF:-1,US680:NHL Game 4
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29510
+#EXTINF:-1,US681:NHL Game 5
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29509
+#EXTINF:-1,US682:NHL Game 6
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29508
+#EXTINF:-1,US683:NHL Game 7
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29507
+#EXTINF:-1,US684:NHL Game 8
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29506
+#EXTINF:-1,US685:NHL Game 9
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29505
+#EXTINF:-1,US686:NHL Game 10
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29504
+#EXTINF:-1,US687:NHL Game 11
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29503
+#EXTINF:-1,US688:NHL Game 12
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29502
+#EXTINF:-1,US689:NHL Game 13
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29501
+#EXTINF:-1,US690:NHL Game 14
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29500
+#EXTINF:-1,US691:NHL Game 15
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29499
+#EXTINF:-1,US692:Starz Cinema
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29498
+#EXTINF:-1,US693:Starz Comedy
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29497
+#EXTINF:-1,US694:Bloomberg
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29496
+#EXTINF:-1,US695:Starz Etas
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29495
+#EXTINF:-1,US696:Starz Edge HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29494
+#EXTINF:-1,US697:Starz Encore
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29493
+#EXTINF:-1,US698:Starz Encore East
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29492
+#EXTINF:-1,US699:Starz West
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29491
+#EXTINF:-1,US700:ABC_kfsn_fresno
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29490
+#EXTINF:-1,US701:ABC_wisn_mil
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29489
+#EXTINF:-1,US702:ABC-wkrn-nas
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29488
+#EXTINF:-1,US703:ABC_wtnh_har
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29487
+#EXTINF:-1,US704:ABC_kmgh_den
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29486
+#EXTINF:-1,US705:ABC_wcvb_bos
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29485
+#EXTINF:-1,US706:ABC_wrtv_ind
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29484
+#EXTINF:-1,US709:ABC_wpvi_phi
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29481
+#EXTINF:-1,US710:ABC_wftv_orl
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29480
+#EXTINF:-1,US711:ABC_kgo_sfo
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29479
+#EXTINF:-1,US712:ABC_wfaa_dal
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29478
+#EXTINF:-1,US713:ABC Phoenix
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29477
+#EXTINF:-1,US714:ABC Indianapolis
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29476
+#EXTINF:-1,US715:ABC Cleveland
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29475
+#EXTINF:-1,US716:ABC Denver
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29474
+#EXTINF:-1,US717:ABC Sacramento
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29473
+#EXTINF:-1,US718:ABC Orlando
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29472
+#EXTINF:-1,US719:Starz Black HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29471
+#EXTINF:-1,US720:Starz Cinema East FHD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29470
+#EXTINF:-1,US721:Starz Cinema West FHD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29469
+#EXTINF:-1,US722:Starz Comedy East HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29468
+#EXTINF:-1,US723:Starz Comedy FHD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29467
+#EXTINF:-1,US724:STARZ EDGE FHD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29466
+#EXTINF:-1,US725:STARZ EDGE West HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29465
+#EXTINF:-1,US726:Starz Encore Action
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29464
+#EXTINF:-1,US727:Starz Encore Black HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29463
+#EXTINF:-1,US728:Starz Encore Classic FHD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29462
+#EXTINF:-1,US729:Starz Encore EAST HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29461
+#EXTINF:-1,US730:Starz Encore Family FHD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29460
+#EXTINF:-1,US731:Starz Encore Suspense HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29459
+#EXTINF:-1,US732:Starz Encore West FHD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29458
+#EXTINF:-1,US733:Starz Family HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29457
+#EXTINF:-1,US734:ABC Charlotte
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29456
+#EXTINF:-1,US735:STARZ KIDS & FAMILY FHD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29455
+#EXTINF:-1,US736:NHL NETWORK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29454
+#EXTINF:-1,US737:Abc_Kgtv_Sad
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29453
+#EXTINF:-1,US738:ABC_wjla_wdc
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29452
+#EXTINF:-1,US739:ABC_kxtv-sac
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29451
+#EXTINF:-1,US740:ABC_kdnl-stl
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29450
+#EXTINF:-1,US741:ABC_komo_sea
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29449
+#EXTINF:-1,US742:ABC_katu_port
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29448
+#EXTINF:-1,US743:ABC_ktvx-slc
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29447
+#EXTINF:-1,US744:ABC_kABC_lax
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29446
+#EXTINF:-1,US745:ABC_wls_chi
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29445
+#EXTINF:-1,US746:ABC_wtae_pit
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29444
+#EXTINF:-1,US747:ABC_wxyz_det
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29443
+#EXTINF:-1,US748:ABC_ktrk_hou
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29442
+#EXTINF:-1,US749:ABC_knxv_phx
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29441
+#EXTINF:-1,US750:ABC_wisn_mil
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29440
+#EXTINF:-1,US751:ABC-wkrn-nas
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29439
+#EXTINF:-1,US752:ABC_wtnh_har
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29438
+#EXTINF:-1,US753:ABC_kmgh_den
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29437
+#EXTINF:-1,US754:ABC_wcvb_bos
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29436
+#EXTINF:-1,US755:ABC_wrtv_ind
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29435
+#EXTINF:-1,US756:ABC_wftv_orl
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29434
+#EXTINF:-1,US757:ABC_wfaa_dal
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29433
+#EXTINF:-1,US758:ABC_kgo_sfo
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29432
+#EXTINF:-1,US759:ABC_wpvi_phi
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29431
+#EXTINF:-1,US760:ABC_wtvd_raleigh
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29430
+#EXTINF:-1,US761:ABC_wplg_mia
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29429
+#EXTINF:-1,US762:ABC_kfsn_fresno
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29428
+#EXTINF:-1,US763:ABC_ksat_saa
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29427
+#EXTINF:-1,US764:ABC_kmbc_kan
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29426
+#EXTINF:-1,US765:ABC-wews-cla
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29425
+#EXTINF:-1,US766:ABC_WSYX_CLM
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29424
+#EXTINF:-1,US707:ABC_wplg_mia
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29423
+#EXTINF:-1,US708:ABC_wtvd_raleigh
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/29422
+#EXTINF:-1,------|Canada|------
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3069
+#EXTINF:-1,CA001:ABC-SPARK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3068
+#EXTINF:-1,CA002:SPORTSNET-ONTARIO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3067
+#EXTINF:-1,CA003:AMC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3066
+#EXTINF:-1,CA004:ANIMAL-PLANET
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3065
+#EXTINF:-1,CA005:TMN-1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3064
+#EXTINF:-1,CA006:BET
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3063
+#EXTINF:-1,CA007:BNN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3062
+#EXTINF:-1,CA008:BRAVO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3061
+#EXTINF:-1,CA009:CBC-EAST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3060
+#EXTINF:-1,CA010:CBC-NEWS-NETWORK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3059
+#EXTINF:-1,CA011:CHCH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3058
+#EXTINF:-1,CA012:CITY-TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3057
+#EXTINF:-1,CA013:CNN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3056
+#EXTINF:-1,CA014:COMEDY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3055
+#EXTINF:-1,CA015:COTTAGE-LIFE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3054
+#EXTINF:-1,CA016:CP24
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3053
+#EXTINF:-1,CA017:CPAC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3052
+#EXTINF:-1,CA018:ABC West
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3051
+#EXTINF:-1,CA019:CTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3050
+#EXTINF:-1,CA020:CTV Atlantic
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3049
+#EXTINF:-1,CA021:CTV-NEWS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3048
+#EXTINF:-1,CA022:DISCOVERY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3047
+#EXTINF:-1,CA023:DISNEY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3046
+#EXTINF:-1,CA024:DISNEY-JR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3045
+#EXTINF:-1,CA025:DISNEY-XD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3044
+#EXTINF:-1,CA026:DIY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3043
+#EXTINF:-1,CA027:DTOUR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3042
+#EXTINF:-1,CA028:E!
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3041
+#EXTINF:-1,CA029:FAMILY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3040
+#EXTINF:-1,CA030:FOOD-NETWORK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3039
+#EXTINF:-1,CA031:FOX-EAST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3038
+#EXTINF:-1,CA032:NBA CA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3037
+#EXTINF:-1,CA033:FXX-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3036
+#EXTINF:-1,CA034:GLOBAL-EAST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3035
+#EXTINF:-1,CA035:GSN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3034
+#EXTINF:-1,CA036:GUSTO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3033
+#EXTINF:-1,CA037:HBO-EAST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3032
+#EXTINF:-1,CA038:HBO-WEST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3031
+#EXTINF:-1,CA039:HGTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3030
+#EXTINF:-1,CA040:HISTORY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3029
+#EXTINF:-1,CA041:HLN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3028
+#EXTINF:-1,CA042:ID
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3027
+#EXTINF:-1,CA043:PBS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3026
+#EXTINF:-1,CA044:LIFETIME
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3025
+#EXTINF:-1,CA045:ME-TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3024
+#EXTINF:-1,CA046:ShowCase CA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3023
+#EXTINF:-1,CA047:MTV-canada
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3022
+#EXTINF:-1,CA048:MUCHMUSIC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3021
+#EXTINF:-1,CA049:NAT-GEO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3020
+#EXTINF:-1,CA050:NAT-GEO-WILD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3019
+#EXTINF:-1,CA051:Sportsnet World
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3018
+#EXTINF:-1,CA052:OLN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3017
+#EXTINF:-1,CA053:W-NETWORK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3016
+#EXTINF:-1,CA054:OWN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3015
+#EXTINF:-1,CA055:PEACH-TREE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3014
+#EXTINF:-1,CA056:SLICE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3013
+#EXTINF:-1,CA057:SMITHSONIAN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3012
+#EXTINF:-1,CA058:SPACE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3011
+#EXTINF:-1,CA059:SPORTSNET-360
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3010
+#EXTINF:-1,CA060:SPORTSNET-EAST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3009
+#EXTINF:-1,CA061:SPORTSNET-ONE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3008
+#EXTINF:-1,CA062:SPORTSNET-WEST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3007
+#EXTINF:-1,CA063:TLC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3006
+#EXTINF:-1,CA064:TREEHOUSE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3005
+#EXTINF:-1,CA065:TSN-1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3004
+#EXTINF:-1,CA066:TSN-2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3003
+#EXTINF:-1,CA067:TSN-3
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3002
+#EXTINF:-1,CA068:TSN-4
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3001
+#EXTINF:-1,CA069:TSN-5
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/3000
+#EXTINF:-1,CA070:TVO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2999
+#EXTINF:-1,CA071:Game TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2998
+#EXTINF:-1,CA072:YTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2997
+#EXTINF:-1,CA073:WEATHER-CHANNEL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2996
+#EXTINF:-1,CA074:TVA Montreal
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2995
+#EXTINF:-1,CA075:YES-HD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2994
+#EXTINF:-1,CA076:TVA FR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2993
+#EXTINF:-1,CA077:TVA Sports FR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2992
+#EXTINF:-1,CA078:V Montreal FR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2991
+#EXTINF:-1,CA079:SUPER CHANNEL VAULT    
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2990
+#EXTINF:-1,CA080:LCN FR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2989
+#EXTINF:-1,CA081:RDI FR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2988
+#EXTINF:-1,CA082:RDS FR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/2987
+#EXTINF:-1,CA083:A&E
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30231
+#EXTINF:-1,CA084:ABC EAST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30230
+#EXTINF:-1,CA085:ACTION
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30229
+#EXTINF:-1,CA086:ADDIK TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30228
+#EXTINF:-1,CA087:AHC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30227
+#EXTINF:-1,CA088:APTN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30226
+#EXTINF:-1,CA089:ARTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30225
+#EXTINF:-1,CA090:Assemblée Nationale Québec
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30224
+#EXTINF:-1,CA091:BBC CANADA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30223
+#EXTINF:-1,CA092:BBC WORLD NEWS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30222
+#EXTINF:-1,CA093:BOOK TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30221
+#EXTINF:-1,CA094:CANAL D
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30220
+#EXTINF:-1,CA095:CANAL SAVOIR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30219
+#EXTINF:-1,CA096:CARTOON NETWORK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30218
+#EXTINF:-1,CA097:CASA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30217
+#EXTINF:-1,CA098:CBC MONTREAL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30216
+#EXTINF:-1,CA099:CBC NEWS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30215
+#EXTINF:-1,CA100:CBC OTTAWA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30214
+#EXTINF:-1,CA101:CBC TORONTO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30213
+#EXTINF:-1,CA102:CBC VANCOUVER
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30212
+#EXTINF:-1,CA103:CBS EAST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30211
+#EXTINF:-1,CA104:CBS WEST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30210
+#EXTINF:-1,CA105:CINEPOP
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30209
+#EXTINF:-1,CA106:CITY TORONTO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30208
+#EXTINF:-1,CA107:CITY VANCOUVER
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30207
+#EXTINF:-1,CA108:CMT CANADA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30206
+#EXTINF:-1,CA109:CNBC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30205
+#EXTINF:-1,CA110:CNN INTERNATIONAL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30204
+#EXTINF:-1,CA111:COMEDY GOLD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30203
+#EXTINF:-1,CA112:COOKING CHANNEL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30202
+#EXTINF:-1,CA113:COSMO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30201
+#EXTINF:-1,CA114:CPAC FRENCH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30200
+#EXTINF:-1,CA115:CRIME INVEST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30199
+#EXTINF:-1,CA116:CTV 2 VANCOUVER
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30198
+#EXTINF:-1,CA117:CTV OTTAWA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30197
+#EXTINF:-1,CA118:CTV TORONTO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30196
+#EXTINF:-1,CA119:CTV VANCOUVER
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30195
+#EXTINF:-1,CA120:CTV2 OTTAWA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30194
+#EXTINF:-1,CA121:CW 11
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30193
+#EXTINF:-1,CA122:DAYSTAR TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30192
+#EXTINF:-1,CA123:DEJAVIEW
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30191
+#EXTINF:-1,CA124:DISCOVERY SCIENCE CANADA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30190
+#EXTINF:-1,CA125:DISNEY FRENCH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30189
+#EXTINF:-1,CA126:DOCUMENTARY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30188
+#EXTINF:-1,CA127:ENCORE 1 EAST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30187
+#EXTINF:-1,CA128:ENCORE 2 EAST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30186
+#EXTINF:-1,CA129:EVASION
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30185
+#EXTINF:-1,CA130:FAMILY CHRGD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30184
+#EXTINF:-1,CA131:FAMILY JR
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30183
+#EXTINF:-1,CA132:FIGHT NETWORK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30182
+#EXTINF:-1,CA133:FOX NEWS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30181
+#EXTINF:-1,CA134:FOX WEST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30180
+#EXTINF:-1,CA135:FTV CANADA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30179
+#EXTINF:-1,CA136:FYI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30178
+#EXTINF:-1,CA137:GLOBAL TORONTO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30177
+#EXTINF:-1,CA138:GLOBAL VANCOUVER
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30176
+#EXTINF:-1,CA139:GOLF
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30175
+#EXTINF:-1,CA140:H2 CANADA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30174
+#EXTINF:-1,CA141:HBO 1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30173
+#EXTINF:-1,CA142:HBO 2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30172
+#EXTINF:-1,CA143:HISTORIO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30171
+#EXTINF:-1,CA144:ICI MONTREAL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30170
+#EXTINF:-1,CA145:ICI VANCOUVER
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30169
+#EXTINF:-1,CA146:ICI RDI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30168
+#EXTINF:-1,CA147:KNOWLEDGE KIDS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30167
+#EXTINF:-1,CA148:KTLA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30166
+#EXTINF:-1,CA149:LCN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30165
+#EXTINF:-1,CA150:MAX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30164
+#EXTINF:-1,CA151:METEO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30163
+#EXTINF:-1,CA152:MIRACLE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30162
+#EXTINF:-1,CA153:MOI CIE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30161
+#EXTINF:-1,CA154:MTIME
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30160
+#EXTINF:-1,CA155:MTV 2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30159
+#EXTINF:-1,CA156:MUSIQUE PLUS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30158
+#EXTINF:-1,CA157:VIE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30157
+#EXTINF:-1,CA158:VISION
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30156
+#EXTINF:-1,CA159:VRAK TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30155
+#EXTINF:-1,CA160:WFN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30154
+#EXTINF:-1,CA161:WGN
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30153
+#EXTINF:-1,CA162:Wild TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30152
+#EXTINF:-1,CA163:WSBK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30151
+#EXTINF:-1,CA164:YOOPA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30150
+#EXTINF:-1,CA165:Z TELE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30149
+#EXTINF:-1,CA166:ZESTE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30148
+#EXTINF:-1,CA167:TFO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30147
+#EXTINF:-1,CA168:THE WEATHER NETWORK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30146
+#EXTINF:-1,CA169:CRAVE 2 / TMN 2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30145
+#EXTINF:-1,CA170:CRAVE 3 / TMN 3
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30144
+#EXTINF:-1,CA171:CRAVE 4 / TMN 4
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30143
+#EXTINF:-1,CA172:TV5 QUEBEC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30142
+#EXTINF:-1,CA173:NTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30141
+#EXTINF:-1,CA174:OMNI 1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30140
+#EXTINF:-1,CA175:OMNI 2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30139
+#EXTINF:-1,CA176:ONE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30138
+#EXTINF:-1,CA177:OUTTV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30137
+#EXTINF:-1,CA178:PEACH TREE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30136
+#EXTINF:-1,CA179:PRISE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30135
+#EXTINF:-1,CA180:RDI
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30134
+#EXTINF:-1,CA181:RDS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30133
+#EXTINF:-1,CA182:RDS 2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30132
+#EXTINF:-1,CA183:RDS INFO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30131
+#EXTINF:-1,CA184:SERIS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30130
+#EXTINF:-1,CA185:SHOPPING
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30129
+#EXTINF:-1,CA186:SILVER SCREEN CLASSICS
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30128
+#EXTINF:-1,CA187:SPIKE TV / PARAMOUNT CANADA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30127
+#EXTINF:-1,CA188:SPORTSNET PACIFIC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30126
+#EXTINF:-1,CA189:SUPER ECRAN 1
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30125
+#EXTINF:-1,CA190:SUPER ECRAN 2
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30124
+#EXTINF:-1,CA191:SUPER ECRAN 3
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30123
+#EXTINF:-1,CA192:SUPER ECRAN 4
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30122
+#EXTINF:-1,CA193:TCM
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30121
+#EXTINF:-1,CA194:TELE LATINO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30120
+#EXTINF:-1,CA195:TELE QUEBEC
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30119
+#EXTINF:-1,CA196:TELE TOON EAST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30118
+#EXTINF:-1,CA197:TELE TOON FRENCH
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30117
+#EXTINF:-1,CA198:TELEMAGINO
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30116
+#EXTINF:-1,CA199:NBC EAST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30115
+#EXTINF:-1,CA200:NBC WEST
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30114
+#EXTINF:-1,CA201:CITY MONTREAL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30113
+#EXTINF:-1,CA202:MAKEFUL
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30112
+#EXTINF:-1,CA203:MLB NETWORK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30111
+#EXTINF:-1,CA204:CTV HALIFAX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30110
+#EXTINF:-1,CA205:GLOBAL HALIFAX
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30109
+#EXTINF:-1,CA206:HOPE TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30108
+#EXTINF:-1,CA207:CBC NOVA SCOTIA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30107
+#EXTINF:-1,CA208:UNIS TV
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30106
+#EXTINF:-1,CA209:NICK
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30105
+#EXTINF:-1,CA210:MAVTV CANADA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30104
+#EXTINF:-1,CA211:FX FHD
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30103
+#EXTINF:-1,CA212:MEDIASET ITALIA CANADA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30102
+#EXTINF:-1,CA213:TRAVEL   ESCAPE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30101
+#EXTINF:-1,CA214:CBC CALGARY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30100
+#EXTINF:-1,CA215:CITY CALGARY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30099
+#EXTINF:-1,CA216:CTV CALGARY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30098
+#EXTINF:-1,CA217:GLOBAL CALGARY
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30097
+#EXTINF:-1,CA218:SPORTSMAN CHANNEL CANADA
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30096
+#EXTINF:-1,CA219:SUPER CHANNEL FUSE
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30095
+#EXTINF:-1,CA220:SUPER CHANNEL HEART & HOME
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/30094
