@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTINF:-1,U* | BBC One FHD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/32388
+#EXTINF:-1,U* | BBC One HD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/472
+#EXTINF:-1,Uk || BBC One SD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/4548
+#EXTINF:-1,U* | BBC Two FHD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/32389
+#EXTINF:-1,U* | BBC Two HD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/471
+#EXTINF:-1,Uk || BBC Two SD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/4549
+#EXTINF:-1,U* | ITV1 FHD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/470
+#EXTINF:-1,U* | ITV1  HD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/32390
+#EXTINF:-1,Uk || ITV1 SD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/4533
+#EXTINF:-1,U* | ITV1 +1 SD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/33827
+#EXTINF:-1,U* | Channel 4 FHD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/469
+#EXTINF:-1,U* | Channel 4 HD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/32391
+#EXTINF:-1,Uk || Channel 4 SD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/4612
+#EXTINF:-1,Uk | Channel 4 +1 SD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/47452
+#EXTINF:-1,U* | Channel 5 FHD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/468
+#EXTINF:-1,U* | Channel 5 HD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/32392
+#EXTINF:-1,Uk || Channel 5 SD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/6440
+#EXTINF:-1,Uk | Channel 5 +1 SD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/47474
+#EXTINF:-1,U* | ITV2 HD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/134
+#EXTINF:-1,Uk || ITV2 SD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/452
+#EXTINF:-1,Uk | ITV2 +1 SD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/39124
+#EXTINF:-1,U* | ITV3 HD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/130
+#EXTINF:-1,Uk | ITV3 SD
+http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/451
 #EXTINF:-1,À bras ouverts
 http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6815.mkv
 #EXTINF:-1,Alien : Covenant
