@@ -1,288 +1,488 @@
 #EXTM3U
-#EXTINF:-1,U* | BBC One FHD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/32388
-#EXTINF:-1,U* | BBC One HD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/472
-#EXTINF:-1,Uk || BBC One SD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/4548
-#EXTINF:-1,U* | BBC Two FHD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/32389
-#EXTINF:-1,U* | BBC Two HD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/471
-#EXTINF:-1,Uk || BBC Two SD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/4549
-#EXTINF:-1,U* | ITV1 FHD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/470
-#EXTINF:-1,U* | ITV1  HD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/32390
-#EXTINF:-1,Uk || ITV1 SD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/4533
-#EXTINF:-1,U* | ITV1 +1 SD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/33827
-#EXTINF:-1,U* | Channel 4 FHD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/469
-#EXTINF:-1,U* | Channel 4 HD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/32391
-#EXTINF:-1,Uk || Channel 4 SD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/4612
-#EXTINF:-1,Uk | Channel 4 +1 SD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/47452
-#EXTINF:-1,U* | Channel 5 FHD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/468
-#EXTINF:-1,U* | Channel 5 HD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/32392
-#EXTINF:-1,Uk || Channel 5 SD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/6440
-#EXTINF:-1,Uk | Channel 5 +1 SD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/47474
-#EXTINF:-1,U* | ITV2 HD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/134
-#EXTINF:-1,Uk || ITV2 SD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/452
-#EXTINF:-1,Uk | ITV2 +1 SD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/39124
-#EXTINF:-1,U* | ITV3 HD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/130
-#EXTINF:-1,Uk | ITV3 SD
-http://avhosting.ddns.net:8080/j.angland@btinternet.com/Th6KTohi3f/451
-#EXTINF:-1,À bras ouverts
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6815.mkv
-#EXTINF:-1,Alien : Covenant
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6816.mkv
-#EXTINF:-1,All Eyez on Me
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6817.mkv
-#EXTINF:-1,American Ultra
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6818.mkv
-#EXTINF:-1,Atomic Shark
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6820.mkv
-#EXTINF:-1,Aurore
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6821.mkv
-#EXTINF:-1,American Girls 6 : Confrontation Mondiale
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6826.mkv
-#EXTINF:-1,Capitaine Superslip
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6827.mkv
-#EXTINF:-1,Dead Again in Tombstone
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6828.mkv
-#EXTINF:-1,Death Note
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6829.mkv
-#EXTINF:-1,Descendants 2
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6830.mkv
-#EXTINF:-1,Django
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6831.mkv
-#EXTINF:-1,Baba Yaga
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6832.mkv
-#EXTINF:-1,Pris au piège
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6833.mkv
-#EXTINF:-1,Stalingrad
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6834.mkv
-#EXTINF:-1,Combat de Profs
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6835.mkv
-#EXTINF:-1,Gold
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6836.mp4
-#EXTINF:-1,Jour J
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6838.mkv
-#EXTINF:-1,Kenshin le vagabond : Le Chapitre de l'expiation
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6839.mkv
-#EXTINF:-1,Kill Switch
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6840.mkv
-#EXTINF:-1,Le Roi Arthur : La légende d'Excalibur
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6841.mkv
-#EXTINF:-1,L'Empereur
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6842.mkv
-#EXTINF:-1,Little Evil
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6843.mkv
-#EXTINF:-1,Megan Leavey
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6844.mkv
-#EXTINF:-1,La 6ème, la pire année de ma vie
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6845.mkv
-#EXTINF:-1,Mr & Mme Adelman
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6846.mkv
-#EXTINF:-1,Sa Majesté Minor
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6847.mkv
-#EXTINF:-1,Noces
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6849.mkv
-#EXTINF:-1,Orgueil et Préjugés et Zombies
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6851.mkv
-#EXTINF:-1,# Pire Soirée
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6852.mkv
-#EXTINF:-1,Sage femme
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6853.mkv
-#EXTINF:-1,Security
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6854.mkv
-#EXTINF:-1,Sharknado 5: Global Swarming
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6855.mkv
-#EXTINF:-1,Sous le même toit
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6856.mkv
-#EXTINF:-1,Starship Troopers : Traitor of Mars
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6857.mkv
-#EXTINF:-1,The Last Girl - Celle qui a tous les dons
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6858.mkv
-#EXTINF:-1,The Professional
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6859.mkv
-#EXTINF:-1,L'Accusé
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6860.mkv
-#EXTINF:-1,La Momie
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6861.mkv
-#EXTINF:-1,London House
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6862.mkv
-#EXTINF:-1,On l'appelle Jeeg Robot
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6863.mkv
-#EXTINF:-1,Voice from the Stone
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6864.mkv
-#EXTINF:-1,Wonder Woman
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6865.mkv
-#EXTINF:-1,Like A Complete Unknown
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6866.mkv
-#EXTINF:-1,Boule & Bill 2
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6867.mkv
-#EXTINF:-1,Emily Dickinson : A Quiet Passion
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6877.mkv
-#EXTINF:-1,A United Kingdom
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6878.mkv
-#EXTINF:-1,La Belle et la Bête
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6879.mkv
-#EXTINF:-1,Chez nous
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6881.mkv
-#EXTINF:-1,Don't Kill It
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6882.mkv
-#EXTINF:-1,Gangsterdam
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6883.mkv
-#EXTINF:-1,Braquage à l'ancienne
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6884.mkv
-#EXTINF:-1,Headshot
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6886.mkv
-#EXTINF:-1,Identités
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6887.mkv
-#EXTINF:-1,Mythica 4 : La couronne de fer
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6889.mkv
-#EXTINF:-1,Naked
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6890.mkv
-#EXTINF:-1,Osiris, la 9ème planète
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6891.mkv
-#EXTINF:-1,Les Schtroumpfs et le village perdu
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6892.mkv
-#EXTINF:-1,Fast & Furious 8
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6893.mkv
-#EXTINF:-1,La Femme du gardien de zoo
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6894.mkv
-#EXTINF:-1,Baby Driver
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7820.mkv
-#EXTINF:-1,C'est le cœur qui meurt en dernier
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7821.mkv
-#EXTINF:-1,Outsider
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7822.mkv
-#EXTINF:-1,Les Insoumis
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7823.mkv
-#EXTINF:-1,It Comes at Night
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7824.mkv
-#EXTINF:-1,Lowriders
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7825.mkv
-#EXTINF:-1,Pirates des Caraïbes : La Vengeance de Salazar
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7826.mkv
-#EXTINF:-1,The Bad Batch
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7828.mkv
-#EXTINF:-1,The Big Sick
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7829.mkv
-#EXTINF:-1,Aventuriers En Mission : Trio Le Film
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7831.mkv
-#EXTINF:-1,20th Century Women
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7851.mkv
-#EXTINF:-1,47 Meters Down
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7852.mkv
-#EXTINF:-1,Le retour de Chucky
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7853.mkv
-#EXTINF:-1,Jessie
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7854.mkv
-#EXTINF:-1,Going to Brazil
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7855.mkv
-#EXTINF:-1,Goon: Le Dernier des Durs à Cuire
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7856.mkv
-#EXTINF:-1,Issue de secours
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7857.mkv
-#EXTINF:-1,L'Amant Double
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7858.mkv
-#EXTINF:-1,Love Everlasting
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7859.avi
-#EXTINF:-1,Message from the King
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7860.mkv
-#EXTINF:-1,Ra Sleight
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7861.mkv
-#EXTINF:-1,Les proies
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7863.mkv
-#EXTINF:-1,The Book of Henry
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7864.mkv
-#EXTINF:-1,The House
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7865.mkv
-#EXTINF:-1,The Wizard of Lies
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7866.mkv
-#EXTINF:-1,UNLOCKED
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/7867.mkv
-#EXTINF:-1,Inconceivable
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8025.mp4
-#EXTINF:-1,Rathe Dark Tower
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8026.mkv
-#EXTINF:-1,La Nuit des clowns tueurs
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8027.mkv
-#EXTINF:-1,On l'appelle Jeeg Robot
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8028.mkv
-#EXTINF:-1,To the Bone
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8029.mkv
-#EXTINF:-1,Annabelle 2 : La Création du Mal
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8030.mkv
-#EXTINF:-1,First Kill
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8031.mkv
-#EXTINF:-1,Marie-Francine
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8032.mkv
-#EXTINF:-1, Rodin
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8033.mkv
-#EXTINF:-1,La Colère d’un homme patient
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8035.mkv
-#EXTINF:-1,La Planète des singes : Suprématie
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8036.mkv
-#EXTINF:-1, Ça
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8071.mkv
-#EXTINF:-1,The Ottoman Lieutenant
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8299.mkv
-#EXTINF:-1,L'Autre côté de l'espoir
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8300.mkv
-#EXTINF:-1,The Oath
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8301.avi
-#EXTINF:-1,The Babysitter
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8302.mkv
-#EXTINF:-1,Terra Formars
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8303.mkv
-#EXTINF:-1,Rock Dog
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8304.mkv
-#EXTINF:-1,Bon Cop Bad Cop 2
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8306.mkv
-#EXTINF:-1,Le Manoir
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8308.mkv
-#EXTINF:-1,Gremlin
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8309.mkv
-#EXTINF:-1,Comment j'ai rencontré mon père
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8310.mkv
-#EXTINF:-1,Churchill
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8311.avi
-#EXTINF:-1,Ce qui nous lie
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8312.mkv
-#EXTINF:-1,Cars 3
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8313.mkv
-#EXTINF:-1,Bushwick
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8314.mkv
-#EXTINF:-1,Amour à New York
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8315.mkv
-#EXTINF:-1,Les Ex
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8317.mkv
-#EXTINF:-1,L'Argent
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8318.mkv
-#EXTINF:-1,Mon ami le dinosaure
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8319.mkv
-#EXTINF:-1,Strange Weather
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8320.mkv
-#EXTINF:-1,The Devil's Candy
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8321.avi
-#EXTINF:-1,Le chemin du pardon : La cabane
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8322.mkv
-#EXTINF:-1,Un profil pour deux
-http://213.152.172.35:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/8323.mkv
-#EXTINF:-1,Wheelman
+#EXTINF:-1,|USA| HBO COMEDY HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65155
+#EXTINF:-1,|USA| HBO FAMILY
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65154
+#EXTINF:-1,|USA| HBO HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65200
+#EXTINF:-1,|USA| HBO HD 1
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65126
+#EXTINF:-1,|USA| HBO HD 2
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65125
+#EXTINF:-1,|USA| HBO SIGNATURE HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65153
+#EXTINF:-1,|USA| HBO ZONE
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65199
+#EXTINF:-1,|USA| CINEMAX ACTION MAX
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65091
+#EXTINF:-1,|USA| CINEMAX HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65223
+#EXTINF:-1,|USA| CINEMAX MORE MAX
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65090
+#EXTINF:-1,|USA| CINEMAX MOREMAX HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65222
+#EXTINF:-1,|USA| CINEMAX OUTER MAX
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65089
+#EXTINF:-1,|USA| CINEMAX THRILLERMAX HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65221
+#EXTINF:-1,|USA| EPIX
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65212
+#EXTINF:-1,|USA| EPIX 2 HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65213
+#EXTINF:-1,|USA| EPIX HITS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65052
+#EXTINF:-1,|USA| SHOWTIME HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65180
+#EXTINF:-1,|USA| SHOWTIME 2
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65183
+#EXTINF:-1,|USA| SHOWTIME EXTREME
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65065
+#EXTINF:-1,|USA| SPIKE/PARAMOUNT
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65064
+#EXTINF:-1,|USA| SPIKE/PARAMOUNT HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65179
+#EXTINF:-1,|USA| STARZ
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/98275
+#EXTINF:-1,|USA| STARZ COMEDY
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65177
+#EXTINF:-1,|USA| STARZ KIDS & FAMILY
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65178
+#EXTINF:-1,|USA| STARZ ENCORE
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/98276
+#EXTINF:-1,|USA| STARZ ENCORE WESTERNS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/98277
+#EXTINF:-1,|USA| STARZ BLACK
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/98632
+#EXTINF:-1,|USA| COMEDY CENTRAL
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65220
+#EXTINF:-1,|USA| ID HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65197
+#EXTINF:-1,|USA| A&E
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65097
+#EXTINF:-1,|USA| A&E HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65236
+#EXTINF:-1,|USA| ANTENNA TV
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65095
+#EXTINF:-1,|USA| BBC AMERICA HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65232
+#EXTINF:-1,|USA| BET
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65094
+#EXTINF:-1,|USA| BET HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65164
+#EXTINF:-1,|USA| BET HER
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65093
+#EXTINF:-1,|USA| AMC HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65138
+#EXTINF:-1,|USA| COZI TV
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65109
+#EXTINF:-1,|USA| BRAVO HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65229
+#EXTINF:-1,|USA| CMT HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65162
+#EXTINF:-1,|USA| CW HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65219
+#EXTINF:-1,|USA| FREEFORM HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65207
+#EXTINF:-1,|USA| FUSION HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65206
+#EXTINF:-1,|USA| FX HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65128
+#EXTINF:-1,|USA| FXM
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65043
+#EXTINF:-1,|USA| FXX HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65127
+#EXTINF:-1,|USA| FYI
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65082
+#EXTINF:-1,|USA| GSN HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65204
+#EXTINF:-1,|USA| H2
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65203
+#EXTINF:-1,|USA| HALL MARK HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65202
+#EXTINF:-1,|USA| HALLMARK MOVIES&MYSTERIES HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65156
+#EXTINF:-1,|USA| HEROS & ICONS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65081
+#EXTINF:-1,|USA| HGTV FHD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65080
+#EXTINF:-1,|USA| HGTV HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65198
+#EXTINF:-1,|USA| E! HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65215
+#EXTINF:-1,|USA| OXYGEN HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65185
+#EXTINF:-1,|USA| PARAMOUNT
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65068
+#EXTINF:-1,|USA| PBS WLIW 21
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65066
+#EXTINF:-1,|USA| LIFETIME HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65124
+#EXTINF:-1,|USA| LMN HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65196
+#EXTINF:-1,|USA| VH1 HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65167
+#EXTINF:-1,|USA| WE HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65165
+#EXTINF:-1,|USA| WE TV
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65056
+#EXTINF:-1,|USA| WGN AMERICA
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65055
+#EXTINF:-1,|USA| WPIX 11 NY
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65054
+#EXTINF:-1,|USA| SYFY HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65176
+#EXTINF:-1,|USA| MOREMAX HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65194
+#EXTINF:-1,|USA| TBS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65175
+#EXTINF:-1,|USA| TLC HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65119
+#EXTINF:-1,|USA| TLC USA
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65098
+#EXTINF:-1,|USA| TNT HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65172
+#EXTINF:-1,|USA| TRU TV HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65171
+#EXTINF:-1,|USA| TURNER CLASSIC MOVIES
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65059
+#EXTINF:-1,|USA| TV LAND
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65058
+#EXTINF:-1,|USA| TV LAND HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65170
+#EXTINF:-1,|USA| TV ONE
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65057
+#EXTINF:-1,|USA| TCM
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65060
+#EXTINF:-1,|USA| DESTINATION AMERICA
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65218
+#EXTINF:-1,|USA| DIY NETWORK HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65131
+#EXTINF:-1,|USA| USA NETWORK
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65168
+#EXTINF:-1,|USA| ION TV
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65078
+#EXTINF:-1,##### |USA| KIDS #####
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65240
+#EXTINF:-1,|USA| BOOMERANG HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65163
+#EXTINF:-1,|USA| CARTOON NETWORK
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65227
+#EXTINF:-1,|USA| DISNEY HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65216
+#EXTINF:-1,|USA| DISNEY JR. HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65159
+#EXTINF:-1,|USA| DISNEY XD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65104
+#EXTINF:-1,|USA| DISNEY XD HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65158
+#EXTINF:-1,|USA| NICK HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65189
+#EXTINF:-1,|USA| NICK JR
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65070
+#EXTINF:-1,|USA| NICK JR. HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65188
+#EXTINF:-1,|USA| NICKTOONS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65187
+#EXTINF:-1,|USA| PBS HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65184
+#EXTINF:-1,|USA| PBS KIDS EAST
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65067
+#EXTINF:-1,|USA| UNIVERSAL KIDS HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65169
+#EXTINF:-1,|USA| TEEN NICK
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65041
+#EXTINF:-1,##### |USA| DOCUMANTARY #####
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65242
+#EXTINF:-1,|USA| AMERICAN HEROES AND ICONS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65100
+#EXTINF:-1,|USA| AMERICAN HEROES CHANNEL
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65103
+#EXTINF:-1,|USA| ANIMAL PLANET HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65137
+#EXTINF:-1,|USA| CRIME & INVESTIGATION HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65160
+#EXTINF:-1,|USA| COOKING CHANNEL HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65161
+#EXTINF:-1,|USA| DISCOVERY FAMILY HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65116
+#EXTINF:-1,|USA| DISCOVERY HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65133
+#EXTINF:-1,|USA| DISCOVERY SCIENCE HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65132
+#EXTINF:-1,|USA| DISCOVERY VELOCITY HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65217
+#EXTINF:-1,|USA| FOOD NETWORK HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65130
+#EXTINF:-1,|USA| HISTORY HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65118
+#EXTINF:-1,|USA| INVESTIGATION DISCOVERY
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65079
+#EXTINF:-1,|USA| NAT GEO HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65193
+#EXTINF:-1,|USA| NAT GEO USA
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65075
+#EXTINF:-1,|USA| NAT GEO WILD HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65122
+#EXTINF:-1,|USA| NAT GEO WILD HD US
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65074
+#EXTINF:-1,|USA| THE TRAVEL CHANNEL HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65173
+#EXTINF:-1,##### |USA| NEWS #####
+http://185.79.114.12:25461/greetings.mp4
+#EXTINF:-1,|USA| ABC HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65235
+#EXTINF:-1,|USA| ABC NEWS HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65234
+#EXTINF:-1,|USA| ABC NY FHD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65096
+#EXTINF:-1,|USA| AFN PRIME ATLANTIC
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65115
+#EXTINF:-1,|USA| AFN PRIME PACIFIC
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65114
+#EXTINF:-1,|USA| BIG TEN NETWORK
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65231
+#EXTINF:-1,|USA| BLOOMBERG HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65230
+#EXTINF:-1,|USA| CBN HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65226
+#EXTINF:-1,|USA| CBN NEWS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65225
+#EXTINF:-1,|USA| CBS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65135
+#EXTINF:-1,|USA| CBS NY FHD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65092
+#EXTINF:-1,|USA| CNBC HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65146
+#EXTINF:-1,|USA| CNN
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65088
+#EXTINF:-1,|USA| CNN HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65134
+#EXTINF:-1,|USA| ESPN NEWS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65101
+#EXTINF:-1,|USA| ESPNDEPORTES HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65157
+#EXTINF:-1,|USA| FOX 5
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65084
+#EXTINF:-1,|USA| FOX 5 HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65083
+#EXTINF:-1,|USA| FOX BUSINESS NETWORK HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65210
+#EXTINF:-1,|USA| FOX HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65129
+#EXTINF:-1,|USA| FOX NEWS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65142
+#EXTINF:-1,|USA| MLB NETWORK
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65195
+#EXTINF:-1,|USA| MSNBC HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65123
+#EXTINF:-1,|USA| MY 9
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65076
+#EXTINF:-1,|USA| NBC 4 NY FHD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65073
+#EXTINF:-1,|USA| NO TV NEW ORLEANS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65186
+#EXTINF:-1,|USA| OWN
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65099
+#EXTINF:-1,|USA| OWN HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65069
+#EXTINF:-1,|USA| OWN HD (OPRAH WINFRY NETWORK)
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65120
+#EXTINF:-1,|USA| SEC NETWORK
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65182
+#EXTINF:-1,|USA| SEC NETWORK HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65181
+#EXTINF:-1,|USA| SUNDANCE HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65148
+#EXTINF:-1,|USA| TBN TRINITY BROADCASTING NETWORK
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65061
+#EXTINF:-1,|USA| TELEMUNDO
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65106
+#EXTINF:-1,|USA| UNIMAS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65107
+#EXTINF:-1,|USA| UNIVISION
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65105
+#EXTINF:-1,|USA| VELOCITY HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65117
+#EXTINF:-1,|USA| WWE NETWORK HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65139
+#EXTINF:-1,|USA| YES NETWORK
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65053
+#EXTINF:-1,##### |USA| MUSIC #####
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65241
+#EXTINF:-1,|USA| MTV 2
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65077
+#EXTINF:-1,|USA| MTV HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65152
+#EXTINF:-1,|USA| MTVLIVE HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65151
+#EXTINF:-1,|USA| VICELAND HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65166
+#EXTINF:-1,##### |USA| SPORT #####
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65239
+#EXTINF:-1,|USA| AFN SPORTS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65113
+#EXTINF:-1,|USA| AFN SPORTS 2
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65112
+#EXTINF:-1,|USA| BEIN SPORTS HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65147
+#EXTINF:-1,|USA| BEIN USA HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65136
+#EXTINF:-1,|USA| CBS SPORTS NETWORK HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65224
+#EXTINF:-1,|USA| ESPN
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65087
+#EXTINF:-1,|USA| ESPN 2
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65086
+#EXTINF:-1,|USA| ESPN HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65144
+#EXTINF:-1,|USA| ESPN 2 HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65145
+#EXTINF:-1,|USA| ESPN U
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65085
+#EXTINF:-1,|USA| ESPN U HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65143
+#EXTINF:-1,|USA| FIGHT NETWORK HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65051
+#EXTINF:-1,|USA| FOX COLLEGE ATLANTIC
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65050
+#EXTINF:-1,|USA| FOX COLLEGE CENTRAL
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65049
+#EXTINF:-1,|USA| FOX COLLEGE PACIFIC
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65048
+#EXTINF:-1,|USA| FOX COLLEGE SPORTS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65211
+#EXTINF:-1,|USA| FOX SOCCER PLUS
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65047
+#EXTINF:-1,|USA| FOX SOCCER PLUS HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65046
+#EXTINF:-1,|USA| FOX SPORTS 1 HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65209
+#EXTINF:-1,|USA| FOX SPORTS 2 HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65208
+#EXTINF:-1,|USA| FOX SPORTS FLORIDA
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65045
+#EXTINF:-1,|USA| FOX SPORTS SUN
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65044
+#EXTINF:-1,|USA| NBC SPORTS NETWORK
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65040
+#EXTINF:-1,|USA| NBC GOLF
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65072
+#EXTINF:-1,|USA| NBC HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65141
+#EXTINF:-1,|USA| NBCSN HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65140
+#EXTINF:-1,|USA| NFL NETWORK HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65192
+#EXTINF:-1,|USA| NFL NOW HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65191
+#EXTINF:-1,|USA| NFL REDZONE HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65111
+#EXTINF:-1,|USA| SPORTSNET NY
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65062
+#EXTINF:-1,|USA| SPORTSNET LA
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65063
+#EXTINF:-1,|USA| TENNIS HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65174
+#EXTINF:-1,|USA| ELEVEN SPORTS HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65214
+#EXTINF:-1,|USA| GOLF HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65205
+#EXTINF:-1,|USA| BTN HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65228
+#EXTINF:-1,|USA| MAV TV
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65110
+#EXTINF:-1,|USA| NBA TV HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65121
+#EXTINF:-1,|USA| NHL NETWORK
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65071
+#EXTINF:-1,|USA| NHL NETWORK HD
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65190
+#EXTINF:-1,|USA| HSN
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65108
+#EXTINF:-1,|USA| UFC FIGHT PASS (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/0xxMFFLFpS/CRADqNHwrZ/65102
+
+#EXTINF:-1,Uk- Sky 1
+http://188.72.4.230:8000/live/mytv/My1p@9090/213.m3u8
+#EXTINF:-1,Uk- Sky 2
+http://188.72.4.230:8000/live/mytv/My1p@9090/212.m3u8
+#EXTINF:-1,Uk- Sky 4 Music
+http://188.72.4.230:8000/live/mytv/My1p@9090/183.m3u8
+#EXTINF:-1,Uk- Sky 5 USA
+http://188.72.4.230:8000/live/mytv/My1p@9090/182.m3u8
+#EXTINF:-1,Uk- Sky Animal Planet HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/181.m3u8
+#EXTINF:-1,Uk- Sky Arts 1 HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/185.m3u8
+#EXTINF:-1,Uk- Sky Atlantic
+http://188.72.4.230:8000/live/mytv/My1p@9090/184.m3u8
+#EXTINF:-1,Uk- Sky BBC Four HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/203.m3u8
+#EXTINF:-1,UK- Sky BBC News
+http://188.72.4.230:8000/live/mytv/My1p@9090/207.m3u8
+#EXTINF:-1,Uk- Sky BBC One HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/206.m3u8
+#EXTINF:-1,Uk- Sky BBC Three HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/204.m3u8
+#EXTINF:-1,Uk- Sky BBC Two HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/205.m3u8
+#EXTINF:-1,Uk- Sky BT Sport 1 HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/200.m3u8
+#EXTINF:-1,Uk- Sky BT Sport 2 HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/199.m3u8
+#EXTINF:-1,Uk- Sky BT Sport 3 HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/198.m3u8
+#EXTINF:-1,Uk- Sky BT Sports Extra 1
+http://188.72.4.230:8000/live/mytv/My1p@9090/197.m3u8
+#EXTINF:-1,Uk- Sky BT Sports Extra 2
+http://188.72.4.230:8000/live/mytv/My1p@9090/196.m3u8
+#EXTINF:-1,Uk- Sky Discovery
+http://188.72.4.230:8000/live/mytv/My1p@9090/180.m3u8
+#EXTINF:-1,Uk- Sky Discovery History
+http://188.72.4.230:8000/live/mytv/My1p@9090/179.m3u8
+#EXTINF:-1,Uk- Sky Discovery Science
+http://188.72.4.230:8000/live/mytv/My1p@9090/178.m3u8
+#EXTINF:-1,Uk- Sky Discovery Shed
+http://188.72.4.230:8000/live/mytv/My1p@9090/177.m3u8
+#EXTINF:-1,Uk- Sky Disney Junior HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/176.m3u8
+#EXTINF:-1,Uk- Sky Disney XD HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/175.m3u8
+#EXTINF:-1,Uk- Sky Eurosport 1 HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/195.m3u8
+#EXTINF:-1,Uk- Sky Eurosport 2 HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/194.m3u8
+#EXTINF:-1,Uk- Sky Food Network
+http://188.72.4.230:8000/live/mytv/My1p@9090/174.m3u8
+#EXTINF:-1,Uk- Sky Good Food HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/187.m3u8
+#EXTINF:-1,Uk- Sky ITV 1
+http://188.72.4.230:8000/live/mytv/My1p@9090/211.m3u8
+#EXTINF:-1,Uk- Sky ITV 2
+http://188.72.4.230:8000/live/mytv/My1p@9090/210.m3u8
+#EXTINF:-1,Uk- Sky ITV 3
+http://188.72.4.230:8000/live/mytv/My1p@9090/209.m3u8
+#EXTINF:-1,Uk- Sky ITV 4
+http://188.72.4.230:8000/live/mytv/My1p@9090/208.m3u8
+#EXTINF:-1,Uk- Sky Movies 24
+http://188.72.4.230:8000/live/mytv/My1p@9090/186.m3u8
+#EXTINF:-1,Uk- Sky Movies Action HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/189.m3u8
+#EXTINF:-1,Uk- Sky Nat Geo Wild HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/173.m3u8
+#EXTINF:-1,Uk- Sky National Geographic HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/172.m3u8
+#EXTINF:-1,Uk- Sky RTE One
+http://188.72.4.230:8000/live/mytv/My1p@9090/188.m3u8
+#EXTINF:-1,Uk- Sky Sport Football
+http://188.72.4.230:8000/live/mytv/My1p@9090/192.m3u8
+#EXTINF:-1,Uk- Sky Sports Action HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/191.m3u8
+#EXTINF:-1,Uk- Sky Sports Box Office HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/190.m3u8
+#EXTINF:-1,Uk- Sky Sports Main Event HD
+http://188.72.4.230:8000/live/mytv/My1p@9090/193.m3u8
+#EXTINF:-1,Uk- Sky True Movies 1
+http://188.72.4.230:8000/live/mytv/My1p@9090/202.m3u8
+#EXTINF:-1,Uk- Sky True Movies 2
+http://188.72.4.230:8000/live/mytv/My1p@9090/201.m3u8
