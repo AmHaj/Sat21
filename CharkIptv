@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,group-title="BEIN",BEIN SPORTS NEWS HD
+#EXTINF:
+-1,group-title="BEIN",BEIN SPORTS NEWS HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/135.m3u8
 #EXTINF:-1,|AR| beINSPORTS HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/136.m3u8
