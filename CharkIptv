@@ -62,6 +62,8 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10099.m3u8
 #EXTINF:-1,|AR| beINSPORTS US HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/292.m3u8
 
+#EXTINF:-1,group-title="BEIN",BEIN SPORTS NEWS HD
+
 #EXTINF:-1,|AR|****BEINSPORT FHD ****|AR|
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/8298.m3u8
