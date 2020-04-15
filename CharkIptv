@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,group-title="BEIN",BEIN SPORTS NEWS HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/135.m3u8
 #EXTINF:-1,|AR| beINSPORTS HD
@@ -60,10 +59,6 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/131.m3u8
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10099.m3u8
 #EXTINF:-1,|AR| beINSPORTS US HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/292.m3u8
-
-
-
-#EXTM3U #EXTINF:-1,BEINSPORT FHD="BEIN",BEIN SPORTS NEWS HD
 
 #EXTINF:-1,|AR|****BEINSPORT FHD ****|AR|
 
@@ -221,7 +216,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4470.m3u8
 #EXTINF:-1,|AR| AD SPORT 6HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4469.m3u8
 
-#EXTINF:-1,|AR|*****MAROC*****|AR|
+#EXTINF:-1,group-title="*****MAROC*****", MOROCCO
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4491.m3u8
 #EXTINF:-1,|AR| ARRIADIYYA FHD 
