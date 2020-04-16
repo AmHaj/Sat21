@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1,group-title= "*****MAROC*****" ,MOROCCO
+#EXTINF:-1, group-title= "*****MAROC*****" ,MOROCCO
 #EXTINF:-1,COVID 19 LIVE
                       ******NEWS******
-#EXTINF:-1,group-title="|USA|******NEWS******|USA|",   NEWS USA
+#EXTINF:-1, group-title="|USA|******NEWS******|USA|",   NEWS USA
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/11116
 #EXTINF:-1,|USA| CNN HD
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/1947
@@ -91,7 +91,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4098.m3u8
 #EXTINF:-1,|AR| AFLAM TV MAROC
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4468.m3u8
 
-#EXTINF:-1,group-title="BEIN",BEIN SPORTS NEWS HD
+#EXTINF:-1, group-title="BEIN",BEIN SPORTS NEWS HD
 
      ===============BEIN SPORTS===============
 
@@ -155,7 +155,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10099.m3u8
 #EXTINF:-1,|AR| beINSPORTS US HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/292.m3u8
 
-#EXTINF:-1,|AR|****BEINSPORT FHD ****|AR|
+#EXTINF:-1, |AR|****BEINSPORT FHD ****|AR|
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/8298.m3u8
 #EXTINF:-1,|AR|BEIN.SPORTS-1FHD
@@ -179,7 +179,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10509.m3u8
 #EXTINF:-1,|AR|BEIN.SPORTS-10FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10508.m3u8
 
-#EXTINF:-1,|AR|*****BEINS MOVIES *****|AR|
+#EXTINF:-1, |AR|*****BEINS MOVIES *****|AR|
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/1635.m3u8
 #EXTINF:-1,|AR| BEIN MOVIES 1 HD PREMIER
