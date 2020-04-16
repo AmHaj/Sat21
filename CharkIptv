@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1, group-title="NEWS*|USA|"
+#EXTINF:-1, group-title="NEWS*|USA|",covid
 
 #EXTINF:-1,COVID 19 LIVE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/39074
@@ -27,7 +27,7 @@ http://iptvpro.vision-new.org:8789/reda2020/reda2020/12393
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/12396
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/39074
 
-#EXTINF:-1, group-title="MAROC"
+#EXTINF:-1, group-title="MAROC",morocco
 #EXTINF:-1,|AR| ARRIADIYYA FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4491.m3u8
  #EXTINF:-1,|AR| ARRIADHIA MAROC
@@ -155,7 +155,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10099.m3u8
 #EXTINF:-1,|AR| beINSPORTS US HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/292.m3u8
 
-#EXTINF:-1, Group-Title="*BEINSPORT FHD*"
+#EXTINF:-1, Group-Title="*BEINSPORT FHD*",bein
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/8298.m3u8
 #EXTINF:-1,|AR|BEIN.SPORTS-1FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10517.m3u8
@@ -178,7 +178,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10509.m3u8
 #EXTINF:-1,|AR|BEIN.SPORTS-10FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10508.m3u8
 
-#EXTINF:-1, group-title="*BEINS MOVIES*"
+#EXTINF:-1, group-title="*BEINS MOVIES*",movies
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/1635.m3u8
 #EXTINF:-1,|AR| BEIN MOVIES 1 HD PREMIER
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/2127.m3u8
@@ -262,7 +262,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/13640.m3u8
 #EXTINF:-1,|AR| BEIN ANIMAL PLANET
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/724.m3u8
 
-#EXTINF:-1, group-title="*ALGERIE*"
+#EXTINF:-1, group-title="*ALGERIE*",algerie
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4500.m3u8
 #EXTINF:-1,|AR| PROGRAMME NATIONAL DZ
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28369.m3u8
@@ -309,7 +309,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28551.m3u8
 #EXTINF:-1,|AR| BEUR TV
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4353.m3u8
 
-#EXTINF:-1, group-title= "TUNISIE" 
+#EXTINF:-1, group-title= "TUNISIE",tunisie
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4490.m3u8
 #EXTINF:-1,|AR| TUNISIA NAT 1
