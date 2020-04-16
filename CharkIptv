@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, group-title= "*****MAROC*****" ,MOROCCO
-#EXTINF:-1,COVID 19 LIVE
-                      ******NEWS******
+
+
 #EXTINF:-1, group-title="NEWS*|USA|",   NEWS USA
+#EXTINF:-1,COVID 19 LIVE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/11116
 #EXTINF:-1,|USA| CNN HD
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/1947
@@ -25,6 +25,9 @@ http://iptvpro.vision-new.org:8789/reda2020/reda2020/12393
 #EXTINF:-1,|USA| The Weather Channel
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/12396
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/39074
+
+#EXTINF:-1, group-title= "*MAROC*" ,MOROCCO
+
 #EXTINF:-1,|AR| ARRIADIYYA FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4491.m3u8
  #EXTINF:-1,|AR| ARRIADHIA MAROC
@@ -93,8 +96,6 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4468.m3u8
 
 #EXTINF:-1, group-title="BEIN",BEIN SPORTS NEWS HD
 
-     ===============BEIN SPORTS===============
-
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/135.m3u8
 #EXTINF:-1,|AR| beINSPORTS HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/136.m3u8
@@ -155,7 +156,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10099.m3u8
 #EXTINF:-1,|AR| beINSPORTS US HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/292.m3u8
 
-#EXTINF:-1, |AR|****BEINSPORT FHD ****|AR|
+#EXTINF:-1, Group-Title="*BEINSPORT FHD*
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/8298.m3u8
 #EXTINF:-1,|AR|BEIN.SPORTS-1FHD
@@ -179,7 +180,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10509.m3u8
 #EXTINF:-1,|AR|BEIN.SPORTS-10FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10508.m3u8
 
-#EXTINF:-1, |AR|*****BEINS MOVIES *****|AR|
+#EXTINF:-1, Group-Title="*BEINS MOVIES*"
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/1635.m3u8
 #EXTINF:-1,|AR| BEIN MOVIES 1 HD PREMIER
@@ -205,7 +206,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/1416.m3u8
 #EXTINF:-1,|AR| BEIN TCM
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11581.m3u8
 
-#EXTINF:-1,|AR|*****BEINS BARAEM*****|AR|
+#EXTINF:-1, group-title="*BEINS BARAEM*"
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/1637.m3u8
 #EXTINF:-1,|AR| BEIN JEEM
@@ -267,7 +268,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/724.m3u8
 
 
 
-#EXTINF:-1,|AR|*****ALGERIE*****|AR|
+#EXTINF:-1, group-title="*ALGERIE*"
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4500.m3u8
 #EXTINF:-1,|AR| PROGRAMME NATIONAL DZ
