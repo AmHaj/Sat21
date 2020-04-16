@@ -759,36 +759,6 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28373.m3u8
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28385.m3u8
 #EXTINF:-1,|AR| IUC EGY
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28496.m3u8
-#EXTINF:-1,===== KUWAIT =====
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38948.m3u8
-#EXTINF:-1,|AR| KTV CH1 HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38933.m3u8
-#EXTINF:-1,|AR| KTV CH2 HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38934.m3u8
-#EXTINF:-1,|AR| KTV AL ARABI HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38932.m3u8
-#EXTINF:-1,|AR| KTV ETHRAA HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38935.m3u8
-#EXTINF:-1,|AR| KTV Funoon HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38936.m3u8
-#EXTINF:-1,|AR| KTV S.plus HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38937.m3u8
-#EXTINF:-1,|AR| KTV Sport HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38938.m3u8
-#EXTINF:-1,|AR| KTV Almajlis HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38940.m3u8
-#EXTINF:-1,|AR| KTV Quran HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38941.m3u8
-
-#EXTINF:-1,===== BAHRAIN =====
-
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38949.m3u8
-#EXTINF:-1,|AR| Bahrain 
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38942.m3u8
-#EXTINF:-1,|AR| Bahrain Inter HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38943.m3u8
-#EXTINF:-1,|AR| Bahrain Sport 2 HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/38944.m3u8
 
 #EXTINF:-1,===== QATAR =====
 
@@ -813,6 +783,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28597.m3u8
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28596.m3u8
 #EXTINF:-1,|AR| ALKASS 5
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28594.m3u8
+
 #EXTINF:-1, |AR|==== IRAQ ====|AR|
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28927.m3u8
 #EXTINF:-1,|AR| IRAQIA SPORTS
