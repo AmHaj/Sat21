@@ -181,7 +181,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10509.m3u8
 #EXTINF:-1,|AR|BEIN.SPORTS-10FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10508.m3u8
 
-#EXTINF:-1, Group-Title="*BEINS MOVIES*"
+#EXTINF:-1, group-title= "*BEINS MOVIES*"
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/1635.m3u8
 #EXTINF:-1,|AR| BEIN MOVIES 1 HD PREMIER
