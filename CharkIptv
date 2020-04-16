@@ -1,5 +1,72 @@
 #EXTM3U
-#EXTINF:-1,group-title="BEIN",BEIN SPORTS NEWS HD
+
+#EXTINF:-1,group-title="*****MAROC*****", MOROCCO
+
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4491.m3u8
+#EXTINF:-1,|AR| ARRIADIYYA FHD 
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28568.m3u8
+#EXTINF:-1,|AR| ARRIADHIA MAROC
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28569.m3u8
+#EXTINF:-1,|AR| ARRIADIA TNT
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11101.m3u8
+#EXTINF:-1,|AR| ARRIADIA +5
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14889.m3u8
+#EXTINF:-1,|AR| AL AOULA INTER HD
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4447.m3u8
+#EXTINF:-1,|AR| AL AOULA INT MAROC
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28636.m3u8
+#EXTINF:-1,|AR| ALOULA TNT HD
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11103.m3u8
+#EXTINF:-1,|AR| ALOULA +5
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14891.m3u8
+#EXTINF:-1,|AR| 2M MAROC
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4481.m3u8
+#EXTINF:-1,|AR| 2M TV
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28657.m3u8
+#EXTINF:-1,|AR| 2M TNT
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11102.m3u8
+#EXTINF:-1,|AR| 2M +5
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14888.m3u8
+#EXTINF:-1,|AR| MEDI1 FHD
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28433.m3u8
+#EXTINF:-1,|AR| MEDI1 TNT
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11100.m3u8
+#EXTINF:-1,|AR| MEDI 1 +5
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14890.m3u8
+#EXTINF:-1,|AR| Medi 1 Afrique
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10797.m3u8
+#EXTINF:-1,|AR| M24
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10112.m3u8
+#EXTINF:-1,|AR| AL MAGHRIBIA
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28623.m3u8
+#EXTINF:-1,|AR| ALMAGHRIBIA TNT
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11099.m3u8
+#EXTINF:-1,|AR| CHADA TV HD
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10101.m3u8
+#EXTINF:-1,|AR| TELE MAROC
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28317.m3u8
+#EXTINF:-1,|AR| HIT TV
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/15248.m3u8
+#EXTINF:-1,|AR| CANAL ATLAS MAROC
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/5612.m3u8
+#EXTINF:-1,|AR| ARRABIA  FHD
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11004.m3u8
+#EXTINF:-1,|AR| ARRABIA TV
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4410.m3u8
+#EXTINF:-1,|AR| AL ONS TV MAROC
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/18462.m3u8
+#EXTINF:-1,|AR| ASSADISA FHD 
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28567.m3u8
+#EXTINF:-1,|AR| ASSADISSA MAROC HD
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11001.m3u8
+#EXTINF:-1,|AR| AL AOULA INTER LAAYOUNE
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4102.m3u8
+#EXTINF:-1,|AR| TAMAZIGHT MAROC
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28320.m3u8
+#EXTINF:-1,|AR| TAMAZIGHT MAROC
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4098.m3u8
+#EXTINF:-1,|AR| AFLAM TV MAROC
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4468.m3u8#EXTINF:-1,group-title="BEIN",BEIN SPORTS NEWS HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/135.m3u8
 #EXTINF:-1,|AR| beINSPORTS HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/136.m3u8
@@ -216,73 +283,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4470.m3u8
 #EXTINF:-1,|AR| AD SPORT 6HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4469.m3u8
 
-#EXTINF:-1,group-title="*****MAROC*****", MOROCCO
 
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4491.m3u8
-#EXTINF:-1,|AR| ARRIADIYYA FHD 
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28568.m3u8
-#EXTINF:-1,|AR| ARRIADHIA MAROC
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28569.m3u8
-#EXTINF:-1,|AR| ARRIADIA TNT
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11101.m3u8
-#EXTINF:-1,|AR| ARRIADIA +5
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14889.m3u8
-#EXTINF:-1,|AR| AL AOULA INTER HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4447.m3u8
-#EXTINF:-1,|AR| AL AOULA INT MAROC
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28636.m3u8
-#EXTINF:-1,|AR| ALOULA TNT HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11103.m3u8
-#EXTINF:-1,|AR| ALOULA +5
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14891.m3u8
-#EXTINF:-1,|AR| 2M MAROC
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4481.m3u8
-#EXTINF:-1,|AR| 2M TV
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28657.m3u8
-#EXTINF:-1,|AR| 2M TNT
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11102.m3u8
-#EXTINF:-1,|AR| 2M +5
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14888.m3u8
-#EXTINF:-1,|AR| MEDI1 FHD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28433.m3u8
-#EXTINF:-1,|AR| MEDI1 TNT
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11100.m3u8
-#EXTINF:-1,|AR| MEDI 1 +5
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14890.m3u8
-#EXTINF:-1,|AR| Medi 1 Afrique
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10797.m3u8
-#EXTINF:-1,|AR| M24
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10112.m3u8
-#EXTINF:-1,|AR| AL MAGHRIBIA
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28623.m3u8
-#EXTINF:-1,|AR| ALMAGHRIBIA TNT
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11099.m3u8
-#EXTINF:-1,|AR| CHADA TV HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10101.m3u8
-#EXTINF:-1,|AR| TELE MAROC
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28317.m3u8
-#EXTINF:-1,|AR| HIT TV
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/15248.m3u8
-#EXTINF:-1,|AR| CANAL ATLAS MAROC
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/5612.m3u8
-#EXTINF:-1,|AR| ARRABIA  FHD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11004.m3u8
-#EXTINF:-1,|AR| ARRABIA TV
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4410.m3u8
-#EXTINF:-1,|AR| AL ONS TV MAROC
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/18462.m3u8
-#EXTINF:-1,|AR| ASSADISA FHD 
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28567.m3u8
-#EXTINF:-1,|AR| ASSADISSA MAROC HD
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11001.m3u8
-#EXTINF:-1,|AR| AL AOULA INTER LAAYOUNE
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4102.m3u8
-#EXTINF:-1,|AR| TAMAZIGHT MAROC
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28320.m3u8
-#EXTINF:-1,|AR| TAMAZIGHT MAROC
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4098.m3u8
-#EXTINF:-1,|AR| AFLAM TV MAROC
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4468.m3u8
 
 #EXTINF:-1,|AR|*****ALGERIE*****|AR|
 
