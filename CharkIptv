@@ -27,7 +27,7 @@ http://iptvpro.vision-new.org:8789/reda2020/reda2020/12393
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/12396
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/39074
 
-#EXTINF:-1, group-title= "*MAROC****"
+#EXTINF:-1, group-title= "MAROC"
 
 #EXTINF:-1,|AR| ARRIADIYYA FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4491.m3u8
@@ -269,7 +269,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/724.m3u8
 
 
 
-#EXTINF:-1, group-title="*ALGERIE*"
+#EXTINF:-1,  group-title= "*ALGERIE*"
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4500.m3u8
 #EXTINF:-1,|AR| PROGRAMME NATIONAL DZ
@@ -317,7 +317,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28551.m3u8
 #EXTINF:-1,|AR| BEUR TV
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4353.m3u8
 
-#EXTINF:-1,|AR|*****TUNISIE*****|AR|
+#EXTINF:-1, group-title= "TUNISIE" 
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4490.m3u8
 #EXTINF:-1,|AR| TUNISIA NAT 1
