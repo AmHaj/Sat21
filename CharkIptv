@@ -64,7 +64,10 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28320.m3u8
 #EXTINF:-1,|AR| TAMAZIGHT MAROC
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4098.m3u8
 #EXTINF:-1,|AR| AFLAM TV MAROC
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4468.m3u8#EXTINF:-1,group-title="BEIN",BEIN SPORTS NEWS HD
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4468.m3u8
+
+#EXTINF:-1,group-title="BEIN",BEIN SPORTS NEWS HD
+
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/135.m3u8
 #EXTINF:-1,|AR| beINSPORTS HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/136.m3u8
