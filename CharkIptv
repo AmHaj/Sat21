@@ -1,8 +1,6 @@
 #EXTM3U
 
-
-#EXTINF:-1, group-title="NEWS*|USA|",covid
-
+#EXTINF:-1, group-title="NEWS*|USA|",COVID 19 LIVE
 #EXTINF:-1,COVID 19 LIVE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/39074
 #EXTINF:-1,|USA| CNN HD
@@ -27,7 +25,7 @@ http://iptvpro.vision-new.org:8789/reda2020/reda2020/12393
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/12396
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/39074
 
-#EXTINF:-1, group-title="MAROC",morocco
+#EXTINF:-1, group-title="MAROC",ARRIADIYYA FHD
 #EXTINF:-1,|AR| ARRIADIYYA FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4491.m3u8
  #EXTINF:-1,|AR| ARRIADHIA MAROC
@@ -94,7 +92,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4098.m3u8
 #EXTINF:-1,|AR| AFLAM TV MAROC
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4468.m3u8
 
-#EXTINF:-1, group-title="BEIN",BEIN SPORTS NEWS HD
+#EXTINF:-1, group-title="BEIN",beINSPORTS HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/135.m3u8
 #EXTINF:-1,|AR| beINSPORTS HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/136.m3u8
@@ -155,7 +153,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10099.m3u8
 #EXTINF:-1,|AR| beINSPORTS US HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/292.m3u8
 
-#EXTINF:-1, Group-Title="*BEINSPORT FHD*",bein
+#EXTINF:-1, Group-Title="*BEINSPORT FHD*",BEIN.SPORTS-1FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/8298.m3u8
 #EXTINF:-1,|AR|BEIN.SPORTS-1FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10517.m3u8
@@ -178,7 +176,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10509.m3u8
 #EXTINF:-1,|AR|BEIN.SPORTS-10FHD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10508.m3u8
 
-#EXTINF:-1, group-title="*BEINS MOVIES*",movies
+#EXTINF:-1, group-title="*BEINS MOVIES*",BEIN MOVIES 1 HD PREMIER
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/1635.m3u8
 #EXTINF:-1,|AR| BEIN MOVIES 1 HD PREMIER
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/2127.m3u8
@@ -203,7 +201,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/1416.m3u8
 #EXTINF:-1,|AR| BEIN TCM
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11581.m3u8
 
-#EXTINF:-1, group-title="*BEINS BARAEM*"
+#EXTINF:-1, group-title="*BEINS BARAEM*",BEIN JEEM
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/1637.m3u8
 #EXTINF:-1,|AR| BEIN JEEM
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/772.m3u8
@@ -224,8 +222,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11584.m3u8
 #EXTINF:-1,|AR| BEIN JUNIOR
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/2079.m3u8
 
-#EXTINF:-1,|AR|*****BEINS CULTURAL*****|AR|
-
+#EXTINF:-1, group-title="BEINS CULTURAL",BEIN SERIES HD 1
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/1636.m3u8
 #EXTINF:-1,|AR| BEIN SERIES HD 1
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/1944.m3u8
@@ -262,7 +259,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/13640.m3u8
 #EXTINF:-1,|AR| BEIN ANIMAL PLANET
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/724.m3u8
 
-#EXTINF:-1, group-title="*ALGERIE*",algerie
+#EXTINF:-1, group-title="*ALGERIE*",PROGRAMME NATIONAL DZ
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4500.m3u8
 #EXTINF:-1,|AR| PROGRAMME NATIONAL DZ
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28369.m3u8
@@ -309,8 +306,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28551.m3u8
 #EXTINF:-1,|AR| BEUR TV
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4353.m3u8
 
-#EXTINF:-1, group-title= "TUNISIE",tunisie
-
+#EXTINF:-1, group-title= "TUNISIE",TUNISIA NAT 1
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4490.m3u8
 #EXTINF:-1,|AR| TUNISIA NAT 1
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4088.m3u8
@@ -363,8 +359,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/16824.m3u8
 #EXTINF:-1,|AR| ELHIWAR ETTOUNSI +5
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14931.m3u8
 
-#EXTINF:-1,|AR|==== MBC  ====|AR|
-
+#EXTINF:-1, group-title="MBC",MBC 1
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28898.m3u8
 #EXTINF:-1,|AR| MBC 1
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28445.m3u8
@@ -391,8 +386,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28439.m3u8
 #EXTINF:-1,|AR| MBC BOLLYWOOD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28440.m3u8
 
-#EXTINF:-1, |AR|==== ART ====|AR|
-
+#EXTINF:-1, group-title=" ART",ART CINEMA
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28899.m3u8
 #EXTINF:-1,|AR| ART CINEMA 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/29774.m3u8
@@ -409,8 +403,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28563.m3u8
 #EXTINF:-1,|AR| B4U PLUS
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28562.m3u8
 
-#EXTINF:-1,|AR|==== ARAB NEWS ====|AR|
-
+#EXTINF:-1, group-title="ARAB NEWS",ALJAZEERA HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28900.m3u8
 #EXTINF:-1,|AR| ALJAZEERA HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28603.m3u8
@@ -443,8 +436,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28914.m3u8
 #EXTINF:-1,|AR| DW ARABIC
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28915.m3u8
 
-#EXTINF:-1,|AR|==== ISLAMIC ====|AR|
-
+#EXTINF:-1, group-title="ISLAMIC",HOLYQURAN
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28917.m3u8
 #EXTINF:-1,|AR| HOLYQURAN
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28908.m3u8
@@ -471,8 +463,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28502.m3u8
 #EXTINF:-1,|AR| BAHRAIN QURAN
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28907.m3u8
 
-#EXTINF:-1,|AR|==== AL MAJD ====|AR|
-
+#EXTINF:-1, group-title="AL MAJD",ALMAJD QURQN
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28918.m3u8
 #EXTINF:-1,|AR| ALMAJD QURQN
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28903.m3u8
