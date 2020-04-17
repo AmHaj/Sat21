@@ -437,6 +437,10 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28914.m3u8
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28915.m3u8
 
 #EXTINF:-1, group-title="ISLAMIC",HOLYQURAN
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28925.m3u8
+#EXTINF:-1,|AR| SAUDI CHANNEL QURAN HD
+http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28351.m3u8
+#EXTINF:-1,|AR| SAUDI CH FOR SUNNAH HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28917.m3u8
 #EXTINF:-1,|AR| HOLYQURAN
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28908.m3u8
@@ -606,8 +610,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28272.m3u8
 #EXTINF:-1,|AR| ZEE AFLAM
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28273.m3u8
 
-#EXTINF:-1, |AR|==== EGYPTE ====|AR|
-
+#EXTINF:-1, group-title="EGYPTE",NILE TV EGY
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28924.m3u8
 #EXTINF:-1,|AR| NILE TV EGY
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28403.m3u8
@@ -1223,7 +1226,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/10927.m3u8
 #EXTINF:-1,|AR| TAHA
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/4099.m3u8
 
-#EXTINF:-1,=====MyHD=====
+#EXTINF:-1, group-title="MY HD",DOCUBOX HD
 
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/5048.m3u8
 #EXTINF:-1,|MYHD| DOCUBOX HD
@@ -1319,8 +1322,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/22027.m3u8
 #EXTINF:-1,|MYHD| ZEN TV HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/22026.m3u8
 
-#EXTINF:-1,|AR|*****OSN MOVIES*****|AR|
-
+#EXTINF:-1, group-t"ilte="OSN MOVIES",OSN MOVIES FIRST HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/8993.m3u8
 #EXTINF:-1,|AR| OSN MOVIES FIRST HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14828.m3u8
@@ -1342,6 +1344,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14776.m3u8
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14822.m3u8
 #EXTINF:-1,|AR| OSN MOVIES KIDS HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14825.m3u8
+
 #EXTINF:-1,|AR|*****OSN ARABIC*****|AR|
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/22072.m3u8
 #EXTINF:-1,|AR| OSN YA HALA HD
@@ -1382,6 +1385,7 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14748.m3u8
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14795.m3u8
 #EXTINF:-1,|AR| OSN ITV CHOICE HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14780.m3u8
+
 #EXTINF:-1,|AR|*****OSN CULTURE*****|AR|
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/8994.m3u8
 #EXTINF:-1,|AR| OSN DISCOVERY CHANNEL HD
@@ -1404,7 +1408,8 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14790.m3u8
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14781.m3u8
 #EXTINF:-1,|AR| OSN H2
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/22279.m3u8
-#EXTINF:-1,|AR|*****OSN SPORTS*****|AR|
+
+#EXTINF:-1, group-title="OSN SPORTS",OSN AD SPORT 1 HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/11577.m3u8
 #EXTINF:-1,|AR| OSN AD SPORT 1 HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14782.m3u8
@@ -1443,4 +1448,4 @@ http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14802.m3u8
 #EXTINF:-1,|AR| OSN MTV LIVE HD
 http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/14801.m3u8
 
-http://iptvpro.vision-new.org:8789/live/reda2020/reda2020/28568.m3u8
+
