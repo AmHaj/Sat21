@@ -1,20 +1,9 @@
 #EXTM3U
-#EXTINF:-1,AR: AL JAZEERA FHD
-http://mvip-tn.com:25461/yvon/123456789/27368
-#EXTINF:-1,AR: AL JAZEERA
-http://mvip-tn.com:25461/yvon/123456789/906
-#EXTINF:-1,AR: Al Arabia NEWS HD
-http://mvip-tn.com:25461/yvon/123456789/902
-#EXTINF:-1,AR: Al Arabia News
-http://mvip-tn.com:25461/yvon/123456789/5637
-#EXTINF:-1,AR: AL JAZEERA Moubacher
-http://mvip-tn.com:25461/yvon/123456789/850
-#EXTINF:-1,AR: Al Jazeera Documentary
-http://mvip-tn.com:25461/yvon/123456789/10960
-#EXTINF:-1,AR : Al Arabia Hadath
-http://mvip-tn.com:25461/yvon/123456789/3081
-#EXTINF:-1,AR: FRANCE 24
-
+#EXTINF:-1,Ar:Corrona Virus
+http://176.119.28.126:6204/denvanp/New472968WachtWd/34277
+#EXTINF:-1,Ar:MBC1 HD
+http://176.119.28.126:6204/denvanp/New472968WachtWd/46
+#EXTINF:-1,Ar:MBC2 HD
 #EXTINF:-1,US: FOX10 (WALA) Alabama
 http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42035
 #EXTINF:-1,US: MY25 Alabama
