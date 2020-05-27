@@ -39,3 +39,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" tvg-country="MA" tvg-url="" group-title="",Télé Maroc
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-country="US" tvg-url="" group-title="News",CNN
+http://92.43.140.249/s27/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-country="US" tvg-url="" group-title="News",CNN
+http://ott-cdn.ucom.am/s27/index.m3u8
