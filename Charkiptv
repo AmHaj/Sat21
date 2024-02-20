@@ -34,8 +34,26 @@ https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
 http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 
+#EXTINF:-1,MA: Medi 1 TV Afrique
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/269424
+
 #EXTINF:-1 tvg-id="TamazightTV.ma" tvg-logo="https://i.imgur.com/fm6S7we.png" group-title="General",Tamazight (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
+
+#EXTINF:-1,MA: Aflam TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/226057
+
+#EXTINF:-1,MA: Al Ons TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11163
+
+#EXTINF:-1,MA: Athaqafia
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/268950
+
+#EXTINF:-1,MA: Tele Maroc
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225140
+
+
+
 
                                  #      BEIN SPORT      #
 
