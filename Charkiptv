@@ -1,5 +1,5 @@
 #EXTM3U
-                           #    MOROCCO     #
+                        #    MOROCCO     #
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
@@ -33,83 +33,28 @@ https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
 http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 
-#EXTINF:-1,MA: Medi 1 TV Afrique
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/269424
-
 #EXTINF:-1 tvg-id="TamazightTV.ma" tvg-logo="https://i.imgur.com/fm6S7we.png" group-title="General",Tamazight (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
-
-#EXTINF:-1,MA: Aflam TV
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/226057
 
 #EXTINF:-1,MA: Al Ons TV
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11163
 
-#EXTINF:-1,MA: Athaqafia
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/268950
+#EXTINF:-1,MA: Aflam TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/226057
 
-#EXTINF:-1,MA: Tele Maroc
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225140
-================================= #      BEIN SPORT / SPORT     # ===============================================================
+                                 #      BEIN SPORT      #
+
+#EXTINF:-1 ,USA_NBA 1
+http://38.96.178.201/live/NBA/index.m3u8
+
 #EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
-
-#EXTINF:-1,FR - BEIN SPORT 1 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58753
-
-#EXTINF:-1,AR - Bein Sport 1 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59734
-
-#EXTINF:-1,AR - Bein Sport English 1
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59741
 
 #EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
 
-#EXTINF:-1,FR - BEIN SPORT 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58754
-
-#EXTINF:-1,AR - Bein Sport 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59735
-
 #EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
-
-#EXTINF:-1,FR - BEIN SPORT 3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58755
-
-#EXTINF:-1,AR - Bein Sport 3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59736
-
-#EXTINF:-1,AR - Bein Sport English 3
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59742
-
-#EXTINF:-1,AR - Bein Sport 5 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59738
-
-#EXTINF:-1,AR - Bein Sport 6 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59739
-
-#EXTINF:-1,AR - Bein Sport 7 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59740
-
-#EXTINF:-1,FR - BEIN SPORTS MAX 4 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58756
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 5
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58757
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 6
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58758
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 7
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58759
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 8
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58760
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 9
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58761
 
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
@@ -131,6 +76,57 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2808&extension=
 
 #EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sports",RMC Sport 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2810&extension=ts&play_token=LE8LjwuM4i&sn2=
+
+#EXTINF:-1,FR - BEIN SPORT 1 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58753
+
+#EXTINF:-1,FR - BEIN SPORT 2 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58754
+
+#EXTINF:-1,FR - BEIN SPORT 3 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58755
+
+#EXTINF:-1,FR - BEIN SPORTS MAX 4 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58756
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58757
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 6
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58758
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 7
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58759
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 8
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58760
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 9
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58761
+
+#EXTINF:-1,AR - Bein Sport 1 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59734
+
+#EXTINF:-1,AR - Bein Sport 2 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59735
+
+#EXTINF:-1,AR - Bein Sport 3 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59736
+
+#EXTINF:-1,AR - Bein Sport 5 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59738
+
+#EXTINF:-1,AR - Bein Sport 6 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59739
+
+#EXTINF:-1,AR - Bein Sport 7 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59740
+
+#EXTINF:-1,AR - Bein Sport English 1
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59741
+
+#EXTINF:-1,AR - Bein Sport English 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59742
 
 #EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -174,7 +170,9 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC 1 (720p)
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-================================================= #      ARABIC  CHANNELS    #==================================================
+
+
+                        #      ARABIC  CHANNELS    #
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
@@ -532,16 +530,8 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 
 #EXTINF:-1 tvg-id="MeieTV.de" tvg-logo="https://i.imgur.com/SqG9fbV.png" group-title="Undefined",MeieTV (720p)
 https://stream.meietv.de/live/meietv.m3u8
-
 #EXTINF:-1 tvg-id="MekameleenTV.eg" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="News",Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTA3AlArabia.uk" tvg-logo="https://i.imgur.com/m3PEldJ.png" group-title="Undefined",MTA3 Al-Arabia (1080p)
-https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTV.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MTV Lebanon (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MusawaChannel.ps" tvg-logo="https://i.imgur.com/ztIqhIe.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MusawaChannel (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
@@ -799,7 +789,10 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
 #EXTINF:-1 tvg-id="ZitounaTV.tn" tvg-logo="https://i.imgur.com/LzK8fHv.png" group-title="Undefined",Zitouna TV (480p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
+
                   #      USA_ENGLISH     #
+
+
 #EXTINF:-1,US - Fox College Sports Pacific
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57221
 
@@ -855,51 +848,6 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66059
 
 #EXTINF:-1,USA - FOX SPORTS OKLAHOMA | HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66065
-
-#EXTINF:-1,AU - ESPN 2 | UHD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66791
-
-#EXTINF:-1,AU - ESPN 2 | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66959
-
-#EXTINF:-1,AU - Fox Sports 506
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66978
-
-#EXTINF:-1,AU - Fox Sports 501 FHD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/67068
-
-#EXTINF:-1,AU - Fox Sports 503 FHD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/67070
-
-#EXTINF:-1,AU - Fox Sports 505 FHD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/67072
-
-#EXTINF:-1,AU - Fox Sports 507 FHD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/67074
-
-#EXTINF:-1,AU - beIN Sports 1 FHD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/67075
-
-#EXTINF:-1,AU - BeIN Sports 2 FHD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/67076
-
-#EXTINF:-1,AU - ESPN 1 FHD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/67078
-
-#EXTINF:-1,AU - ESPN 2 FHD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/67079
-
-#EXTINF:-1,AU - beIN SPORTS 1 | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66927
-
-#EXTINF:-1,AU - beIN SPORTS 3 | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66929
-
-#EXTINF:-1,EPL - Spark Sport 1
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/67080
-
-#EXTINF:-1,AU - beIN Sports 3 FHD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/67077
 
 #EXTINF:-1,Now Premier Sports 1
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69854
@@ -1005,10 +953,9 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58499
 
 #EXTINF:-1,USA - ESPN 2 HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58500
+
 #EXTINF:-1,USA - ESPN NEWS
-
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58502
-
 
 #EXTINF:-1,CA - CNN HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61130
@@ -1016,74 +963,979 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61130
 #EXTINF:-1,CA - CNN INTERNATIONAL  HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61131
 
-#EXTINF:-1,PL - HBO 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61425
-
-#EXTINF:-1,PL - HBO 3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61426
-
-#EXTINF:-1,PL - HBO HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61427
-
-#EXTINF:-1,PL - TNT HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61453
-
-#EXTINF:-1,USA - BLOOMBERG TV
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58478
-
 #EXTINF:-1,USA - BEIN SPORTS US
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58476
 
 #EXTINF:-1,USA - HBO SIGNATURE
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58517
 
-#EXTINF:-1,USA - HBO HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58516
+#EXTINF:-1,UK: HBO Comedy
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/151864
+#EXTINF:-1,US: HBO
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2336
+#EXTINF:-1,US: HBO 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/5844
+#EXTINF:-1,US: HBO Comedy
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2335
+#EXTINF:-1,US: HBO Family
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/760
+#EXTINF:-1,US: HBO Signature
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6305
+#EXTINF:-1,US: HBO Zone
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6328
+#EXTINF:-1,CA: HBO 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/463
+#EXTINF:-1,CA: HBO 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/9284
 
-#EXTINF:-1,USA - HBO COMEDY HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58514
 
-#EXTINF:-1,USA - HBO Family HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58515
 
-#EXTINF:-1,USA - MSNBC HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58523
+=====================.     FRANCE.  =================
 
-#EXTINF:-1,USA - FOX SPORTS Detroit
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58579
+#EXTINF:-1,FR: 13eme Rue
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/181
+#EXTINF:-1,FR: 6ter
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/183
+#EXTINF:-1,FR: A La Carte 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/231
+#EXTINF:-1,FR: A La Carte 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/232
+#EXTINF:-1,FR: A La Carte 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/233
+#EXTINF:-1,FR: A La Carte 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/234
+#EXTINF:-1,FR: A La Carte 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/235
+#EXTINF:-1,FR: A La Carte 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/236
+#EXTINF:-1,FR: A La Carte 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/237
+#EXTINF:-1,FR: A La Carte 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/238
+#EXTINF:-1,FR: A La Carte 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/239
+#EXTINF:-1,FR: A La Carte 10
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/240
+#EXTINF:-1,FR: A La Carte 11
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/168241
+#EXTINF:-1,FR: A La Carte 12
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/53727
+#EXTINF:-1,FR: A La Carte 13
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225463
+#EXTINF:-1,FR: A La Carte 14
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225462
+#EXTINF:-1,FR: A La Carte 15
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225456
+#EXTINF:-1,FR: A La Carte 16
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279627
+#EXTINF:-1,FR: A LA CARTE 17
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225458
+#EXTINF:-1,FR: A LA CARTE 18
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225459
+#EXTINF:-1,FR: A LA CARTE 19
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225460
+#EXTINF:-1,FR: A LA CARTE 20
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225461
+#EXTINF:-1,FR: A+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/53672
+#EXTINF:-1,FR: A12 TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299166
+#EXTINF:-1,FR: AB 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/165
+#EXTINF:-1,FR: AB 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/878
+#EXTINF:-1,FR: AB Xplore
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/23418
+#EXTINF:-1,FR: Action
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/182
+#EXTINF:-1,FR: Africa 24
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/276064
+#EXTINF:-1,FR: Alsace 20
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/53681
+#EXTINF:-1,FR: Altice Studio
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13364
+#EXTINF:-1,FR: Amazon Prime 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298718
+#EXTINF:-1,FR: Amazon Prime 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298719
+#EXTINF:-1,FR: Amazon Prime 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298720
+#EXTINF:-1,FR: Amazon Prime 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298721
+#EXTINF:-1,FR: Amazon Prime 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298722
+#EXTINF:-1,FR: Amazon Prime 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298723
+#EXTINF:-1,FR: Amazon Prime 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298724
+#EXTINF:-1,FR: Amazon Prime 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299259
+#EXTINF:-1,FR: ANIMAUX
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/193
+#EXTINF:-1,FR: ARTE
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/163
+#EXTINF:-1,FR: Automoto
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/148
+#EXTINF:-1,FR: AXN White
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299905
+#EXTINF:-1,FR: Baby TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/51323
+#EXTINF:-1,FR: BBC Drama France
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299701
+#EXTINF:-1,FR: beIN Sports 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/144
+#EXTINF:-1,FR: beIN Sports 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/145
+#EXTINF:-1,FR: beIN Sports 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/146
+#EXTINF:-1,FR: beIN Sports Max 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3599
+#EXTINF:-1,FR: beIN Sports Max 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6083
+#EXTINF:-1,FR: beIN Sports Max 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4368
+#EXTINF:-1,FR: beIN Sports Max 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4369
+#EXTINF:-1,FR: beIN Sports Max 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4370
+#EXTINF:-1,FR: beIN Sports Max 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4371
+#EXTINF:-1,FR: beIN Sports Max 10
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6088
+#EXTINF:-1,FR: Berbere TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/33099
+#EXTINF:-1,FR: BET
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/184
+#EXTINF:-1,FR: BFM Business
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1919
+#EXTINF:-1,FR: BFM Lille TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/201231
+#EXTINF:-1,FR: BFM Lyon
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286500
+#EXTINF:-1,FR: BFM Paris
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/167
+#EXTINF:-1,FR: BFM TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279628
+#EXTINF:-1,FR: Bip TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/75540
+#EXTINF:-1,FR: Bob leponge
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286452
+#EXTINF:-1,FR: Boomerang
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1931
+#EXTINF:-1,FR: Box Office 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15401
+#EXTINF:-1,FR: Box Office 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15402
+#EXTINF:-1,FR: Box Office 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15404
+#EXTINF:-1,FR: Box Office 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15405
+#EXTINF:-1,FR: Box Office 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15406
+#EXTINF:-1,FR: Box Office 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15407
+#EXTINF:-1,FR: Box Office 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15408
+#EXTINF:-1,FR: Box Office 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/42226
+#EXTINF:-1,FR: Box Office 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/57256
+#EXTINF:-1,FR: C News
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/168
+#EXTINF:-1,FR: C Star
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1900
+#EXTINF:-1,FR: C Star Hits France
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281600
+#EXTINF:-1,FR: C8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/161
+#EXTINF:-1,FR: Canal Alpha Jura
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298475
+#EXTINF:-1,FR: Canal D
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/486
+#EXTINF:-1,FR: CANAL J
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/212
+#EXTINF:-1,FR: Canal Play
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/163135
+#EXTINF:-1,FR: Canal Play 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1887
+#EXTINF:-1,FR: Canal Play 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/228
+#EXTINF:-1,FR: Canal Play 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/229
+#EXTINF:-1,FR: Canal Play 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13603
+#EXTINF:-1,FR: Canal Play 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13722
+#EXTINF:-1,FR: Canal Play 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/230
+#EXTINF:-1,FR: Canal Play 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/14041
+#EXTINF:-1,FR: Canal Play 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13724
+#EXTINF:-1,FR: Canal Play 10
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1890
+#EXTINF:-1,FR: Canal Savoir
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/9296
+#EXTINF:-1,FR: CANAL+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/170
+#EXTINF:-1,FR: Canal+ Box Office
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301684
+#EXTINF:-1,FR: CANAL+ Cinema
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/172
+#EXTINF:-1,FR: CANAL+ Docs
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298737
+#EXTINF:-1,FR: CANAL+ Elles
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297370
+#EXTINF:-1,FR: CANAL+ First
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298739
+#EXTINF:-1,FR: CANAL+ Foot
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297371
+#EXTINF:-1,FR: CANAL+ Formula 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/295260
+#EXTINF:-1,FR: CANAL+ Grand Ecran
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298741
+#EXTINF:-1,FR: CANAL+ Kids
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281601
+#EXTINF:-1,FR: CANAL+ MotoGP
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297423
+#EXTINF:-1,FR: CANAL+ Premier League
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286794
+#EXTINF:-1,FR: CANAL+ Series
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/173
+#EXTINF:-1,FR: CANAL+ Sport
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/143
+#EXTINF:-1,FR: CANAL+ Sport 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291175
+#EXTINF:-1,FR: CANAL+ Sport 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291177
+#EXTINF:-1,FR: CANAL+ Sport 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297381
+#EXTINF:-1,FR: CANAL+ Sport 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291178
+#EXTINF:-1,FR: CANAL+ Sport 360
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297378
+#EXTINF:-1,FR: Cartoon Network
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/210
+#EXTINF:-1,FR: Cartoonito
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300625
+#EXTINF:-1,FR: Catfish
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286453
+#EXTINF:-1,FR: CDirect
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/165045
+#EXTINF:-1,FR: Central TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286502
+#EXTINF:-1,FR: CGTN Français
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301173
+#EXTINF:-1,FR: Chasse & Peche
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/196
+#EXTINF:-1,FR: Cherie 25
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1911
+#EXTINF:-1,FR: CINE+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296203
+#EXTINF:-1,FR: CINE+ Classic
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/175
+#EXTINF:-1,FR: CINE+ Club
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/179
+#EXTINF:-1,FR: CINE+ Emotion
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/876
+#EXTINF:-1,FR: CINE+ Famiz
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1896
+#EXTINF:-1,FR: CINE+ Frisson
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1895
+#EXTINF:-1,FR: CINE+ Premier
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/176
+#EXTINF:-1,FR: Clubbing TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11018
+#EXTINF:-1,FR: Comedie+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/180
+#EXTINF:-1,FR: Comedy Central
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/280292
+#EXTINF:-1,FR: Cribs Maisons De Star
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286444
+#EXTINF:-1,FR: Crime District
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6223
+#EXTINF:-1,FR: Dating
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286462
+#EXTINF:-1,FR: DBM TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/165042
+#EXTINF:-1,FR: Dieu TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/165046
+#EXTINF:-1,FR: Discovery Science
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/186
+#EXTINF:-1,FR: Discovery World
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/185
+#EXTINF:-1,FR: Disney Channel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1198
+#EXTINF:-1,FR: Disney Channel +1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1927
+#EXTINF:-1,FR: Disney Junior
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4342
+#EXTINF:-1,FR: Disney XD
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/208
+#EXTINF:-1,FR: Disney+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/207
+#EXTINF:-1,FR: Drama+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286464
+#EXTINF:-1,FR: Duck TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286748
+#EXTINF:-1,FR: E!
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2978
+#EXTINF:-1,FR: EMCI TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/165033
+#EXTINF:-1,FR: Emergence TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/284458
+#EXTINF:-1,FR: Equidia
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/276130
+#EXTINF:-1,FR: Equidia Pro
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297555
+#EXTINF:-1,FR: Ere TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/295261
+#EXTINF:-1,FR: Euro Channel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/52215
+#EXTINF:-1,FR: euronews
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/169
+#EXTINF:-1,FR: Eurosport 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/151
+#EXTINF:-1,FR: Eurosport 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1195
+#EXTINF:-1,FR: Fashion TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/146555
+#EXTINF:-1,FR: Fashion TV FASHION MAGAZINES
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/163399
+#EXTINF:-1,FR: Fashion TV Paris FASHION NEWS
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/146554
+#EXTINF:-1,FR: Fashion TV Singapore Photoshoots
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286508
+#EXTINF:-1,FR: Fashion TV Tokyo FASHION FILMS
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296230
+#EXTINF:-1,FR: Foot+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1193
+#EXTINF:-1,FR: FRANCE 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/154
+#EXTINF:-1,FR: FRANCE 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/155
+#EXTINF:-1,FR: FRANCE 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/156
+#EXTINF:-1,FR: FRANCE 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/157
+#EXTINF:-1,FR: FRANCE 24
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/870
+#EXTINF:-1,FR: Franceinfo
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/159
+#EXTINF:-1,FR: Fun Radio
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298764
+#EXTINF:-1,FR: Game One
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1930
+#EXTINF:-1,FR: Generations TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286514
+#EXTINF:-1,FR: Golf Channel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279613
+#EXTINF:-1,FR: GOLF+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1934
+#EXTINF:-1,FR: GONG
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298761
+#EXTINF:-1,FR: GONG MAX
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/10151
+#EXTINF:-1,FR: Gourmand TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298763
+#EXTINF:-1,FR: Gulli
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/216
+#EXTINF:-1,FR: Helene & les garcons
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286468
+#EXTINF:-1,FR: Histoire TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/201
+#EXTINF:-1,FR: i24 News
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/280291
+#EXTINF:-1,FR: iCarly+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/294935
+#EXTINF:-1,FR: InfoSport+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1190
+#EXTINF:-1,FR: Instant Saga
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286445
+#EXTINF:-1,FR: Investigation Discovery
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4376
+#EXTINF:-1,FR: J One
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/202
+#EXTINF:-1,FR: Junior
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286471
+#EXTINF:-1,FR: Juste pour Rire
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286446
+#EXTINF:-1,FR: Kids Series+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286472
+#EXTINF:-1,FR: KTO
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/14085
+#EXTINF:-1,FR: L Equipe
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/147
+#EXTINF:-1,FR: L Equipe Live
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298759
+#EXTINF:-1,FR: L Equipe Live 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298757
+#EXTINF:-1,FR: L Equipe Live 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298758
+#EXTINF:-1,FR: La Chaine Meteo
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/168914
+#EXTINF:-1,FR: LCN
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/284460
+#EXTINF:-1,FR: LCP Assemblee Nationale
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6258
+#EXTINF:-1,FR: Le miel & les abeilles
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286473
+#EXTINF:-1,FR: Les Nouveaux Detectives
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286475
+#EXTINF:-1,FR: Live in Concert
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286477
+#EXTINF:-1,FR: LN 24
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281434
+#EXTINF:-1,FR: Louis La Brocante
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286478
+#EXTINF:-1,FR: Lucky Jack TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/91819
+#EXTINF:-1,FR: M6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/158
+#EXTINF:-1,FR: M6 International
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286533
+#EXTINF:-1,FR: M6 Music
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/224
+#EXTINF:-1,FR: Made
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286517
+#EXTINF:-1,FR: Mangas
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/214
+#EXTINF:-1,FR: Matele
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/75552
+#EXTINF:-1,FR: MCM
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4355
+#EXTINF:-1,FR: MCM Pop
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8027
+#EXTINF:-1,FR: MCM TOP
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/223
+#EXTINF:-1,FR: MDL
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/275294
+#EXTINF:-1,FR: Melody
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/27959
+#EXTINF:-1,FR: Mezzo
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/5355
+#EXTINF:-1,FR: Mezzo Live
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8099
+#EXTINF:-1,FR: MGG TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298100
+#EXTINF:-1,FR: Monaco Info
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286746
+#EXTINF:-1,FR: Motorvision TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/268514
+#EXTINF:-1,FR: Mouv
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/197845
+#EXTINF:-1,FR: MS Comedy
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/295264
+#EXTINF:-1,FR: MTV 00s
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300842
+#EXTINF:-1,FR: MTV 80s
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300843
+#EXTINF:-1,FR: MTV France
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/220
+#EXTINF:-1,FR: MTV Hits France
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/47249
+#EXTINF:-1,FR: MultiSports 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290572
+#EXTINF:-1,FR: MultiSports 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290573
+#EXTINF:-1,FR: MultiSports 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290574
+#EXTINF:-1,FR: MultiSports 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290575
+#EXTINF:-1,FR: MultiSports 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290576
+#EXTINF:-1,FR: MultiSports 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290577
+#EXTINF:-1,FR: Museum
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/267860
+#EXTINF:-1,FR: MusicTV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/46110
+#EXTINF:-1,FR: MyZen TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/78544
+#EXTINF:-1,FR: NAT GEO
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/187
+#EXTINF:-1,FR: NAT GEO Wild
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/278459
+#EXTINF:-1,FR: Nature Time
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298750
+#EXTINF:-1,FR: nickelodeon
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/204
+#EXTINF:-1,FR: nickelodeon +1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/63585
+#EXTINF:-1,FR: nickelodeon Junior
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1186
+#EXTINF:-1,FR: nickelodeon Teen
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/206
+#EXTINF:-1,FR: Notele
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281435
+#EXTINF:-1,FR: Novelas TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/27960
+#EXTINF:-1,FR: NRJ 12
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/226
+#EXTINF:-1,FR: NRJ Hits
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/221
+#EXTINF:-1,FR: OCS choc
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1184
+#EXTINF:-1,FR: OCS City
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/178
+#EXTINF:-1,FR: OCS geants
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/177
+#EXTINF:-1,FR: OCS Max
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/869
+#EXTINF:-1,FR: okoo TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/283282
+#EXTINF:-1,FR: Olympia TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281599
+#EXTINF:-1,FR: P2M TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286516
+#EXTINF:-1,FR: Paramount Channel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1183
+#EXTINF:-1,FR: Paramount Channel Decale
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/295171
+#EXTINF:-1,FR: Paris Premiere
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/868
+#EXTINF:-1,FR: People are Awesome
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286484
+#EXTINF:-1,FR: Piwi+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4377
+#EXTINF:-1,FR: PLANETE+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/191
+#EXTINF:-1,FR: PLANETE+ A&E
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1181
+#EXTINF:-1,FR: PLANETE+ CI
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/192
+#EXTINF:-1,FR: POLAR+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1202
+#EXTINF:-1,FR: Public Senat
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/50056
+#EXTINF:-1,FR: RFM TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6238
+#EXTINF:-1,FR: RMC Decouverte
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/198
+#EXTINF:-1,FR: RMC SPORT 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1937
+#EXTINF:-1,FR: RMC SPORT 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1938
+#EXTINF:-1,FR: RMC SPORT 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279991
+#EXTINF:-1,FR: RMC SPORT 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279752
+#EXTINF:-1,FR: RMC SPORT 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1940
+#EXTINF:-1,FR: RMC SPORT 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20883
+#EXTINF:-1,FR: RMC SPORT 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20884
+#EXTINF:-1,FR: RMC SPORT 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20885
+#EXTINF:-1,FR: RMC SPORT 10
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/192025
+#EXTINF:-1,FR: RMC SPORT 12
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20887
+#EXTINF:-1,FR: RMC SPORT 13
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20890
+#EXTINF:-1,FR: RMC Story
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/162
+#EXTINF:-1,FR: Romance
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286487
+#EXTINF:-1,FR: Rouge TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/9869
+#EXTINF:-1,FR: RT France
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296211
+#EXTINF:-1,FR: RTL 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1178
+#EXTINF:-1,FR: RTS 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298483
+#EXTINF:-1,FR: RTS 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/267241
+#EXTINF:-1,FR: Science & Vie TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/199
+#EXTINF:-1,FR: Seasons
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/195
+#EXTINF:-1,FR: Serie Club
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1903
+#EXTINF:-1,FR: Sofy TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286518
+#EXTINF:-1,FR: Sport
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/187484
+#EXTINF:-1,FR: Stingray Classica
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281897
+#EXTINF:-1,FR: Stingray CMusic
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281784
+#EXTINF:-1,FR: SYFY
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/867
+#EXTINF:-1,FR: TCM Cinema
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1902
+#EXTINF:-1,FR: Telesud
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/28444
+#EXTINF:-1,FR: Teletoon +1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/295274
+#EXTINF:-1,FR: TeleToon+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/218
+#EXTINF:-1,FR: Teva
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/866
+#EXTINF:-1,FR: TF 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/153
+#EXTINF:-1,FR: TF 1 +1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301442
+#EXTINF:-1,FR: TF 1 Series Films
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1898
+#EXTINF:-1,FR: TFX
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/164
+#EXTINF:-1,FR: Tiji
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/215
+#EXTINF:-1,FR: TMC
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/865
+#EXTINF:-1,FR: Toonami Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/203
+#EXTINF:-1,FR: Tortues Ninja TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286492
+#EXTINF:-1,FR: Toute Histoire
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/200
+#EXTINF:-1,FR: TRACE Africa
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4311
+#EXTINF:-1,FR: TRACE Ayiti
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290664
+#EXTINF:-1,FR: TRACE Brazuca
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/188984
+#EXTINF:-1,FR: TRACE Caribbean
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11843
+#EXTINF:-1,FR: TRACE Gospel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11999
+#EXTINF:-1,FR: TRACE Kitoko
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3685
+#EXTINF:-1,FR: TRACE Latina
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/32392
+#EXTINF:-1,FR: TRACE Mziki
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/12000
+#EXTINF:-1,FR: TRACE Sport Stars
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/12002
+#EXTINF:-1,FR: TRACE Toca
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/7560
+#EXTINF:-1,FR: TRACE URBAN
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225
+#EXTINF:-1,FR: Trek
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/194
+#EXTINF:-1,FR: TV 7 Colmar
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/44709
+#EXTINF:-1,FR: TV Breizh
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/166
+#EXTINF:-1,FR: TV Francophonie
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6252
+#EXTINF:-1,FR: TV Pitchoun
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300844
+#EXTINF:-1,FR: TV5Monde Europe
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/146307
+#EXTINF:-1,FR: TV5Monde France Belgique Suisse Monaco
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/879
+#EXTINF:-1,FR: TV5Monde Info
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286522
+#EXTINF:-1,FR: TV5Monde États-Unis
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281516
+#EXTINF:-1,FR: TV7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15359
+#EXTINF:-1,FR: TV78
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/275295
+#EXTINF:-1,FR: TV8 Mont Blanc
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/23464
+#EXTINF:-1,FR: TVR (Bretagne)
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286524
+#EXTINF:-1,FR: Ushuaïa TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/190
+#EXTINF:-1,FR: ViaMirabelle TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/75550
+#EXTINF:-1,FR: ViaOccitanie
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/194295
+#EXTINF:-1,FR: Vosges TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/23460
+#EXTINF:-1,FR: W9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/160
+#EXTINF:-1,FR: Warner TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13360
+#EXTINF:-1,FR: Weo TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15360
+#EXTINF:-1,FR: WikiCine
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300360
+#EXTINF:-1,FR: WikiCine 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300361
+#EXTINF:-1,FR: WikiCine 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300362
+#EXTINF:-1,FR: WikiCine 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300363
+#EXTINF:-1,FR: WikiCine 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300364
+#EXTINF:-1,FR: Wildside TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286528
+#EXTINF:-1,FR: WinMax
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300365
 
-#EXTINF:-1,USA - HBO ZONE
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58580
 
-#EXTINF:-1,UK - Aljazeera English
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/68698
 
-#EXTINF:-1,UK - C-SPAN 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/68703
+===================.       MOVIES.    =======================
 
-#EXTINF:-1,US - C-SPAN HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/68704
+#EXTINF:-1,US: Classic Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301492
 
-#EXTINF:-1,UK - C-SPAN3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/68705
+#EXTINF:-1,US: FX Movie Channel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/39873
 
-#EXTINF:-1,UK - HBO 2
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/68730
+#EXTINF:-1,US: Gravitas Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281943
 
-#EXTINF:-1,UK - HBO Comedy
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/68731
+#EXTINF:-1,US: Hallmark Movies & Mysteries
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3388
 
-#EXTINF:-1,UK - HBO Family
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/68732
+#EXTINF:-1,US: HDNet Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/200162
 
-#EXTINF:-1,UK - HBO Low BW
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/68733
+#EXTINF:-1,US: Lifetime Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/12992
 
-#EXTINF:-1,UK - HBO Signature
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/68734
+#EXTINF:-1,US: MovieMax
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15110
 
-#EXTINF:-1,UK - HBO Zone
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/68735
+#EXTINF:-1,US: MoviePlex
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3847
 
-#EXTINF:-1,UK - MovieMax
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/68737
+#EXTINF:-1,US: Sony Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/5831
+
+#EXTINF:-1,US: TCM Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/193459
+
+EXTINF:-1,US: The Film Detective
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281935
+
+#EXTINF:-1,US: The Movie Channel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/163770
+
+EXTINF:-1,US: The Film Detective
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281935
+
+#EXTINF:-1,US: The Movie Channel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/163770
+
+#EXTINF:-1,ZA: E Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/46686
+
+#EXTINF:-1,ZA: E Movies Extra
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/38525
+
+#EXTINF:-1,ZA: M-Net Movies 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/38545
+
+#EXTINF:-1,ZA: M-Net Movies 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/146168
+
+#EXTINF:-1,ZA: M-Net Movies 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/38536
+
+#EXTINF:-1,ZA: M-Net Movies 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/278329
+
+#EXTINF:-1,ZA: Canal+ Cinema
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297367
+
+#EXTINF:-1,US: Filmstream
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281940
+
+#EXTINF:-1,US: The Film Detective
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281935
+
+#EXTINF:-1,US: Cinemax
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2261
+
+#EXTINF:-1,US: Starz Cinema
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/767
+
+#EXTINF:-1,UK: Film 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1541
+
+#EXTINF:-1,UK: Great Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299746
+
+#EXTINF:-1,UK: Great Movies Action +1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286775
+
+#EXTINF:-1,UK: Great Movies Romance
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299748
+
+#EXTINF:-1,UK: Rakuten Action Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301648
+
+#EXTINF:-1,UK: Rakuten Comedy Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301650
+
+#EXTINF:-1,UK: Rakuten Family
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301651
+
+#EXTINF:-1,UK: Rakuten Shows
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301652
+
+#EXTINF:-1,UK: Rakuten Spotlight
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301653
+
+#EXTINF:-1,UK: Rakuten Top Free
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301654
+
+#EXTINF:-1,UK: TCM Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4711
+
+#EXTINF:-1,UK: Great Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299746
+
+#EXTINF:-1,UK: Great Movies Action +1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286775
+
+#EXTINF:-1,UK: Great Movies Romance
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299748
+
+#EXTINF:-1,UK: Sky Cinema Action
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1092
+
+#EXTINF:-1,UK: Sky Cinema Animation
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1090
+
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300937
+
+#EXTINF:-1,UK: Sky Cinema Drama
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1089
+
+#EXTINF:-1,UK: Sky Cinema Family
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/727
+
+#EXTINF:-1,UK: Sky Cinema Greats
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1087
+
+#EXTINF:-1,UK: Sky Cinema Hits
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1086
+
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1085
+
+#EXTINF:-1,UK: Sky Cinema sci-fi Horror
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/725
+
+#EXTINF:-1,UK: Sky Cinema Select
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/726
+
+#EXTINF:-1,UK: Sky Cinema Thriller
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1082
+
+#EXTINF:-1,UK: Sky Comedy
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1091
+
+#EXTINF:-1,FR: CANAL+ Cinema
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/172
+
+#EXTINF:-1,FR: TCM Cinema
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1902
+
+#EXTINF:-1,FR: Toonami Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/203
+
+#EXTINF:-1,FR: Fashion TV Tokyo FASHION FILMS
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296230
+
+#EXTINF:-1,FR: TF 1 Series Films
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1898
+
+
+#EXTINF:-1,AE: Fox Action Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2831
+
+#EXTINF:-1,AE: FOX Family Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290465
+
+#EXTINF:-1,AE: OSN Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/22109
+
+#EXTINF:-1,AE: OSN Movies Action
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297226
+
+#EXTINF:-1,AE: OSN Movies Disney
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13666
+
+#EXTINF:-1,AE: OSN Movies Family
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/43912
+
+#EXTINF:-1,AE: OSN Movies First
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2858
+
+#EXTINF:-1,AE: OSN Movies First +2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/16917
+
+#EXTINF:-1,AE: OSN ON DEMAND
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/43916
+
+#EXTINF:-1,AE: OSN ON DEMAND 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/43918
+
+#EXTINF:-1,AE: OSN ON DEMAND 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300874
+
+#EXTINF:-1,AE: OSN ON DEMAND EXTRA 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/43922
+
+#EXTINF:-1,AE: OSN ON DEMAND EXTRA 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2857
+
+#EXTINF:-1,AE: OSN ON DEMAND EXTRA 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/43917
+
+#EXTINF:-1,AE: OSN Premiere
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/22118
+
+#EXTINF:-1,AE: OSN Thriller 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/35877
+
+#EXTINF:-1,AE: OSN TV Crime
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300319
+
+#EXTINF:-1,AE: OSN TV Movies Comedy
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300676
+
+#EXTINF:-1,AE: OSN TV Movies Family
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300675
+
+#EXTINF:-1,AE: OSN TV Movies Hollywood
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/71110
+
+#EXTINF:-1,AE: OSN TV Movies Premiere
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300678
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
