@@ -1,5 +1,9 @@
 #EXTM3U
                         #    MOROCCO     #
+
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="General",MBC 5
+https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
@@ -128,6 +132,9 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59741
 #EXTINF:-1,AR - Bein Sport English 3
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59742
 
+#EXTINF:-1,USA - BEIN SPORTS US
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58476
+
 #EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
@@ -169,10 +176,7 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC 1 (720p)
 https://af.ayassport.ir/hls2/ssc1.m3u8
-
-
-
-                        #      ARABIC  CHANNELS    #
+=================================== #      ARABIC  CHANNELS    #===============================================
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
@@ -504,9 +508,6 @@ https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/i
 #EXTINF:-1 tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 5
 https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="General",MBC 5
-https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="General",MBC Bollywood (1080p) [Geo-blocked]
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
@@ -790,64 +791,15 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 tvg-id="ZitounaTV.tn" tvg-logo="https://i.imgur.com/LzK8fHv.png" group-title="Undefined",Zitouna TV (480p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 
-                  #      USA_ENGLISH     #
-
-
+========================================== #      USA_ENGLISH     #==========================================
 #EXTINF:-1,US - Fox College Sports Pacific
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57221
-
-#EXTINF:-1,US - NBC Sports Philadelphia
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57465
-
-#EXTINF:-1,US - NBC Sports Washington
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57464
-
-#EXTINF:-1,US - FXX HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57463
 
 #EXTINF:-1,US - FOX Sports Wisconsin
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57456
 
 #EXTINF:-1,US - NESN Boston
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57435
-
-#EXTINF:-1,USA - NESN
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57433
-
-#EXTINF:-1,USA - Fox Sports South
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65895
-
-#EXTINF:-1,USA - FOX SPORTS ARIZONA | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66040
-
-#EXTINF:-1,USA - FOX SPORTS NORTH CAROLINA | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66041
-
-#EXTINF:-1,USA - FOX SPORTS FLORIDA | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66044
-
-#EXTINF:-1,USA - FOX SPORTS HOUSTON | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66045
-#EXTINF:-1,USA - FOX SPORTS PRIME TICKET | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66051
-
-#EXTINF:-1,USA - FOX SPORTS SOUTHWEST PLUS | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66054
-
-#EXTINF:-1,USA - FOX SPORTS SPORTSTIME OHIO | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66056
-
-#EXTINF:-1,USA - FOX SPORTS SAN DIEGO | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66057
-
-#EXTINF:-1,USA - FOX SPORTS SUN | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66058
-
-#EXTINF:-1,USA - FOX SPORTS WEST | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66059
-
-#EXTINF:-1,USA - FOX SPORTS OKLAHOMA | HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/66065
 
 #EXTINF:-1,Now Premier Sports 1
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69854
@@ -870,9 +822,6 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69859
 #EXTINF:-1,Now Premier Sports 7
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69860
 
-#EXTINF:-1,Now Premier Sports 8
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69861
-
 #EXTINF:-1,USA - TNT Pacific
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57198
 
@@ -882,80 +831,8 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57209
 #EXTINF:-1,USA - CNBC HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57212
 
-#EXTINF:-1,USA - CNBC World
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57213
-
 #EXTINF:-1,USA - CNN
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57214
-
-#EXTINF:-1,USA - ESPN U
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57228
-
-#EXTINF:-1,USA - ESPN 2
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57222
-
-#EXTINF:-1,USA - NBC Sports California
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57469
-
-#EXTINF:-1,USA - NBC Sports NorthWest
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57467
-
-#EXTINF:-1,USA - NBC Sports Boston
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57466
-
-#EXTINF:-1,USA - FOX Sports Sun
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57454
-
-#EXTINF:-1,USA - FOX Sports South
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57453
-
-#EXTINF:-1,USA - FOX Sports San Diego
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57452
-
-#EXTINF:-1,USA - FOX Sports Ohio
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57450
-
-#EXTINF:-1,USA - FOX Sports North
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57449
-
-#EXTINF:-1,USA - Fox Sports Detroit
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57448
-
-#EXTINF:-1,USA - Fox Sports Arizona
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57447
-
-#EXTINF:-1,USA - Fox Soccer Plus
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57443
-
-#EXTINF:-1,USA - MSNBC
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57441
-
-#EXTINF:-1,USA - HLN HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57437
-
-#EXTINF:-1,USA - NBA TV
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57436
-
-#EXTINF:-1,USA - NESN Plus
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57434
-
-#EXTINF:-1,USA - C-SPAN 1 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58480
-
-#EXTINF:-1,US:A - C-SPAN 3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58482
-
-#EXTINF:-1,USA - CNN HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58495
-
-#EXTINF:-1,USA - ESPN
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58499
-
-#EXTINF:-1,USA - ESPN 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58500
-
-#EXTINF:-1,USA - ESPN NEWS
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58502
 
 #EXTINF:-1,CA - CNN HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61130
@@ -963,32 +840,44 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61130
 #EXTINF:-1,CA - CNN INTERNATIONAL  HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61131
 
-#EXTINF:-1,USA - BEIN SPORTS US
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58476
+#EXTINF:-1,USA - ESPN 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57222
+
+#EXTINF:-1,USA - NBC Sports Boston
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57466
+
+#EXTINF:-1,USA - HLN HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57437
 
 #EXTINF:-1,USA - HBO SIGNATURE
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58517
 
-#EXTINF:-1,UK: HBO Comedy
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/151864
-#EXTINF:-1,US: HBO
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2336
-#EXTINF:-1,US: HBO 2
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/5844
-#EXTINF:-1,US: HBO Comedy
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2335
-#EXTINF:-1,US: HBO Family
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/760
 #EXTINF:-1,US: HBO Signature
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6305
-#EXTINF:-1,US: HBO Zone
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6328
-#EXTINF:-1,CA: HBO 1
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/463
+
+#EXTINF:-1,UK: HBO Comedy
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/151864
+
+#EXTINF:-1,US: HBO Comedy
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2335
+
+#EXTINF:-1,US: HBO
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2336
+
+#EXTINF:-1,US: HBO 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/5844
+
 #EXTINF:-1,CA: HBO 2
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/9284
 
+#EXTINF:-1,US: HBO Family
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/760
 
+#EXTINF:-1,US: HBO Zone
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6328
+
+#EXTINF:-1,CA: HBO 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/463
 
 =====================.     FRANCE.  =================
 
@@ -1142,10 +1031,6 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/42226
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/57256
 #EXTINF:-1,FR: C News
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/168
-#EXTINF:-1,FR: C Star
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1900
-#EXTINF:-1,FR: C Star Hits France
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281600
 #EXTINF:-1,FR: C8
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/161
 #EXTINF:-1,FR: Canal Alpha Jura
