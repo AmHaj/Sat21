@@ -1,6 +1,5 @@
 #EXTM3U
                            #    MOROCCO     #
-
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
@@ -51,20 +50,66 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/268950
 
 #EXTINF:-1,MA: Tele Maroc
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225140
-
-
-
-
-                                 #      BEIN SPORT      #
-
+================================= #      BEIN SPORT / SPORT     # ===============================================================
 #EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
+
+#EXTINF:-1,FR - BEIN SPORT 1 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58753
+
+#EXTINF:-1,AR - Bein Sport 1 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59734
+
+#EXTINF:-1,AR - Bein Sport English 1
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59741
 
 #EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
 
+#EXTINF:-1,FR - BEIN SPORT 2 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58754
+
+#EXTINF:-1,AR - Bein Sport 2 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59735
+
 #EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
+
+#EXTINF:-1,FR - BEIN SPORT 3 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58755
+
+#EXTINF:-1,AR - Bein Sport 3 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59736
+
+#EXTINF:-1,AR - Bein Sport English 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59742
+
+#EXTINF:-1,AR - Bein Sport 5 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59738
+
+#EXTINF:-1,AR - Bein Sport 6 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59739
+
+#EXTINF:-1,AR - Bein Sport 7 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59740
+
+#EXTINF:-1,FR - BEIN SPORTS MAX 4 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58756
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58757
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 6
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58758
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 7
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58759
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 8
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58760
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 9
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58761
 
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
@@ -86,57 +131,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2808&extension=
 
 #EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sports",RMC Sport 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2810&extension=ts&play_token=LE8LjwuM4i&sn2=
-
-#EXTINF:-1,FR - BEIN SPORT 1 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58753
-
-#EXTINF:-1,FR - BEIN SPORT 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58754
-
-#EXTINF:-1,FR - BEIN SPORT 3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58755
-
-#EXTINF:-1,FR - BEIN SPORTS MAX 4 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58756
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 5
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58757
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 6
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58758
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 7
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58759
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 8
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58760
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 9
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58761
-
-#EXTINF:-1,AR - Bein Sport 1 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59734
-
-#EXTINF:-1,AR - Bein Sport 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59735
-
-#EXTINF:-1,AR - Bein Sport 3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59736
-
-#EXTINF:-1,AR - Bein Sport 5 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59738
-
-#EXTINF:-1,AR - Bein Sport 6 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59739
-
-#EXTINF:-1,AR - Bein Sport 7 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59740
-
-#EXTINF:-1,AR - Bein Sport English 1
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59741
-
-#EXTINF:-1,AR - Bein Sport English 3
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59742
 
 #EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -180,9 +174,7 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC 1 (720p)
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-
-
-                        #      ARABIC  CHANNELS    #
+================================================= #      ARABIC  CHANNELS    #==================================================
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
@@ -807,10 +799,7 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
 #EXTINF:-1 tvg-id="ZitounaTV.tn" tvg-logo="https://i.imgur.com/LzK8fHv.png" group-title="Undefined",Zitouna TV (480p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
-
                   #      USA_ENGLISH     #
-
-
 #EXTINF:-1,US - Fox College Sports Pacific
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57221
 
