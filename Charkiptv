@@ -1,5 +1,5 @@
 #EXTM3U
-                        #    MOROCCO     #
+=======================================   #    MOROCCO     # =======================================
 
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="General",MBC 5
 https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
@@ -46,19 +46,100 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11163
 #EXTINF:-1,MA: Aflam TV
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/226057
 
-                                 #      BEIN SPORT      #
+======================================= #      BEIN SPORT / SPORT CHANNELS     # =======================================
 
 #EXTINF:-1 ,USA_NBA 1
 http://38.96.178.201/live/NBA/index.m3u8
 
-#EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
+#EXTINF:-1,FR: beIN Sports 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/144
+
+#EXTINF:-1,AR - Bein Sport 1 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59734
+
+#EXTINF:-1,FR - BEIN SPORT 1 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58753
+
+#EXTINF:-1,AR - Bein Sport English 1
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59741
 
 #EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
 
+#EXTINF:-1,FR - BEIN SPORT 2 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58754
+
+#EXTINF:-1,AR - Bein Sport 2 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59735
+
+#EXTINF:-1,FR: beIN Sports 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/145
+
 #EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
+
+#EXTINF:-1,FR - BEIN SPORT 3 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58755
+
+#EXTINF:-1,AR - Bein Sport 3 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59736
+
+#EXTINF:-1,FR: beIN Sports 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/146
+
+#EXTINF:-1,AR - Bein Sport English 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59742
+
+#EXTINF:-1,FR: beIN Sports Max 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3599
+
+#EXTINF:-1,FR - BEIN SPORTS MAX 4 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58756
+
+#EXTINF:-1,FR: beIN Sports Max 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6083
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58757
+
+#EXTINF:-1,AR - Bein Sport 5 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59738
+
+#EXTINF:-1,FR: beIN Sports Max 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4368
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 6
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58758
+
+#EXTINF:-1,AR - Bein Sport 6 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59739
+
+#EXTINF:-1,FR: beIN Sports Max 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4369
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 7
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58759
+
+#EXTINF:-1,AR - Bein Sport 7 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59740
+
+#EXTINF:-1,FR: beIN Sports Max 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4370
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 8
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58760
+
+#EXTINF:-1,FR: beIN Sports Max 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4371
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 9
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58761
+
+#EXTINF:-1,FR: beIN Sports Max 10
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6088
+
+#EXTINF:-1,USA - BEIN SPORTS US
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58476
 
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
@@ -81,59 +162,9 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2808&extension=
 #EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sports",RMC Sport 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2810&extension=ts&play_token=LE8LjwuM4i&sn2=
 
-#EXTINF:-1,FR - BEIN SPORT 1 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58753
+#EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
 
-#EXTINF:-1,FR - BEIN SPORT 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58754
-
-#EXTINF:-1,FR - BEIN SPORT 3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58755
-
-#EXTINF:-1,FR - BEIN SPORTS MAX 4 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58756
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 5
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58757
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 6
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58758
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 7
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58759
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 8
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58760
-
-#EXTINF:-1,FR - BEIN SPORT MAX HD 9
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58761
-
-#EXTINF:-1,AR - Bein Sport 1 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59734
-
-#EXTINF:-1,AR - Bein Sport 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59735
-
-#EXTINF:-1,AR - Bein Sport 3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59736
-
-#EXTINF:-1,AR - Bein Sport 5 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59738
-
-#EXTINF:-1,AR - Bein Sport 6 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59739
-
-#EXTINF:-1,AR - Bein Sport 7 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59740
-
-#EXTINF:-1,AR - Bein Sport English 1
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59741
-
-#EXTINF:-1,AR - Bein Sport English 3
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59742
-
-#EXTINF:-1,USA - BEIN SPORTS US
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58476
 
 #EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -176,7 +207,189 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC 1 (720p)
 https://af.ayassport.ir/hls2/ssc1.m3u8
-=================================== #      ARABIC  CHANNELS    #===============================================
+
+#EXTINF:-1,FR: RMC SPORT 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1940
+
+#EXTINF:-1,FR: RMC SPORT 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20883
+
+#EXTINF:-1,FR: RMC SPORT 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20884
+
+#EXTINF:-1,FR: RMC SPORT 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20885
+
+#EXTINF:-1,FR: RMC SPORT 10
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/192025
+
+#EXTINF:-1,FR: RMC SPORT 12
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20887
+
+#EXTINF:-1,FR: RMC SPORT 13
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20890
+
+#EXTINF:-1,FR: RMC SPORT 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1937
+
+#EXTINF:-1,FR: RMC SPORT 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1938
+
+#EXTINF:-1,FR: RMC SPORT 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279991
+
+#EXTINF:-1,FR: RMC SPORT 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279752
+
+#EXTINF:-1,FR: MultiSports 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290572
+
+#EXTINF:-1,FR: MultiSports 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290573
+
+#EXTINF:-1,FR: MultiSports 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290574
+
+#EXTINF:-1,FR: MultiSports 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290575
+
+#EXTINF:-1,FR: MultiSports 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290576
+
+#EXTINF:-1,FR: MultiSports 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290577
+
+#EXTINF:-1,FR: Eurosport 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/151
+
+#EXTINF:-1,FR: Eurosport 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1195
+
+#EXTINF:-1,FR: Foot+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1193
+
+#EXTINF:-1,FR: Canal Play
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/163135
+
+#EXTINF:-1,FR: Canal Play 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1887
+
+#EXTINF:-1,FR: Canal Play 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/228
+
+#EXTINF:-1,FR: Canal Play 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/229
+
+#EXTINF:-1,FR: Canal Play 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13603
+
+#EXTINF:-1,FR: Canal Play 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13722
+
+#EXTINF:-1,FR: Canal Play 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/230
+
+#EXTINF:-1,FR: Canal Play 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/14041
+
+#EXTINF:-1,FR: Canal Play 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13724
+
+#EXTINF:-1,FR: Canal Play 10
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1890
+
+#EXTINF:-1,FR: CANAL+ Premier League
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286794
+
+#EXTINF:-1,FR: CANAL+ Foot
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297371
+
+#EXTINF:-1,FR: CANAL+ Sport
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/143
+
+#EXTINF:-1,FR: CANAL+ Sport 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291175
+
+#EXTINF:-1,FR: CANAL+ Sport 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291177
+
+#EXTINF:-1,FR: CANAL+ Sport 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297381
+
+#EXTINF:-1,FR: CANAL+ Sport 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291178
+
+#EXTINF:-1,FR: CANAL+ Sport 360
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297378
+
+#EXTINF:-1,FR: Sport
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/187484
+
+#EXTINF:-1,US - Fox College Sports Pacific
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57221
+
+#EXTINF:-1,US - FOX Sports Wisconsin
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57456
+
+#EXTINF:-1,US - NESN Boston
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57435
+
+#EXTINF:-1,Now Premier Sports 1
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69854
+
+#EXTINF:-1,Now Premier Sports 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69855
+
+#EXTINF:-1,Now Premier Sports 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69856
+
+#EXTINF:-1,Now Premier Sports 4
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69857
+
+#EXTINF:-1,Now Premier Sports 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69858
+
+#EXTINF:-1,Now Premier Sports 6
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69859
+
+#EXTINF:-1,Now Premier Sports 7
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69860
+
+#EXTINF:-1,USA - TNT Pacific
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57198
+
+#EXTINF:-1,USA - CBS Sports Network
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57209
+
+#EXTINF:-1,FR: Amazon Prime 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298718
+
+#EXTINF:-1,FR: Amazon Prime 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298719
+
+#EXTINF:-1,FR: Amazon Prime 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298720
+
+#EXTINF:-1,FR: Amazon Prime 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298721
+
+#EXTINF:-1,FR: Amazon Prime 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298722
+
+#EXTINF:-1,FR: Amazon Prime 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298723
+
+#EXTINF:-1,FR: Amazon Prime 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298724
+
+#EXTINF:-1,FR: Amazon Prime 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299259
+
+
+
+
+
+=================================== #      ARABIC  CHANNELS    #==============================================================
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
@@ -792,41 +1005,6 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 
 ========================================== #      USA_ENGLISH     #==========================================
-#EXTINF:-1,US - Fox College Sports Pacific
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57221
-
-#EXTINF:-1,US - FOX Sports Wisconsin
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57456
-
-#EXTINF:-1,US - NESN Boston
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57435
-
-#EXTINF:-1,Now Premier Sports 1
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69854
-
-#EXTINF:-1,Now Premier Sports 2
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69855
-
-#EXTINF:-1,Now Premier Sports 3
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69856
-
-#EXTINF:-1,Now Premier Sports 4
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69857
-
-#EXTINF:-1,Now Premier Sports 5
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69858
-
-#EXTINF:-1,Now Premier Sports 6
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69859
-
-#EXTINF:-1,Now Premier Sports 7
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69860
-
-#EXTINF:-1,USA - TNT Pacific
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57198
-
-#EXTINF:-1,USA - CBS Sports Network
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57209
 
 #EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-id="LiveNOWFromFOX.us" group-title="News",LiveNOW from FOX
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
@@ -949,22 +1127,7 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/276064
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/53681
 #EXTINF:-1,FR: Altice Studio
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13364
-#EXTINF:-1,FR: Amazon Prime 1
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298718
-#EXTINF:-1,FR: Amazon Prime 2
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298719
-#EXTINF:-1,FR: Amazon Prime 3
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298720
-#EXTINF:-1,FR: Amazon Prime 4
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298721
-#EXTINF:-1,FR: Amazon Prime 5
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298722
-#EXTINF:-1,FR: Amazon Prime 6
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298723
-#EXTINF:-1,FR: Amazon Prime 7
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298724
-#EXTINF:-1,FR: Amazon Prime 8
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299259
+
 #EXTINF:-1,FR: ANIMAUX
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/193
 #EXTINF:-1,FR: ARTE
@@ -977,26 +1140,7 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299905
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/51323
 #EXTINF:-1,FR: BBC Drama France
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299701
-#EXTINF:-1,FR: beIN Sports 1
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/144
-#EXTINF:-1,FR: beIN Sports 2
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/145
-#EXTINF:-1,FR: beIN Sports 3
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/146
-#EXTINF:-1,FR: beIN Sports Max 4
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3599
-#EXTINF:-1,FR: beIN Sports Max 5
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6083
-#EXTINF:-1,FR: beIN Sports Max 6
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4368
-#EXTINF:-1,FR: beIN Sports Max 7
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4369
-#EXTINF:-1,FR: beIN Sports Max 8
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4370
-#EXTINF:-1,FR: beIN Sports Max 9
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4371
-#EXTINF:-1,FR: beIN Sports Max 10
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6088
+
 #EXTINF:-1,FR: Berbere TV
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/33099
 #EXTINF:-1,FR: BET
@@ -1045,67 +1189,30 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298475
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/486
 #EXTINF:-1,FR: CANAL J
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/212
-#EXTINF:-1,FR: Canal Play
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/163135
-#EXTINF:-1,FR: Canal Play 2
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1887
-#EXTINF:-1,FR: Canal Play 3
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/228
-#EXTINF:-1,FR: Canal Play 4
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/229
-#EXTINF:-1,FR: Canal Play 5
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13603
-#EXTINF:-1,FR: Canal Play 6
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13722
-#EXTINF:-1,FR: Canal Play 7
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/230
-#EXTINF:-1,FR: Canal Play 8
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/14041
-#EXTINF:-1,FR: Canal Play 9
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13724
-#EXTINF:-1,FR: Canal Play 10
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1890
+
 #EXTINF:-1,FR: Canal Savoir
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/9296
+
 #EXTINF:-1,FR: Canal+ Box Office
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301684
+
 #EXTINF:-1,FR: CANAL+ Cinema
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/172
+
 #EXTINF:-1,FR: CANAL+ Docs
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298737
+
 #EXTINF:-1,FR: CANAL+ Elles
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297370
+
 #EXTINF:-1,FR: CANAL+ First
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298739
-#EXTINF:-1,FR: CANAL+ Foot
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297371
 
 #EXTINF:-1,FR: CANAL+ Grand Ecran
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298741
 
-#EXTINF:-1,FR: CANAL+ Premier League
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286794
-
 #EXTINF:-1,FR: CANAL+ Series
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/173
-
-#EXTINF:-1,FR: CANAL+ Sport
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/143
-
-#EXTINF:-1,FR: CANAL+ Sport 1
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291175
-
-#EXTINF:-1,FR: CANAL+ Sport 3
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291177
-
-#EXTINF:-1,FR: CANAL+ Sport 4
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297381
-
-#EXTINF:-1,FR: CANAL+ Sport 5
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291178
-
-#EXTINF:-1,FR: CANAL+ Sport 360
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297378
 
 #EXTINF:-1,FR: CDirect
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/165045
@@ -1154,15 +1261,6 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/295261
 
 #EXTINF:-1,FR: euronews
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/169
-
-#EXTINF:-1,FR: Eurosport 1
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/151
-
-#EXTINF:-1,FR: Eurosport 2
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1195
-
-#EXTINF:-1,FR: Foot+
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1193
 
 #EXTINF:-1,FR: FRANCE 2
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/154
@@ -1221,89 +1319,69 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286533
 #EXTINF:-1,FR: Motorvision TV
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/268514
 
-#EXTINF:-1,FR: MultiSports 1
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290572
-#EXTINF:-1,FR: MultiSports 2
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290573
-#EXTINF:-1,FR: MultiSports 3
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290574
-#EXTINF:-1,FR: MultiSports 4
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290575
-#EXTINF:-1,FR: MultiSports 5
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290576
-#EXTINF:-1,FR: MultiSports 6
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290577
-
 #EXTINF:-1,FR: NAT GEO
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/187
+
 #EXTINF:-1,FR: NAT GEO Wild
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/278459
+
 #EXTINF:-1,FR: Nature Time
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298750
 
 #EXTINF:-1,FR: PLANETE+
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/191
+
 #EXTINF:-1,FR: PLANETE+ A&E
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1181
+
 #EXTINF:-1,FR: PLANETE+ CI
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/192
+
 #EXTINF:-1,FR: POLAR+
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1202
+
 #EXTINF:-1,FR: Public Senat
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/50056
 
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/198
-#EXTINF:-1,FR: RMC SPORT 1
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1937
-#EXTINF:-1,FR: RMC SPORT 2
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1938
-#EXTINF:-1,FR: RMC SPORT 3
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279991
-#EXTINF:-1,FR: RMC SPORT 4
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279752
-#EXTINF:-1,FR: RMC SPORT 5
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1940
-#EXTINF:-1,FR: RMC SPORT 7
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20883
-#EXTINF:-1,FR: RMC SPORT 8
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20884
-#EXTINF:-1,FR: RMC SPORT 9
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20885
-#EXTINF:-1,FR: RMC SPORT 10
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/192025
-#EXTINF:-1,FR: RMC SPORT 12
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20887
-#EXTINF:-1,FR: RMC SPORT 13
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20890
 #EXTINF:-1,FR: RMC Story
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/162
 
 #EXTINF:-1,FR: RT France
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296211
+
 #EXTINF:-1,FR: RTL 9
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1178
+
 #EXTINF:-1,FR: RTS 1
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298483
+
 #EXTINF:-1,FR: RTS 2
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/267241
+
 #EXTINF:-1,FR: Science & Vie TV
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/199
+
 #EXTINF:-1,FR: Seasons
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/195
+
 #EXTINF:-1,FR: Serie Club
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1903
 
 #EXTINF:-1,FR: Sport
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/187484
+
 #EXTINF:-1,FR: Stingray Classica
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281897
 
 #EXTINF:-1,FR: TF 1
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/153
+
 #EXTINF:-1,FR: TF 1 +1
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301442
+
 #EXTINF:-1,FR: TF 1 Series Films
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1898
+
 #EXTINF:-1,FR: TFX
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/164
 
@@ -1315,39 +1393,53 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/12002
 
 #EXTINF:-1,FR: TV5Monde Europe
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/146307
+
 #EXTINF:-1,FR: TV5Monde France Belgique Suisse Monaco
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/879
+
 #EXTINF:-1,FR: TV5Monde Info
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286522
+
 #EXTINF:-1,FR: TV5Monde États-Unis
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281516
+
 #EXTINF:-1,FR: TV7
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15359
+
 #EXTINF:-1,FR: TV78
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/275295
+
 #EXTINF:-1,FR: TV8 Mont Blanc
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/23464
+
+
 #EXTINF:-1,FR: TVR (Bretagne)
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286524
 
 #EXTINF:-1,FR: WikiCine
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300360
+
 #EXTINF:-1,FR: WikiCine 1
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300361
+
 #EXTINF:-1,FR: WikiCine 2
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300362
+
 #EXTINF:-1,FR: WikiCine 3
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300363
+
 #EXTINF:-1,FR: WikiCine 4
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300364
+
 #EXTINF:-1,FR: Wildside TV
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286528
+
 #EXTINF:-1,FR: WinMax
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300365
 
 
 
-===================.       MOVIES.    =======================
+=================================       MOVIES.    ===================================================
 
 #EXTINF:-1,QA: beIN Series 1
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2833
@@ -1531,7 +1623,6 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296230
 
 #EXTINF:-1,FR: TF 1 Series Films
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1898
-
 
 #EXTINF:-1,AE: Fox Action Movies
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2831
