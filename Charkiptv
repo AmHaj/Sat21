@@ -47,6 +47,21 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11163
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/226057
 
 ======================================= #      BEIN SPORT / SPORT CHANNELS     # ======================================
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORTS XTRA (720p)
+https://lnc-bein.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORTS XTRA (720p)
+https://lnc-bein.tubi.video/playlist.m3u8
+
+#EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
+
+#EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
+
+
+
 #EXTINF:-1,USA - TNT Pacific
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57198
 
@@ -67,7 +82,7 @@ http://38.96.178.201/live/NBA/index.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
 http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
-
+=========================================
 #EXTINF:-1, AR_BeIN_Sport_01_HD
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/1
 #EXTINF:-1,AR_BEIN_Sport_01_Hevc50
@@ -124,10 +139,6 @@ http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/11
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/10
 #EXTINF:-1,AR_BeIN_Sport_XTRA_02
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53670
-
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORTS XTRA (720p)
-https://lnc-bein.tubi.video/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
 
@@ -222,8 +233,9 @@ http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54469
 #EXTINF:-1,BeIN_Sport_03_English_HD
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54471
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORTS XTRA (720p)
-https://lnc-bein.tubi.video/playlist.m3u8
+XXXXX
+
+
 
 #EXTINF:-1,FR: beIN Sports 1
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/144
@@ -240,9 +252,6 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58753
 #EXTINF:-1,AR - Bein Sport English 1
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59741
 
-#EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
-
 #EXTINF:-1,FR - BEIN SPORT 2 HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58754
 
@@ -252,8 +261,9 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59735
 #EXTINF:-1,FR: beIN Sports 2
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/145
 
-#EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
+XXXXXXX
+
+
 
 #EXTINF:-1,FR - BEIN SPORT 3 HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58755
