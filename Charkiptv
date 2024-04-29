@@ -48,6 +48,24 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/226057
 
 ======================================= #      BEIN SPORT / SPORT CHANNELS     # ======================================
 
+#EXTINF:-1,|US| TNT WEST FHD
+http://emuligl.info:8080/tviritv/td6522SNAtHt/220130
+
+#EXTINF:-1,|US| TNT FHD
+http://emuligl.info:8080/tviritv/td6522SNAtHt/220520
+
+#EXTINF:-1,|US| 4K  TNT
+http://emuligl.info:8080/tviritv/td6522SNAtHt/220776
+
+#EXTINF:-1,BeIN_Sport_NBA_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49691
+
+#EXTINF:-1 ,USA_NBA 1
+http://38.96.178.201/live/NBA/index.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
+http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
+
 #EXTINF:-1, AR_BeIN_Sport_01_HD
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/1
 #EXTINF:-1,AR_BEIN_Sport_01_Hevc50
@@ -132,11 +150,6 @@ http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56229
 #EXTINF:-1,AR_BEIN_SPORTS_MAX_1_FHD_AF
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56230
 
-#EXTINF:-1,BeIN_Sport_NBA_HD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49691
-
-#EXTINF:-1,FR_Foot+ 24/24_HD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/51646
 #EXTINF:-1,FR_BeIN_SPORTS_1_HD
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3682
 #EXTINF:-1,FR_BeIN_SPORTS_2_HD
@@ -155,17 +168,6 @@ http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/73
 #EXTINF:-1,FR_BeIN_SPORTS_2_FullHD
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/74
 
-#EXTINF:-1,BeIN_Sport_01_French_HD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54472
-#EXTINF:-1,BeIN_Sport_02_French_HD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54473
-#EXTINF:-1,FR: BEIN SPORTS 1 HEVC
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53324
-#EXTINF:-1,FR: BEIN SPORTS 2 HEVC
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53325
-#EXTINF:-1,FR: BEIN SPORTS 3 HEVC
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53326
-
 #EXTINF:-1,FR_BEIN_SPORT_MAX_08
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49616
 #EXTINF:-1,FR_BEIN_SPORT_MAX_09
@@ -178,47 +180,17 @@ http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49620
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49618
 #EXTINF:-1,FR_BEIN_SPORT_MAX_10
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49614
-#EXTINF:-1,FR_MULTISPORT_01_HD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53639
-#EXTINF:-1,FR_MULTISPORT_02_HD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53640
-#EXTINF:-1,FR_MULTISPORT_03_HD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53641
-#EXTINF:-1,FR_MULTISPORT_04_HD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53642
-#EXTINF:-1,FR_MULTISPORT_05_HD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53643
-#EXTINF:-1,FR_MULTISPORT_06_HD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53644
 
-#EXTINF:-1,FR: Amazon Prime 1 FHD [Match Time]
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53927
-#EXTINF:-1,FR: Amazon Prime 2 FHD [Match Time]
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53928
-#EXTINF:-1,FR: Amazon Prime 3 FHD [Match Time]
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53929
-#EXTINF:-1,FR: Amazon Prime 4 FHD [Match Time]
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53930
-#EXTINF:-1,FR: Amazon Prime 5 FHD [Match Time]
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53931
-#EXTINF:-1,FR: Amazon Prime 6 FHD [Match Time]
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53932
-#EXTINF:-1,FR: Amazon Prime 7 FHD [Match Time]
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53933
-#EXTINF:-1,FR: Amazon Prime 8 FHD [Match Time]
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53934
-#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 1
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54841
-#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 2 
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54842
-#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 3
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54843
-#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 4
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54844
-#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 5
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54845
-#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 6
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54846
+#EXTINF:-1,BeIN_Sport_01_French_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54472
+#EXTINF:-1,BeIN_Sport_02_French_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54473
+#EXTINF:-1,FR: BEIN SPORTS 1 HEVC
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53324
+#EXTINF:-1,FR: BEIN SPORTS 2 HEVC
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53325
+#EXTINF:-1,FR: BEIN SPORTS 3 HEVC
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53326
 
 #EXTINF:-1,USA: BEIN Sports 1
 http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3587
@@ -250,9 +222,6 @@ http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54471
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORTS XTRA (720p)
 https://lnc-bein.tubi.video/playlist.m3u8
-
-#EXTINF:-1 ,USA_NBA 1
-http://38.96.178.201/live/NBA/index.m3u8
 
 #EXTINF:-1,FR: beIN Sports 1
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/144
@@ -346,6 +315,50 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6088
 
 #EXTINF:-1,USA - BEIN SPORTS US
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58476
+
+#EXTINF:-1,FR_MULTISPORT_01_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53639
+#EXTINF:-1,FR_MULTISPORT_02_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53640
+#EXTINF:-1,FR_MULTISPORT_03_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53641
+#EXTINF:-1,FR_MULTISPORT_04_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53642
+#EXTINF:-1,FR_MULTISPORT_05_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53643
+#EXTINF:-1,FR_MULTISPORT_06_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53644
+#EXTINF:-1,FR_Foot+ 24/24_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/51646
+
+#EXTINF:-1,FR: Amazon Prime 1 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53927
+#EXTINF:-1,FR: Amazon Prime 2 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53928
+#EXTINF:-1,FR: Amazon Prime 3 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53929
+#EXTINF:-1,FR: Amazon Prime 4 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53930
+#EXTINF:-1,FR: Amazon Prime 5 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53931
+#EXTINF:-1,FR: Amazon Prime 6 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53932
+#EXTINF:-1,FR: Amazon Prime 7 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53933
+#EXTINF:-1,FR: Amazon Prime 8 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53934
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 1
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54841
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 2 
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54842
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 3
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54843
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 4
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54844
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 5
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54845
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 6
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54846
 
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
@@ -586,9 +599,6 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298724
 
 #EXTINF:-1,FR: Amazon Prime 8
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299259
-
-
-
 
 
 =================================== #      ARABIC  CHANNELS    #==============================================================
@@ -1261,9 +1271,6 @@ http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6328
 
 #EXTINF:-1,CA: HBO 1
 http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/463
-
-#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
-http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO1.ca" tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="Movies",HBO 1
 #EXTVLCOPT:http-referrer=https://tv247.us
