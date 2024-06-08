@@ -50,6 +50,43 @@ http://abcnew.site:8880/3ca8013n03/asdf23e32/27724
 #EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC300:AL Thanya 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC300AlJazeeraMobasher.png" group-title="Arabic general",AC300:AL Thanya 2
 http://abcnew.site:8880/3ca8013n03/asdf23e32/27618
 
+#EXTINF:-1 tvg-id="" tvg-name="------|Arabic-Islamic|------" tvg-logo="" group-title="Arab Islamic",------|Arabic-Islamic|------
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2056
+#EXTINF:-1 tvg-id="" tvg-name="IC001:AL afasy" tvg-logo="" group-title="Arab Islamic",IC001:AL afasy
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2055
+#EXTINF:-1 tvg-id="" tvg-name="IC002:Azhari" tvg-logo="" group-title="Arab Islamic",IC002:Azhari
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2054
+#EXTINF:-1 tvg-id="" tvg-name="IC003:Albasira Islamic" tvg-logo="" group-title="Arab Islamic",IC003:Albasira Islamic
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2053
+#EXTINF:-1 tvg-id="" tvg-name="IC005:AL Nas tv" tvg-logo="" group-title="Arab Islamic",IC005:AL Nas tv
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2051
+#EXTINF:-1 tvg-id="" tvg-name="IC007:AL Rahma" tvg-logo="" group-title="Arab Islamic",IC007:AL Rahma
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2049
+#EXTINF:-1 tvg-id="" tvg-name="IC008:AL Resalah" tvg-logo="" group-title="Arab Islamic",IC008:AL Resalah
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2048
+#EXTINF:-1 tvg-id="" tvg-name="IC010:Iqraa" tvg-logo="" group-title="Arab Islamic",IC010:Iqraa
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2046
+#EXTINF:-1 tvg-id="" tvg-name="IC011:Mecca" tvg-logo="" group-title="Arab Islamic",IC011:Mecca
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2045
+
+#EXTINF:-1 tvg-id="" tvg-name="IC013:Saudi Quran" tvg-logo="" group-title="Arab Islamic",IC013:Saudi Quran
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2043
+#EXTINF:-1 tvg-id="" tvg-name="IC014:AL INSAN" tvg-logo="" group-title="Arab Islamic",IC014:AL INSAN
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2042
+#EXTINF:-1 tvg-id="" tvg-name="AC265:Wesal TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC265WesalTV.png" group-title="Arab Islamic",AC265:Wesal TV
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27653
+#EXTINF:-1 tvg-id="" tvg-name="AC280:FOX REWAYAT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC280ALErthAlnabawi.png" group-title="Arab Islamic",AC280:FOX REWAYAT HD
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27638
+#EXTINF:-1 tvg-id="" tvg-name="AC319:Ahel Alquran (Islamic)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC319AhelAlquranIslamic.png" group-title="Arab Islamic",AC319:Ahel Alquran (Islamic)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27599
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC348:Azhari TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC348AzhariTV.png" group-title="Arab Islamic",AC348:Azhari TV
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27570
+#EXTINF:-1 tvg-id="" tvg-name="AC536:Alafasy (Islamic)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC536PeaceTV1.png" group-title="Arab Islamic",AC536:Alafasy (Islamic)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27382
+#EXTINF:-1 tvg-id="" tvg-name="AC537:ZAD TV (Islamic)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC537PeaceTV2.png" group-title="Arab Islamic",AC537:ZAD TV (Islamic)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27381
+
+
 
 ======================================= #      BEIN SPORT / SPORT CHANNELS     # ======================================
 
