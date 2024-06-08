@@ -1,50 +1,53 @@
 #EXTM3U
 =======================================   #    MOROCCO     # =======================================
+#EXTINF:-1 tvg-id="" tvg-name="------|Arabic-Moroc|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/------|Arabic-Maroc|------.png" group-title=" Arab Moroc",------|Arabic-Moroc|------
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27555
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC118: 2M (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC118Maroc2M.png" group-title=" Arab Moroc",AC118: 2M (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2202
+#EXTINF:-1 tvg-id="" tvg-name="AC119: maghribia el-Ekhbaria (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC119Marocmaghribiael-Ekhbaria.png" group-title=" Arab Moroc",AC119: maghribia el-Ekhbaria (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2201
+#EXTINF:-1 tvg-id="" tvg-name="AC120: Medi 1 Sat (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC120MarocMedi1Sat.png" group-title=" Arab Moroc",AC120: Medi 1 Sat (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2200
+#EXTINF:-1 tvg-id="" tvg-name="AC121: Arriadia (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC121MarocArriadia.png" group-title=" Arab Moroc",AC121: Arriadia (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2199
+#EXTINF:-1 tvg-id="" tvg-name="AC122:Tele (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC122MarocOula.png" group-title=" Arab Moroc",AC122:Tele (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2198
+#EXTINF:-1 tvg-id="" tvg-name="AC123: Arrabiaa (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC123MarocArrabiaa.png" group-title=" Arab Moroc",AC123: Arrabiaa (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2197
+#EXTINF:-1 tvg-id="" tvg-name="AC124: Assadissa (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC124MarocAssadissa.png" group-title=" Arab Moroc",AC124: Assadissa (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2196
+#EXTINF:-1 tvg-id="" tvg-name="AC125: Tamazight (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC125MarocTamazight.png" group-title=" Arab Moroc",AC125: Tamazight (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2195
+#EXTINF:-1 tvg-id="" tvg-name="AC126:Medi 1 (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC126MarocTele.png" group-title=" Arab Moroc",AC126:Medi 1 (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2194
+#EXTINF:-1 tvg-id="" tvg-name="AC322:Chada (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC322HomeCinema8.png" group-title=" Arab Moroc",AC322:Chada (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27596
+#EXTINF:-1 tvg-id="" tvg-name="AC426:Aoula (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC426AoulaMaroc.png" group-title=" Arab Moroc",AC426:Aoula (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27492
+#EXTINF:-1 tvg-id="" tvg-name="AC525:Canal Atlas (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC525ALSHAHEDTV.png" group-title=" Arab Moroc",AC525:Canal Atlas (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27393
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC547:Aflam TV 7 HD (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC547SamiraTV.png" group-title=" Arab Moroc",AC547:Aflam TV 7 HD (Moroc)
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27371
 
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="General",MBC 5
-https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 
-#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="al.jazeera.english.gb" tvg-name="UK192:Al JazeeraHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK192ALJAZEERAHD.png" group-title="UK Ent",UK192:Al JazeeraHD
+http://abcnew.site:8880/3ca8013n03/asdf23e32/28867
 
-#EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="Undefined",Al Aoula International (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIH005:ALJAZEERA BALKAN" tvg-logo="" group-title="EX-YU Bosnia",BIH005:ALJAZEERA BALKAN
+http://abcnew.site:8880/3ca8013n03/asdf23e32/60947
 
-#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-logo="https://i.imgur.com/wFgljHj.png" group-title="General",Al Aoula Laayoune (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
 
-#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General",Al Maghribia (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC018:AL Sumariya" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC018ALJazeeraDocumentary.png" group-title="Arabic general",AC018:AL Sumariya
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2301
 
-#EXTINF:-1 tvg-id="AlmagharibiaTV.uk" tvg-logo="https://i.imgur.com/XE6OWcb.png" group-title="Undefined",Almagharibia TV (1080p)
-https://ythls.armelin.one/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
 
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",Arryadia (360p) [Not 24/7]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC194:Elsharq" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC194AlJazeera.png" group-title="Arabic general",AC194:Elsharq
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27724
 
-#EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/un6qTGO.png" group-title="General",Assadissa (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8
 
-#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="Undefined",Chada TV (720p)
-https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC300:AL Thanya 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC300AlJazeeraMobasher.png" group-title="Arabic general",AC300:AL Thanya 2
+http://abcnew.site:8880/3ca8013n03/asdf23e32/27618
 
-#EXTINF:-1 tvg-id="M24TV.ma" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="News",M24 TV (720p) [Not 24/7]
-https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
-
-#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
-https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
-http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TamazightTV.ma" tvg-logo="https://i.imgur.com/fm6S7we.png" group-title="General",Tamazight (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
-
-#EXTINF:-1,MA: Al Ons TV
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11163
-
-#EXTINF:-1,MA: Aflam TV
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/226057
 
 ======================================= #      BEIN SPORT / SPORT CHANNELS     # ======================================
 
