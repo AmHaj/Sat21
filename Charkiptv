@@ -1,5 +1,7 @@
-#EXTM3U
+
 =======================================   #    MOROCCO     # =======================================
+#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="------|Arabic-Moroc|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/------|Arabic-Maroc|------.png" group-title=" Arab Moroc",------|Arabic-Moroc|------
 http://abcnew.site:8880/3ca8013n03/asdf23e32/27555
 #EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC118: 2M (Moroc)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC118Maroc2M.png" group-title=" Arab Moroc",AC118: 2M (Moroc)
