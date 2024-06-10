@@ -90,6 +90,65 @@ http://abcnew.site:8880/3ca8013n03/asdf23e32/27381
 
 ======================================= #      BEIN SPORT / SPORT CHANNELS     # ======================================
 
+
+#EXTINF:-1 tvg-id="atlanta.hawks.nba.league.pass.us" tvg-name="US922:NBA ATLANTA HAWKS" tvg-logo="" group-title="USA NBA",US922:NBA ATLANTA HAWKS
+http://abcnew.site:8880/3ca8013n03/asdf23e32/60971
+
+#EXTINF:-1 tvg-id="" tvg-name="USA:-----|NBA|------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|NBA|------------------------------------.png" group-title="USA NBA",USA:-----|NBA|------------------------------------
+http://abcnew.site:8880/3ca8013n03/asdf23e32/60615
+#EXTINF:-1 tvg-id="nba.usa.us" tvg-name="US060:NBA-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US060NBA-TV.png" group-title="USA NBA",US060:NBA-TV
+http://abcnew.site:8880/3ca8013n03/asdf23e32/3108
+#EXTINF:-1 tvg-id="orlando.magic.nba.league.pass.us" tvg-name="US665:NBA ORLANDO MAGIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US665NBALeaguePass01.png" group-title="USA NBA",US665:NBA ORLANDO MAGIC
+http://abcnew.site:8880/3ca8013n03/asdf23e32/29525
+#EXTINF:-1 tvg-id="miami.heat.nba.league.pass.us" tvg-name="US666:NBA Miami Heat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US666NBALeaguePass02.png" group-title="USA NBA",US666:NBA Miami Heat
+http://abcnew.site:8880/3ca8013n03/asdf23e32/29524
+#EXTINF:-1 tvg-id="milwaukee.bucks.nba.league.pass.us" tvg-name="US667:NBA Milwaukee Bucks" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US667NBALeaguePass03.png" group-title="USA NBA",US667:NBA Milwaukee Bucks
+http://abcnew.site:8880/3ca8013n03/asdf23e32/29523
+#EXTINF:-1 tvg-id="minnesota.timberwolves.nba.league.pass.us" tvg-name="US668:NBA Minnesota Timberwolves" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US668NBALeaguePass04.png" group-title="USA NBA",US668:NBA Minnesota Timberwolves
+http://abcnew.site:8880/3ca8013n03/asdf23e32/29522
+#EXTINF:-1 tvg-id="new.orleans.pelicans.nba.league.pass.us" tvg-name="US669:NBA New Orleans Pelicans" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US669NBALeaguePass05.png" group-title="USA NBA",US669:NBA New Orleans Pelicans
+http://abcnew.site:8880/3ca8013n03/asdf23e32/29521
+#EXTINF:-1 tvg-id="new.york.knicks.nba.league.pass.us" tvg-name="US671:NBA New York Knicks" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US671NBALeaguePass07.png" group-title="USA NBA",US671:NBA New York Knicks
+http://abcnew.site:8880/3ca8013n03/asdf23e32/29519
+#EXTINF:-1 tvg-id="phoenix.suns.nba.league.pass.us" tvg-name="US670:NBA Phoenix Suns" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US670NBALeaguePass06.png" group-title="USA NBA",US670:NBA Phoenix Suns
+http://abcnew.site:8880/3ca8013n03/asdf23e32/29520
+#EXTINF:-1 tvg-id="nba.league.pass.8.us" tvg-name="US672:NBA Oklahoma City Thunders" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/" group-title="USA NBA",US672:NBA Oklahoma City Thunders
+http://abcnew.site:8880/3ca8013n03/asdf23e32/29518
+#EXTINF:-1 tvg-id="orlando.magic.nba.league.pass.us" tvg-name="US673:NBA Orlando Magic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/" group-title="USA NBA",US673:NBA Orlando Magic
+http://abcnew.site:8880/3ca8013n03/asdf23e32/29517
+#EXTINF:-1 tvg-id="philadelphia.76ers.nba.league.pass.us" tvg-name="US674:NBA Philadelphia 76ers" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/" group-title="USA NBA",US674:NBA Philadelphia 76ers
+http://abcnew.site:8880/3ca8013n03/asdf23e32/29516
+#EXTINF:-1 tvg-id="oklahoma.city.thunder.nba.league.pass.us" tvg-name="US890:NBA OKLAHOMA CITY THUNDERS" tvg-logo="" group-title="USA NBA",US890:NBA OKLAHOMA CITY THUNDERS
+http://abcnew.site:8880/3ca8013n03/asdf23e32/60228
+#EXTINF:-1 tvg-id="new.york.knicks.nba.league.pass.us" tvg-name="US921:NBA YORK KNICKS" tvg-logo="" group-title="USA NBA",US921:NBA YORK KNICKS
+http://abcnew.site:8880/3ca8013n03/asdf23e32/68774
+#EXTINF:-1 tvg-id="new.orleans.pelicans.nba.league.pass.us" tvg-name="US920:NBA ORLEANS PELICANS" tvg-logo="" group-title="USA NBA",US920:NBA ORLEANS PELICANS
+http://abcnew.site:8880/3ca8013n03/asdf23e32/68773
+#EXTINF:-1 tvg-id="minnesota.timberwolves.nba.league.pass.us" tvg-name="US919:NBA MINNESOTA TIMBERWOLVES" tvg-logo="" group-title="USA NBA",US919:NBA MINNESOTA TIMBERWOLVES
+http://abcnew.site:8880/3ca8013n03/asdf23e32/68772
+#EXTINF:-1 tvg-id="miami.heat.nba.league.pass.us" tvg-name="US929:NBA MIAMI HEAT" tvg-logo="" group-title="USA NBA",US929:NBA MIAMI HEAT
+http://abcnew.site:8880/3ca8013n03/asdf23e32/60978
+#EXTINF:-1 tvg-id="memphis.grizzlies.nba.league.pass.us" tvg-name="US928:NBA MEMPHIS GRIZZLIES" tvg-logo="" group-title="USA NBA",US928:NBA MEMPHIS GRIZZLIES
+http://abcnew.site:8880/3ca8013n03/asdf23e32/60977
+#EXTINF:-1 tvg-id="houston.rockets.nba.league.pass.us" tvg-name="US927:NBA HOUSTON ROCKETS" tvg-logo="" group-title="USA NBA",US927:NBA HOUSTON ROCKETS
+http://abcnew.site:8880/3ca8013n03/asdf23e32/60976
+#EXTINF:-1 tvg-id="detroit.pistons.nba.league.pass.us" tvg-name="US926:NBA DETROIT PISTONS" tvg-logo="" group-title="USA NBA",US926:NBA DETROIT PISTONS
+http://abcnew.site:8880/3ca8013n03/asdf23e32/60975
+
+
+#EXTINF:-1 tvg-id="dallas.mavericks.nba.league.pass.us" tvg-name="US925:NBA DALLAS MAVERICKS" tvg-logo="" group-title="USA NBA",US925:NBA DALLAS MAVERICKS
+http://abcnew.site:8880/3ca8013n03/asdf23e32/60974
+
+
+#EXTINF:-1 tvg-id="charlotte.hornets.nba.league.pass.us" tvg-name="US924:NBA CHARLOTTE HORNETS" tvg-logo="" group-title="USA NBA",US924:NBA CHARLOTTE HORNETS
+http://abcnew.site:8880/3ca8013n03/asdf23e32/60973
+
+#EXTINF:-1 tvg-id="atlanta.hawks.nba.league.pass.us" tvg-name="US922:NBA ATLANTA HAWKS" tvg-logo="" group-title="USA NBA",US922:NBA ATLANTA HAWKS
+http://abcnew.site:8880/3ca8013n03/asdf23e32/60971
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="------|Arabic-BeIN|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/------|Arabic-BeIN|------.png" group-title="Arab Bein",------|Arabic-BeIN|------
 
 
