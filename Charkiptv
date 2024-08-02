@@ -1,40 +1,6 @@
 
 =======================================   #    MOROCCO     # =======================================
 #EXTM3U
-#EXTINF:-1,•●★----| Chaine Maracaine |----★●•
-
-
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/50002
-#EXTINF:-1,MAR: Al Aoula Inter HD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46382
-#EXTINF:-1,MAR: 2M Monde
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/293
-#EXTINF:-1,MAR: Medi1TV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/292
-#EXTINF:-1,MAR: Tamazight TV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/295
-#EXTINF:-1,MAR: Assadissa
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/298
-#EXTINF:-1,MAR: Arriadia
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/296
-#EXTINF:-1,MAR: Arrabiaa
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/297
-#EXTINF:-1,MAR: Tele maroc
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46214
-#EXTINF:-1,MAR: 7 AFLAM TV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49623
-#EXTINF:-1,MAR: Numidia TV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/300
-#EXTINF:-1,MAR: Chada TV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49399
-#EXTINF:-1,MAR: CANAL ATLAS
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49994
-#EXTINF:-1,MAR:  Al Ons TV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52144
-#EXTINF:-1,MAR: LAAYOUN TV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53379
-#EXTINF:-1,MAR: Al Aoula HD TNT
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54661
 
 
 #EXTINF:-1 tvg-id="" tvg-name="------|Arabic-Moroc|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/------|Arabic-Maroc|------.png" group-title=" Arab Moroc",------|Arabic-Moroc|------
@@ -73,20 +39,8 @@ http://abcnew.site:8880/3ca8013n03/asdf23e32/28867
 #EXTINF:-1 tvg-id="" tvg-name="BIH005:ALJAZEERA BALKAN" tvg-logo="" group-title="EX-YU Bosnia",BIH005:ALJAZEERA BALKAN
 http://abcnew.site:8880/3ca8013n03/asdf23e32/60947
 
-
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC018:AL Sumariya" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC018ALJazeeraDocumentary.png" group-title="Arabic general",AC018:AL Sumariya
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2301
-
-
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC194:Elsharq" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC194AlJazeera.png" group-title="Arabic general",AC194:Elsharq
-http://abcnew.site:8880/3ca8013n03/asdf23e32/27724
-
-
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC300:AL Thanya 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC300AlJazeeraMobasher.png" group-title="Arabic general",AC300:AL Thanya 2
-http://abcnew.site:8880/3ca8013n03/asdf23e32/27618
-
 #EXTINF:-1 tvg-id="" tvg-name="------|Arabic-Islamic|------" tvg-logo="" group-title="Arab Islamic",------|Arabic-Islamic|------
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2056
+
 #EXTINF:-1 tvg-id="" tvg-name="IC001:AL afasy" tvg-logo="" group-title="Arab Islamic",IC001:AL afasy
 http://abcnew.site:8880/3ca8013n03/asdf23e32/2055
 #EXTINF:-1 tvg-id="" tvg-name="IC002:Azhari" tvg-logo="" group-title="Arab Islamic",IC002:Azhari
@@ -125,133 +79,6 @@ http://abcnew.site:8880/3ca8013n03/asdf23e32/27381
 
 ======================================= #      BEIN SPORT / SPORT CHANNELS     # ======================================
 
-
-#EXTINF:-1 tvg-id="atlanta.hawks.nba.league.pass.us" tvg-name="US922:NBA ATLANTA HAWKS" tvg-logo="" group-title="USA NBA",US922:NBA ATLANTA HAWKS
-http://abcnew.site:8880/3ca8013n03/asdf23e32/60971
-==================================================
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS NEWS HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/105523
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="BEINSPORTS | SPORTS",BEINSPORTS NEWS SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117704
-#EXTINF:0 tvg-id="BeINSports.es" group-title="BEINSPORTS | SPORTS",beIN SPORTS HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/60714
-#EXTINF:0 tvg-id="bein4Khd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/139969
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119324
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 FHD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119325
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29741
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49223
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119326
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 FHD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119327
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29740
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49222
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119328
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 FHD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119329
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29739
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49221
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119330
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 FHD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119331
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29738
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49220
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119332
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 FHD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119333
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29737
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49219
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119334
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 FHD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119335
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29736
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49218
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119336
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 FHD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119337
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29735
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49217
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 8 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119338
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 8 FHD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119339
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 8  HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119354
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 9 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119340
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 9 FHD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119341
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 9 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119355
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 1 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117706
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 1 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117707
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 2 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117708
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 2 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117709
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 3 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119972
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 3 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119973
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 1 EN HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117718
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 1 EN 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/142147
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 2 EN HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117720
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 2 EN 4K
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/142148
-#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="BEINSPORTS | SPORTS",beIN SPORTS ñ HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/74212
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS LA LIGA HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/71962
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="BEINSPORTS | SPORTS",beIN SPORTS NBA HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/52120
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117710
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117711
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 1 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117712
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 1 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117713
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 2 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117714
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 2 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117715
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 3 HD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117716
-#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 3 SD
-http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117717
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="USA:-----|NBA|------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|NBA|------------------------------------.png" group-title="USA NBA",USA:-----|NBA|------------------------------------
-http://abcnew.site:8880/3ca8013n03/asdf23e32/60615
 
 #EXTINF:-1 tvg-id="" tvg-name="------|Arabic-BeIN|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/------|Arabic-BeIN|------.png" group-title="Arab Bein",------|Arabic-BeIN|------
 
