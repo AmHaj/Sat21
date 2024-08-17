@@ -2,6 +2,55 @@
 =======================================   #    MOROCCO     # =======================================
 
 #EXTM3U
+
+#EXTINF:-1,MA: 2M Monde
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11261
+
+#EXTINF:-1,MA: Aflam TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/226057
+
+#EXTINF:-1,MA: Al Aoula
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1292
+
+#EXTINF:-1,MA: Al Maghribia
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1285
+
+#EXTINF:-1,MA: Al Ons TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11163
+
+#EXTINF:-1,MA: Arrabiaa
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/265144
+
+#EXTINF:-1,MA: Arryadia
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11173
+
+#EXTINF:-1,MA: Assadissa
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1274
+
+#EXTINF:-1,MA: Athaqafia
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/268950
+
+#EXTINF:-1,MA: Chada TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/18246
+
+#EXTINF:-1,MA: El Medina TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296537
+#EXTINF:-1,MA: Laayoune
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296534
+#EXTINF:-1,MA: M24 TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/165430
+#EXTINF:-1,MA: Medi 1 TV Afrique
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/269424
+#EXTINF:-1,MA: Medi 1 TV Arabic
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1237
+#EXTINF:-1,MA: Medi 1 TV Maghreb
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/269458
+#EXTINF:-1,MA: Tamazight
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1213
+#EXTINF:-1,MA: Tele Maroc
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/225140
+
+
 #EXTINF:-1 tvg-id="2MInternational.ma",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
