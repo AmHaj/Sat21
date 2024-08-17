@@ -7,7 +7,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tu
 
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma",Al Aoula International (360p)
 
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/Al Aoula International/hls_video_ts_tuhawxpiemz257adfc/Al Aoula International.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/AlAoulaInternational/hls_video_ts_tuhawxpiemz257adfc/AlAoulaInternational.m3u8
 
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
