@@ -1,6 +1,25 @@
 ========================== #    MOROCCO     # ==========================
 #EXTM3U
 
+#EXTINF:0 CUID="52" tvg-name="Al.Aoula.Inter" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Al.Aoula.Inter.png" group-title="Maroco المغرب ",Al.Aoula.Inter
+http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/133
+#EXTINF:0 CUID="53" tvg-name="2M.Maroc" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_2M.Maroc.png" group-title="Maroco المغرب ",2M.Maroc
+http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/134
+#EXTINF:0 CUID="54" tvg-name="ma: Arriadia" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Arriadia.png" group-title="Maroco المغرب ",ma: Arriadia
+http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/135
+#EXTINF:0 CUID="55" tvg-name="Athaqafia" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Athaqafia.png" group-title="Maroco المغرب ",Athaqafia
+http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/136
+#EXTINF:0 CUID="56" tvg-name="Al.Maghribia" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Al.Maghribia.png" group-title="Maroco المغرب ",Al.Maghribia
+http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/137
+#EXTINF:0 CUID="57" tvg-name="Assadissa" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Assadissa.png" group-title="Maroco المغرب ",Assadissa
+http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/138
+#EXTINF:0 CUID="58" tvg-name="Tamazight" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Tamazight.png" group-title="Maroco المغرب ",Tamazight
+http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/140
+#EXTINF:0 CUID="59" tvg-name="Tele.Maroc" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Tele.Maroc.png" group-title="Maroco المغرب ",Tele.Maroc
+http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/141
+#EXTINF:0 CUID="60" tvg-name="Medi1.Tv" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Medi1.Tv.png" group-title="Maroco المغرب ",Medi1.Tv
+http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/142
+===============================================================================================================================
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
