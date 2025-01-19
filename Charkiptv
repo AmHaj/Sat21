@@ -10,6 +10,18 @@ http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/134
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0", referer="https://2m.ma",2M MONDE الثانية
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" user-agent="ExoPlayerDemo/2.0.6 (Linux;Android 14) ExoPlayerLib/2.14.0", referer="https://2m.ma",2M MONDE (exopl) الثانية
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png",2M MONDE (n/f) الثانية
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" referer="https://2m.ma/",2M MONDE الثانية (backupoff)
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png",2M MONDE الثانية (backupon)
+https://tgn.bozztv.com/trn03/gin-2monde/index.m3u8
+
 #EXTINF:0 CUID="54" tvg-name="ma: Arriadia" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Arriadia.png" group-title="Maroco المغرب ",ma: Arriadia
 http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/135
 #EXTINF:0 CUID="55" tvg-name="Athaqafia" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Athaqafia.png" group-title="Maroco المغرب ",Athaqafia
