@@ -1,7 +1,49 @@
 ========================== #    MOROCCO     # ==========================
 #EXTM3U
 
+#EXTINF:-1 tvg-id="KOMUDT1.us",NBC
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 tvg-id="KMIZDT1.us",ABC 
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+#EXTINF:-1 tvg-id="KRCGDT1.us",CBS
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:-1 tvg-id="KQFXLD1.us",FOX
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:-1 tvg-id="KOMUDT3.us",CW
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 tvg-id="WOLO-DT1.us",ABC
+http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ESPN",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2",ESPN 2
+https://v12.thetvapp.to/hls/ESPN2/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
+#EXTINF:-1 tvg-id="TSN 1",TSN 1
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN 2",TSN 2
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN 3",TSN 3
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN 4",TSN 4
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN 5",TSN 5
+http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="TNT",TNT
+http://208.86.19.13:81/16.stream/index.m3u8
+#EXTINF:-1 tvg-id="MSG",MSG
+https://v1.thetvapp.to/hls/msg-madison-square-gardens/index.m3u8
+#EXTINF:-1 tvg-id="TBS",TBS
+http://143.244.60.30/TBS/index.m3u8
 
+#EXTINF:-1 tvg-id="NBC Sports",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="ESPN Premium",ESPN Premium
+http://45.184.87.142:8000/play/a045
+
+#EXTINF:-1 tvg-id="FOX NEWS",FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png",2M MONDE الثانية (backupon)
 https://tgn.bozztv.com/trn03/gin-2monde/index.m3u8
