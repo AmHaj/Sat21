@@ -3,20 +3,33 @@
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (1080p) [Geo-blocked]
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KOMUDT1.us",NBC
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+
 #EXTINF:-1 tvg-id="KMIZDT1.us",ABC 
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 tvg-id="KRCGDT1.us",CBS
-https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 tvg-id="KQFXLD1.us",FOX
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:-1 tvg-id="KOMUDT3.us",CW
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+
 #EXTINF:-1 tvg-id="WOLO-DT1.us",ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="ABC News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ABC-News.png",ABC News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="KRCGDT1.us",CBS
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+
+#EXTINF:-1 tvg-id="KQFXLD1.us",FOX
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+
+#EXTINF:-1 tvg-id="KOMUDT3.us",CW
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+
 #EXTINF:-1 tvg-id="ESPN",ESPN
 http://41.205.93.154/ESPN/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 2",ESPN 2
 https://v12.thetvapp.to/hls/ESPN2/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
 #EXTINF:-1 tvg-id="TSN 1",TSN 1
@@ -49,90 +62,34 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png",2M MONDE الثانية (backupon)
-https://tgn.bozztv.com/trn03/gin-2monde/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png",2M MONDE الثانية (backupon)
-https://tgn.bozztv.com/trn03/gin-2monde/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png",2M MONDE الثانية (backupon)
-https://tgn.bozztv.com/trn03/gin-2monde/index.m3u8
-
-#EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="Morocco",Al Aoula International (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-logo="https://i.imgur.com/wFgljHj.png" group-title="Morocco",Al Aoula Laâyoune (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/al_aoula_laayoune/hls_snrt/index.m3u8
-
-#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="Morocco",Al Maghribia (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Morocco",Arryadia (360p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
-
-#EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/un6qTGO.png" group-title="Morocco",Assadissa (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Athaqafia.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="Morocco",Athaqafia (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/arrabiaa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="Morocco",Chada TV (720p)
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="Morocco",Medi 1 TV Arabic (1080p) [Not 24/7]
 https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="Morocco",Medi 1 TV Maghreb (1080p) [Not 24/7]
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Morocco",National Geographic Abu Dhabi (1080p) [Geo-blocked]
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="TamazightTV.ma" tvg-logo="https://i.imgur.com/fm6S7we.png" group-title="Morocco",Tamazight (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeMaghrebOrient.fr" tvg-logo="https://i.imgur.com/tqz4M37.png" group-title="Morocco",TV5Monde Maghreb-Orient (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+
+
 #EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Morocco",Africa 24 (540p)
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-id="Africa24English.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Morocco",Africa 24 English (1080p)
-https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-id="AfricanewsEnglish.fr" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="Morocco",Africanews
-https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="Morocco",AfricaNews Français (720p)
-https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Morocco",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Morocco",Al Jazeera Documentary (1080p)
-https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" referer="https://snrtlive.ma/",Al AOULA INT الأولى
-https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="AlJazeera.qa" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png",Al Jazeera English
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0", referer="https://2m.ma",2M MONDE الثانية
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0", referer="https://2m.ma",2M MONDE الثانية
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" user-agent="ExoPlayerDemo/2.0.6 (Linux;Android 14) ExoPlayerLib/2.14.0", referer="https://2m.ma",2M MONDE (exopl) الثانية
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png",2M MONDE (n/f) الثانية
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" referer="https://2m.ma/",2M MONDE الثانية (backupoff)
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-
-http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/142
-===============================================================================================================================
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 =================================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",beIN SPORTS XTRA
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794334-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b4faa7-f3ac-4f6d-9967-3f409d4c6863
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",beIN SPORTS XTRA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
@@ -146,111 +103,17 @@ https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Movies",Rotana Cinema KSA (1080p)
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RotanaTarabJordanControlStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s257050/images/logod.jpg" group-title="Undefined",Rotana Tarab Jordan: Control Studio (180p) [Not 24/7]
-http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="General",MBC Bollywood (1080p) [Geo-blocked]
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
-#EXTINF:-1 tvg-id="AhlAlquranTV.sa" tvg-logo="https://i.imgur.com/xeQvi2z.png" group-title="Religious",Ahl-Alquran TV (360p)
-https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
-
-#EXTINF:-1 tvg-id="IqraaArabic.sa" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Religious",Iqraa (576p) [Not 24/7]
-https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
-
-#EXTINF:-1 tvg-id="AhlAlquranTV.sa" tvg-logo="https://i.imgur.com/xeQvi2z.png" group-title="Religious",Ahl-Alquran TV (360p)
-https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
-
-#EXTINF:-1 tvg-id="al.jazeera.english.gb" tvg-name="UK192:Al JazeeraHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK192ALJAZEERAHD.png" group-title="UK Ent",UK192:Al JazeeraHD
-http://abcnew.site:8880/3ca8013n03/asdf23e32/28867
-
-#EXTINF:-1 tvg-id="" tvg-name="BIH005:ALJAZEERA BALKAN" tvg-logo="" group-title="EX-YU Bosnia",BIH005:ALJAZEERA BALKAN
-http://abcnew.site:8880/3ca8013n03/asdf23e32/60947
-
-#EXTINF:-1 group-title="TV" tvg-id="AlJazeera.qa" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png",Al Jazeera English
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
-https://youtube.com/watch?v=h3MuIUNCCzI
-
-#EXTINF:-1 group-title="TV" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Français
-https://youtube.com/watch?v=gxG3pdKvlIs
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Arabic
-https://youtube.com/watch?v=8BZpOolYLUA
-
-#EXTINF:-1 group-title="TV" tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV",Fox Now
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="ABC News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ABC-News.png",ABC News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CBSN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",CBS News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="NBC News Now" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png",NBC News Now
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5-Monde-Info.png",TV5 Monde Info
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="------|Arabic-Islamic|------" tvg-logo="" group-title="Arab Islamic",------|Arabic-Islamic|------
-
-#EXTINF:-1 tvg-id="" tvg-name="IC001:AL afasy" tvg-logo="" group-title="Arab Islamic",IC001:AL afasy
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2055
-#EXTINF:-1 tvg-id="" tvg-name="IC002:Azhari" tvg-logo="" group-title="Arab Islamic",IC002:Azhari
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2054
-#EXTINF:-1 tvg-id="" tvg-name="IC003:Albasira Islamic" tvg-logo="" group-title="Arab Islamic",IC003:Albasira Islamic
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2053
-#EXTINF:-1 tvg-id="" tvg-name="IC005:AL Nas tv" tvg-logo="" group-title="Arab Islamic",IC005:AL Nas tv
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2051
-#EXTINF:-1 tvg-id="" tvg-name="IC007:AL Rahma" tvg-logo="" group-title="Arab Islamic",IC007:AL Rahma
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2049
-#EXTINF:-1 tvg-id="" tvg-name="IC008:AL Resalah" tvg-logo="" group-title="Arab Islamic",IC008:AL Resalah
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2048
-#EXTINF:-1 tvg-id="" tvg-name="IC010:Iqraa" tvg-logo="" group-title="Arab Islamic",IC010:Iqraa
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2046
-#EXTINF:-1 tvg-id="" tvg-name="IC011:Mecca" tvg-logo="" group-title="Arab Islamic",IC011:Mecca
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2045
-
-#EXTINF:-1 tvg-id="" tvg-name="IC013:Saudi Quran" tvg-logo="" group-title="Arab Islamic",IC013:Saudi Quran
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2043
-#EXTINF:-1 tvg-id="" tvg-name="IC014:AL INSAN" tvg-logo="" group-title="Arab Islamic",IC014:AL INSAN
-http://abcnew.site:8880/3ca8013n03/asdf23e32/2042
-#EXTINF:-1 tvg-id="" tvg-name="AC265:Wesal TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC265WesalTV.png" group-title="Arab Islamic",AC265:Wesal TV
-http://abcnew.site:8880/3ca8013n03/asdf23e32/27653
-#EXTINF:-1 tvg-id="" tvg-name="AC280:FOX REWAYAT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC280ALErthAlnabawi.png" group-title="Arab Islamic",AC280:FOX REWAYAT HD
-http://abcnew.site:8880/3ca8013n03/asdf23e32/27638
-#EXTINF:-1 tvg-id="" tvg-name="AC319:Ahel Alquran (Islamic)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC319AhelAlquranIslamic.png" group-title="Arab Islamic",AC319:Ahel Alquran (Islamic)
-http://abcnew.site:8880/3ca8013n03/asdf23e32/27599
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC348:Azhari TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC348AzhariTV.png" group-title="Arab Islamic",AC348:Azhari TV
-http://abcnew.site:8880/3ca8013n03/asdf23e32/27570
-#EXTINF:-1 tvg-id="" tvg-name="AC536:Alafasy (Islamic)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC536PeaceTV1.png" group-title="Arab Islamic",AC536:Alafasy (Islamic)
-http://abcnew.site:8880/3ca8013n03/asdf23e32/27382
-#EXTINF:-1 tvg-id="" tvg-name="AC537:ZAD TV (Islamic)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC537PeaceTV2.png" group-title="Arab Islamic",AC537:ZAD TV (Islamic)
-http://abcnew.site:8880/3ca8013n03/asdf23e32/27381
 
 
 
@@ -260,42 +123,19 @@ http://abcnew.site:8880/3ca8013n03/asdf23e32/27381
 
 =================================== #      ARABIC  CHANNELS    #==============================================================
 
-#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Arabic (1080p)
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News",Al Jazeera Mubasher (1080p)
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 
-#EXTINF:-1 tvg-id="AhlAlquranTV.sa" tvg-logo="https://i.imgur.com/xeQvi2z.png" group-title="Religious",Ahl-Alquran TV (360p)
-https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 
-#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="General",Ajyal TV (720p)
-http://htvmada.mada.ps:8888/ajyal/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="News",Al Alam (360p) [Not 24/7]
 https://live2.alalam.ir/alalam.m3u8
-
-#EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-logo="https://i.imgur.com/5FrE3Nv.png" group-title="Undefined",Al Alamiya 2
-http://82.212.74.98:8000/live/7815.m3u8
 
 #EXTINF:-1 tvg-id="Alarabiya.ae" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="News",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" group-title="Business",Al Arabiya Business (1080p)
 https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
-
-#EXTINF:-1 tvg-id="AlAyyamTV.iq" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ayam-tv.png" group-title="Undefined",Al Ayyam TV
-http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="News",Al Ekhbariya (1080p)
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
-
-#EXTINF:-1 tvg-id="AlEshraqTV.iq" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="Undefined",Al Eshraq TV
-http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlHadath.ae" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="News",Al Hadath TV (1080p)
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
@@ -306,29 +146,11 @@ https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaNews.iq" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News",Al Iraqia News (720p)
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlKaheraWalNas.eg" tvg-logo="https://i.imgur.com/xa7RK5p.png" group-title="Undefined",Al Kahera Wal Nas (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
-
 #EXTINF:-1 tvg-id="AlKhalijTV.sa" tvg-logo="https://i.imgur.com/Knd2lAQ.png" group-title="General",Al Khalij (720p) [Not 24/7]
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlMaaliTV.kw" tvg-logo="https://i.imgur.com/oEdApMA.png" group-title="Religious",Al Maali TV (1080p)
-https://kali.vdopanel.com:3986/live/mbashalive.m3u8
-
-#EXTINF:-1 tvg-id="AlMaarefTV.kw" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="Religious",Al Maaref (350p)
-https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="General",Al Mamlaka TV (1080p)
-https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-
-#EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="News",Al Masar TV (576p)
-https://master.starmena-cloud.com/hls/almasar.m3u8
-
 #EXTINF:-1 tvg-id="AlMashhad.ae" tvg-logo="https://i.imgur.com/6G6fxs5.png" group-title="Undefined",Al Mashhad (1080p)
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="News",Al Masirah (720p) [Not 24/7]
-https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="News",Al Mayadeen (576p)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
@@ -336,41 +158,11 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQaheraNews.eg" tvg-logo="https://i.imgur.com/37t7yfO.png" group-title="News",Al Qahera News (1080p) [Not 24/7]
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="Religious",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/7.m3u8
-
-#EXTINF:-1 tvg-id="AlRabiaaTV.iq" tvg-logo="https://i.imgur.com/3a98qcO.png" group-title="General",Al Rabiaa TV (1080p)
-https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="AlRahma.eg" tvg-logo="https://i.imgur.com/bK9LWJp.png" group-title="Undefined",Al Rahma (720p)
-https://ythls.armelin.one/channel/UCY9j0n2-prtlMHUnnLA9dTw.m3u8
-
-#EXTINF:-1 tvg-id="AlRasheedTV.iq" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="General",Al Rasheed (408p) [Not 24/7]
-https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="AlRiyadhRadio.sa" tvg-logo="https://i.imgur.com/8PH1Lak.png" group-title="Undefined",Al Riyadh Radio (720p)
-https://edge.taghtia.com/sa/12.m3u8
-
-#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="General",Al Saudiya (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/2.m3u8
-
-#EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="Undefined",Al Saudiya Alaan (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/17.m3u8
-
 #EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-logo="https://i.imgur.com/WGX5SCx.png" group-title="General",Al Sharqiya Min Kabla (1080p)
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",Al Sharqiya News (1080p)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/6.m3u8
-
-#EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-logo="https://i.imgur.com/OpHjfYV.png" group-title="General",Al Wousta TV (1080p)
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="News",Al Yaum TV (720p)
-https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
 
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="General",Al-Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
@@ -393,21 +185,9 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Alhurra.us" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="News",Alhurra (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="AlhurraIraq.us" tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="News",Alhurra Iraq (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-
-#EXTINF:-1 tvg-id="Alquran.iq" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Religious",Alquran (1080p)
-https://ktv.imamhussain.org/stream/hls/ch1.m3u8
-
-#EXTINF:-1 tvg-id="AlraiTV.kw" tvg-logo="https://i.imgur.com/ZohZFuq.png" group-title="Entertainment",Alrai TV (1080p)
-https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AltaghierTV.jo" tvg-logo="https://i.imgur.com/YTyCBvB.png" group-title="Undefined",Altaghier TV (1080p)
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 https://stream.castr.com/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/rewind-3600.m3u8
-
-#EXTINF:-1 tvg-id="AlwasatTV.ly" tvg-logo="https://i.imgur.com/rwY4sih.png" group-title="Undefined",Alwasat TV (1080p) [Not 24/7]
-https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ALWifakNewsTV.lb" tvg-logo="https://i.imgur.com/1vqhmNz.png" group-title="Undefined",ALWifak News TV (720p)
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
@@ -417,9 +197,6 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Athaqafia.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="Undefined",Arrabiaa (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
 
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary;Education",Asharq Discovery (1080p) [Geo-blocked]
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
@@ -436,9 +213,6 @@ https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/62
 #EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="Kids",Atfal & Mawaheb TV (1080p)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ayaat.sa" tvg-logo="https://i.imgur.com/PUUb1gI.png" group-title="Undefined",Ayaat (720p)
-https://ythls.armelin.one/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8
-
 #EXTINF:-1 tvg-id="BahrainInternational.bh" tvg-logo="https://i.imgur.com/t6Lmntr.png" group-title="Undefined",Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 
@@ -451,112 +225,28 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 
-#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="News",CGTN Arabic (576p) [Not 24/7]
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
-#EXTINF:-1 tvg-id="Channel24Saudi.sa" tvg-logo="https://i.imgur.com/gns6lgs.png" group-title="Undefined",Channel 24 Saudi (720p)
-https://ythls.armelin.one/channel/UCQeyQKc5p0d4B89K-DCzX5Q.m3u8
 
-#EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="Business",CNBC Arabia (1080p)
-https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 
-#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="General",Dubai TV (1080p)
-https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/5Q5qMzP.png" group-title="Classic",Dubai Zaman (1080p) [Not 24/7]
-https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DuhkWaBas.sa" tvg-logo="https://i.imgur.com/kd80BpV.png" group-title="Undefined",Duhk Wa Bas (1080p) [Geo-blocked]
-https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
 
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="News",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-logo="https://i.imgur.com/TNtjYcw.png" group-title="News",Echorouk News (576p) [Not 24/7]
-https://bledflix-echorouk-news.b-cdn.net/master.m3u8
-
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.imgur.com/FtrSAqu.png" group-title="Undefined",Echorouk TV (576p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-logo="https://i.imgur.com/8vmfZb5.png" group-title="General",Elsharq TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ENTV.sa" tvg-logo="https://i.imgur.com/KnKTjev.png" group-title="General",EN TV
-http://82.212.74.100:8000/live/8130.m3u8
-
-#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-logo="https://i.imgur.com/C0TCA1s.png" group-title="Undefined",Ennahar TV (576p) [Not 24/7] [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://ennahar.dzsecurity.net
-https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
-#
-#EXTINF:-1 tvg-id="EssaidaTV.tn" tvg-logo="https://www.essaidafm.com/images/radio/logo_ar.png" group-title="Culture",Essaida TV
-https://essaidatv.dextream.com/hls/stream/index.m3u8
-
-#EXTINF:-1 tvg-id="ExtraLive.eg" tvg-logo="https://i.imgur.com/Cv2O0Cj.png" group-title="News",eXtra Live (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
-
-#EXTINF:-1 tvg-id="ExtraNews.eg" tvg-logo="https://i.imgur.com/9HREF7o.png" group-title="News",eXtra News (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
-
-#EXTINF:-1 tvg-id="FebruaryChannel.ly" tvg-logo="https://i.imgur.com/WdMIpsA.png" group-title="Undefined",February Channel (1080p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24 Arabic (1080p)
-https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
-
 #EXTINF:-1 tvg-id="FujairahTV.ae" tvg-logo="https://i.imgur.com/D2tOhbE.png" group-title="Undefined",Fujairah TV (720p)
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HalaLondonTVMovies.uk" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="Movies",Hala London TV Movies (720p)
-https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Aflam/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HalaLondonTVSeries.uk" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="Series",Hala London TV Series (720p)
-https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Series/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HalaTV.il" tvg-logo="https://i.imgur.com/028M4Ew.png" group-title="Undefined",Hala TV (1080p) [Not 24/7]
-https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HalabTodayTV.sy" tvg-logo="https://i.imgur.com/fY8UKs7.png" group-title="News",Halab Today TV (480p) [Not 24/7]
-https://ythls.armelin.one/channel/UCnh5Faqn_r9HxeNd_dsvGHQ.m3u8
-
-#EXTINF:-1 tvg-id="i24NEWSArabic.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",I24 News Arabic (720p)
-https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-
-#EXTINF:-1 tvg-id="iFilmArabic.ir" tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="Movies",iFilm Arabic
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IFMTV.tn" tvg-logo="https://i.imgur.com/9oEaZ9Y.png" group-title="Music",IFM TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
-
-#EXTINF:-1 tvg-id="INews.iq" tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="News",iNEWS TV (1080p)
-https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IqraaArabic.sa" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Religious",Iqraa (576p) [Not 24/7]
-https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
-
-#EXTINF:-1 tvg-id="KaifTV.sa" tvg-logo="https://i.imgur.com/mkzRTuE.png" group-title="Religious",Kaif TV (576p) [Not 24/7]
-http://82.212.74.2:8000/live/hls/7311.m3u8
-
-#EXTINF:-1 tvg-id="KaifaTV.jo" tvg-logo="https://i.imgur.com/zGGeSQg.png" group-title="Undefined",Kaifa TV (576p)
-http://82.212.74.2:8000/live/7311.m3u8
-
-#EXTINF:-1 tvg-id="MajanTV.om" tvg-logo="https://i.imgur.com/ElU85r7.png" group-title="General",Majan TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCrJDHlh0u9KdOB7A559n7uA.m3u8
-
-#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids",Majid TV (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-
-#EXTINF:-1 tvg-id="Makan33.il" tvg-logo="https://i.imgur.com/RVtQTed.png" group-title="Undefined",Makan 33 (1080p)
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Religious",Makkah TV (576p)
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MarinaTV.kw" tvg-logo="https://i.imgur.com/F2PzEaw.png" group-title="Undefined",Marina TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC1TelTm8bbY2jw0guInSvBA.m3u8
 
-#EXTINF:-1 tvg-id="Mawwal.ps" tvg-logo="https://www.mawwal.ps/ar/wp-content/uploads/2015/01/download1.jpg" group-title="Undefined",Mawwal (720p) [Not 24/7]
-http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="MBC1USA.us" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1
 https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
@@ -564,8 +254,6 @@ https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 EUR (1080p)
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="General",MBC 4 (1080p)
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
