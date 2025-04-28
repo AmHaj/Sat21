@@ -73,6 +73,21 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 ====================================================================        #    MOROCCO     # ==================================================================== 
 
+#EXTINF:-1,2M MAROC HD
+http://149.62.177.103:8000/play/a09w
+
+#EXTINF:-1,Arryadia HD
+http://149.62.177.103:8000/play/a09x
+
+#EXTINF:-1,Arryadia HD1
+http://149.62.177.103:8000/play/a09y
+
+#EXTINF:-1,Arryadia HD2
+http://149.62.177.103:8000/play/a09z
+
+#EXTINF:-1,Arryadia HD3
+http://149.62.177.103:8000/play/a0a0
+
 #EXTINF:-1,Mbc5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
 
@@ -89,6 +104,28 @@ https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 
 ================================================================= #      ARABIC  CHANNELS    #===============================================================================
+
+#EXTINF:-1,AL RAHMA
+http://149.62.177.67:8080/play/a0zf/index.m3u8
+#EXTINF:-1,AL RASHEED TV HD
+
+http://149.62.177.67:8080/play/a0ir/index.m3u8
+#EXTINF:-1,AL Resala
+http://149.62.177.67:8080/play/a0s4/index.m3u8
+
+
+#EXTINF:-1,Misr Quran Kareem
+http://149.62.177.103:8000/play/a08i
+
+#EXTINF:-1,Saudi Ch for Sunnah HD
+http://149.62.177.103:8000/play/a00z
+
+#EXTINF:-1,Saudi TV HD
+http://149.62.177.103:8000/play/a00t
+
+#EXTINF:-1,Saudi ch for Quran HD
+http://149.62.177.103:8000/play/a00y
+
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Morocco",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
@@ -284,6 +321,11 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 
 ======================================= #      BEIN SPORT / SPORT CHANNELS     # ======================================
+#EXTINF:-1,beIN SPORTS
+http://154.58.202.131:8000/play/a07s
+
+#EXTINF:-1,beIN SPORTS NEWS
+http://154.58.202.131:8000/play/a034
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",beIN SPORTS XTRA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
