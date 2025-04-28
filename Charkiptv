@@ -76,6 +76,21 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1,2M MAROC HD
 http://149.62.177.103:8000/play/a09w
 
+#EXTINF:-1,Assadissa HD
+http://185.236.229.62:9981/play/a085
+
+#EXTINF:-1,Al Aoula Inter
+http://185.236.229.62:9981/play/a084
+
+#EXTINF:-1,Al Aoula Inter HD
+http://185.236.229.62:9981/play/a082
+
+#EXTINF:-1,Al Maghribia HD
+http://185.236.229.62:9981/play/a080
+
+#EXTINF:-1,Arryadia HD
+http://185.236.229.62:9981/play/a086
+
 #EXTINF:-1,Arryadia HD
 http://149.62.177.103:8000/play/a09x
 
@@ -87,6 +102,10 @@ http://149.62.177.103:8000/play/a09z
 
 #EXTINF:-1,Arryadia HD3
 http://149.62.177.103:8000/play/a0a0
+
+#EXTINF:-1,Tamazight HD
+http://185.236.229.62:9981/play/a087
+
 
 #EXTINF:-1,Mbc5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
