@@ -35,9 +35,6 @@ https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="FOX NEWS",FOX NEWS
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KQFXLD1.us",FOX
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 
@@ -58,9 +55,6 @@ https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/60579
 
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",Al Sharqiya News (1080p)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="General",Al-Sharqiya (1080p)
-https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlArabyTV2.uk" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News",Alaraby 2 TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
@@ -87,11 +81,6 @@ https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 
 #EXTINF:-1 tvg-id="KOMUDT3.us",CW
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-
-
-
-
-
 
 ========================================== #      SPORT     #==========================================
 
@@ -169,7 +158,6 @@ http://149.62.177.103:8000/play/a0a0
 #EXTINF:-1,Tamazight HD
 http://185.236.229.62:9981/play/a087
 
-
 #EXTINF:-1,Mbc5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
 
@@ -206,6 +194,9 @@ http://149.62.177.103:8000/play/a00t
 
 #EXTINF:-1,Saudi ch for Quran HD
 http://149.62.177.103:8000/play/a00y
+
+#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="General",Al-Sharqiya (1080p)
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Movies",Rotana Cinema KSA (1080p)
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
