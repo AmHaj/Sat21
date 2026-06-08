@@ -3,6 +3,24 @@
 
 ============================================================= #      BEIN SPORT / SPORT CHANNELS     # ============================================================
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR| ALWAN SPORT 1 HD
+http://185.160.192.64:80/mangin15/85784/402388
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR| ALWAN SPORT 2 HD
+http://185.160.192.64:80/mangin15/85784/402385
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR| ALWAN SPORT 2 FHD
+http://185.160.192.64:80/mangin15/85784/402383
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR| ALWAN SPORT 3 HD
+http://185.160.192.64:80/mangin15/85784/402382
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR| ALWAN SPORT 4 HD
+http://185.160.192.64:80/mangin15/85784/402379
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR| ALWAN SPORT 5 HD
+http://185.160.192.64:80/mangin15/85784/402376
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR| ALWAN SPORT 6 HD
+http://185.160.192.64:80/mangin15/85784/402373
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="SHAREEXT@ ARABIAN || SPORTS",ARABIC: BEIN SPORTS 1
 http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/841
 
@@ -25,8 +43,7 @@ http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/846
 http://185.160.192.64:80/mangin15/85784/13682
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR | BEIN SPORTS 2 HD
 http://185.160.192.64:80/mangin15/85784/13680
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR | BEIN SPORTS 3 HD
-http://185.160.192.64:80/mangin15/85784/13678
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR | BEIN SPORTS 4 HD
 http://185.160.192.64:80/mangin15/85784/13676
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR | BEIN SPORTS 5 HD
